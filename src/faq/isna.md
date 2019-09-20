@@ -1,4 +1,4 @@
 ---
-title: Questions about Intersex Society of North America
+title: "Questions about Intersex Society of North America"
 ---
 

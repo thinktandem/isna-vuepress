@@ -1,5 +1,5 @@
 ---
-title: Intersex conditions
+title: "Intersex conditions"
 ---
 
 The following is a list of disorders of sex development that sometimes involve [intersex anatomy][1].

@@ -1,5 +1,5 @@
 ---
-title: Links to Support Groups by Category
+title: "Links to Support Groups by Category"
 ---
 
   * [Androgen Insensitivity Syndrome][1]* [Congenital Adrenal Hyperplasia][2]* [General Intersex Information/Groups][3]* [Hypospadias][4]* [Klinefelter Syndrome][5]* [Mayer Rokitansky Kuster Hauser Syndrome][6]* [Mosaic Turner's Syndrome][7]* [Other Resources][8]* [Other Support Groups][9]* [Polycystic Ovary Syndrome][10]* [Testicular Dysgenesis][11]* [Transgender][12]* [Turner Syndrome][13]* [<span class="caps">XXYY</span>][14]

@@ -1,4 +1,4 @@
 ---
-title: gonadal dysgenesis (partial & complete)
+title: "gonadal dysgenesis (partial & complete)"
 ---
 

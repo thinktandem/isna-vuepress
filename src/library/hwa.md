@@ -1,8 +1,8 @@
 ---
-title: Hermaphrodites with Attitude
+title: "Hermaphrodites with Attitude"
 ---
 
-!/files/hwa/nameplate.gif (Hermaphrodites with Attitude nameplate)!\n\nHermaphrodites with Attitude was the occasional newsletter of <span class="caps">ISNA</span>, published from December 1994 thru Spring 2003. Here are all the back issues, in pdf form.\n\n Winter 1995 [pdf][1] \n Summer 1995 [pdf][2] \n Spring 1995 [pdf][3] \n Winter 1996 [pdf][4] \n Fall 1997 [pdf][5] \n Summer 1998 [pdf][6] \n Fall 1999 [pdf][7] \n February 2001 [pdf][8] \n May 2001 [pdf][9] \n Fall 2002 [pdf][10] \n Spring 2003 [pdf][11] \n Summer 2003 [pdf][12] \n Winter 2005 [pdf][13] \n<!--break-->
+!/files/hwa/nameplate.gif (Hermaphrodites with Attitude nameplate)!<br><br>Hermaphrodites with Attitude was the occasional newsletter of <span class="caps">ISNA</span>, published from December 1994 thru Spring 2003. Here are all the back issues, in pdf form.<br><br> Winter 1995 [pdf][1] <br> Summer 1995 [pdf][2] <br> Spring 1995 [pdf][3] <br> Winter 1996 [pdf][4] <br> Fall 1997 [pdf][5] <br> Summer 1998 [pdf][6] <br> Fall 1999 [pdf][7] <br> February 2001 [pdf][8] <br> May 2001 [pdf][9] <br> Fall 2002 [pdf][10] <br> Spring 2003 [pdf][11] <br> Summer 2003 [pdf][12] <br> Winter 2005 [pdf][13] <br><!--break-->
 
  [1]: /files/hwa/winter1995.pdf
  [2]: /files/hwa/summer1995.pdf

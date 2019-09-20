@@ -1,5 +1,5 @@
 ---
-title: The Missing Vagina Monologue
+title: "The Missing Vagina Monologue"
 ---
 
 To read the most recent version of [The Missing Vagina Monologue][1] please [click here][1].

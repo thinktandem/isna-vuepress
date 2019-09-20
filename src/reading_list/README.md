@@ -1,10 +1,10 @@
 ---
-title: Reading List (Where to Learn More)
+title: "Reading List (Where to Learn More)"
 ---
 
-  * [Websites][1]* [Support Groups and Diagnosis-Specific Information][2]* [Finding a Child Psychologist][3]* [Books Devoted to <span class="caps">DSD</span> Issues][4]* [Videos and Television Broadcasts][5]* [Journal and Magazine Articles][6]* [General Parenting][7]* [Sex Education for Your Child][8]* [Photos of Real People with <span class="caps">DSD</span>s][9] (at <span class="caps">DSD</span> Guidelines)\n* [Photos of Real People with <span class="caps">DSD</span>s][10] (at Oprah&#8217;s website)
+  * [Websites][1]* [Support Groups and Diagnosis-Specific Information][2]* [Finding a Child Psychologist][3]* [Books Devoted to <span class="caps">DSD</span> Issues][4]* [Videos and Television Broadcasts][5]* [Journal and Magazine Articles][6]* [General Parenting][7]* [Sex Education for Your Child][8]* [Photos of Real People with <span class="caps">DSD</span>s][9] (at <span class="caps">DSD</span> Guidelines)<br>* [Photos of Real People with <span class="caps">DSD</span>s][10] (at Oprah&#8217;s website)
 
- [1]: http://www.dsdguidelines.org/htdocs/parents/resources.html#dsd_websites\n
+ [1]: http://www.dsdguidelines.org/htdocs/parents/resources.html#dsd_websites<br>
  [2]: http://www.dsdguidelines.org/htdocs/parents/support_groups.html%5Cn
  [3]: http://www.dsdguidelines.org/htdocs/parents/finding_counselor.html%5Cn
  [4]: http://www.dsdguidelines.org/htdocs/parents/dsd_books.html%5Cn
