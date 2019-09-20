@@ -2,19 +2,19 @@
 title: "Links to Support Groups by Category"
 ---
 
-  * [Androgen Insensitivity Syndrome][1]* [Congenital Adrenal Hyperplasia][2]* [General Intersex Information/Groups][3]* [Hypospadias][4]* [Klinefelter Syndrome][5]* [Mayer Rokitansky Kuster Hauser Syndrome][6]* [Mosaic Turner's Syndrome][7]* [Other Resources][8]* [Other Support Groups][9]* [Polycystic Ovary Syndrome][10]* [Testicular Dysgenesis][11]* [Transgender][12]* [Turner Syndrome][13]* [<span class="caps">XXYY</span>][14]
-
- [1]: /directory/10
- [2]: /directory/14
- [3]: /directory/9
- [4]: /directory/16
- [5]: /directory/11
- [6]: /directory/15
- [7]: /directory/13
- [8]: /directory/20
- [9]: /directory/19
- [10]: /directory/52
- [11]: /directory/17
- [12]: /directory/18
- [13]: /directory/12
- [14]: /directory/41
+<ul>
+	<li><a href="/directory/10">Androgen Insensitivity Syndrome</a></li>
+	<li><a href="/directory/14">Congenital Adrenal Hyperplasia</a></li>
+	<li><a href="/directory/9">General Intersex Information/Groups</a></li>
+	<li><a href="/directory/16">Hypospadias</a></li>
+	<li><a href="/directory/11">Klinefelter Syndrome</a></li>
+	<li><a href="/directory/15">Mayer Rokitansky Kuster Hauser Syndrome</a></li>
+	<li><a href="/directory/13">Mosaic Turner&#8217;s Syndrome</a></li>
+	<li><a href="/directory/20">Other Resources</a></li>
+	<li><a href="/directory/19">Other Support Groups</a></li>
+	<li><a href="/directory/52">Polycystic Ovary Syndrome</a></li>
+	<li><a href="/directory/17">Testicular Dysgenesis</a></li>
+	<li><a href="/directory/18">Transgender</a></li>
+	<li><a href="/directory/12">Turner Syndrome</a></li>
+	<li><a href="/directory/41"><span class="caps">XXYY</span></a></li>
+</ul>

@@ -2,8 +2,8 @@
 title: "MRKH (Mullerian agenesis; vaginal agenesis; congenital absence of vagina)"
 ---
 
-Ovaries present with uterus absent, misshapen, or small; associated with kidney and spine anomalies in a minority of individuals.<br><br>For more information, please check out [mrkh.org][1], founded and run by former <span class="caps">ISNA</span> board member [Esther Morris Leidolf][2] [Parent/Guardian Guide on <span class="caps">MKRH</span>][3] is also available from the Boston Children&#8217;s Hospital.
+<p>Ovaries present with uterus absent, misshapen, or small; associated with kidney and spine anomalies in a minority of individuals.  </p>
 
- [1]: http://mrkhorg.homestead.com/
- [2]: /about/leidolf.A
- [3]: http://www.youngwomenshealth.org/mrkh_parent.html
+<p>For more information, please check out <a href="http://mrkhorg.homestead.com/">mrkh.org</a>, founded and run by former <span class="caps">ISNA</span> board member <a href="/about/leidolf">Esther Morris Leidolf</a>.  </p>
+
+<p>A <a href="http://www.youngwomenshealth.org/mrkh_parent.html">Parent/Guardian Guide on <span class="caps">MKRH</span></a> is also available from the Boston Children&#8217;s Hospital.</p>

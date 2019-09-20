@@ -2,6 +2,4 @@
 title: "Barby Halstead-Worrell"
 ---
 
-**Barby Halstead-Worrell** served as educational consultant for [Total Patient Care][1]. Barby is a staff member with National Education Association.
-
- [1]: /videos/total_patient_care
+<p>\*Barby Halstead-Worrell\* served as educational consultant for <a href="/videos/total%5C_patient%5C_care">Total Patient Care</a>. Barby is a staff member with National Education Association.</p>

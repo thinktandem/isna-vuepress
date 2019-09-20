@@ -2,7 +2,52 @@
 title: "What dream? (Poem)"
 ---
 
-_Angela Moreno\_\_<br><br>bq. look at the child with the dream in her eyes<br>holding it deep inside her \_\_&#8212;s. mclachlan\_\_<br><br>dream what dream?<br><br>the shame-crazed fantasy?<br><br>the gut-wrenching, teeth-spewing nightmare?<br><br>no dream<br><br>no more<br><br>can&#8217;t afford it<br><br>turn it off<br><br>the desire<br><br>no desire heat tensing thighs rising<br><br>none of it<br><br>you can&#8217;t anymore<br><br>nothing but a crusty blanket of<br><br>dried blood<br><br>where they cut you<br><br>go ahead feel it<br><br>that unfamiliar<br><br>nothingness<br><br>where pulp and lust used to thrive<br><br>bq. See also these writings by Angela in this issue of \_\_Chrysalis:_  
-<br>[In Amerika they call us hermaphrodites][1]:&#8220;Letter to my physicians&#8221;:/books/chrysalis/moreno_letter<br>
+<p>\_\_Angela Moreno\_\_  </p>
 
- [1]: /books/chrysalis/morenotextileRef%3A11721582685d852e341b79c%3AlinkStartMarker
+<blockquote>
+	<p>look at the child with the dream in her eyes  <br />
+holding it deep inside her \_\_&#8212;s. mclachlan\_\_  </p>
+</blockquote>
+
+<p>dream what dream?  </p>
+
+<p>the shame-crazed fantasy?  </p>
+
+<p>the gut-wrenching, teeth-spewing nightmare?  </p>
+
+<p>no dream  </p>
+
+<p>no more  </p>
+
+<p>can&#8217;t afford it  </p>
+
+<p>turn it off  </p>
+
+<p>the desire  </p>
+
+<p>no desire heat tensing thighs rising  </p>
+
+<p>none of it  </p>
+
+<p>you can&#8217;t anymore  </p>
+
+<p>nothing but a crusty blanket of  </p>
+
+<p>dried blood  </p>
+
+<p>where they cut you  </p>
+
+<p>go ahead feel it  </p>
+
+<p>that unfamiliar  </p>
+
+<p>nothingness  </p>
+
+<p>where pulp and lust used to thrive  </p>
+
+<blockquote>
+	<p>See also these writings by Angela in this issue of \_\_Chrysalis:\_\_  </p>
+</blockquote>
+
+<p><a href="/books/chrysalis/moreno">In Amerika they call us hermaphrodites</a>  <br />
+<a href="/books/chrysalis/moreno_letter">Letter to my physicians</a></p>

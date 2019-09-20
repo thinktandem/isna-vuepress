@@ -2,6 +2,4 @@
 title: "Intersex conditions"
 ---
 
-The following is a list of disorders of sex development that sometimes involve [intersex anatomy][1].
-
- [1]: /faq/what_is_intersex
+<p>The following is a list of disorders of sex development that sometimes involve <a href="/faq/what%5C_is%5C_intersex">intersex anatomy</a>.</p>

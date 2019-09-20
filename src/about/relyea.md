@@ -2,6 +2,6 @@
 title: "Ciara Relyea"
 ---
 
-[image:944 class=bio_image]<br><br>Ciara Relyea came to <span class="caps">ISNA</span> as an intern from the University of Michigan School of Social Work through the [Triangle Foundation][1]. She helped <span class="caps">ISNA</span> compile a bibliography on public policy issues related to intersex conditions.
+<p>[image:944 class=bio_image]  </p>
 
- [1]: http://www.tri.org/
+<p>Ciara Relyea came to <span class="caps">ISNA</span> as an intern from the University of Michigan School of Social Work through the <a href="http://www.tri.org/">Triangle Foundation</a>. She helped <span class="caps">ISNA</span> compile a bibliography on public policy issues related to intersex conditions.</p>

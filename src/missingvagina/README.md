@@ -2,6 +2,4 @@
 title: "The Missing Vagina Monologue"
 ---
 
-To read the most recent version of [The Missing Vagina Monologue][1] please [click here][1].
-
- [1]: http://mrkhorg.homestead.com/files/ORG/AdditionalMonologue.htm
+<p>To read the most recent version of <a href="http://mrkhorg.homestead.com/files/ORG/AdditionalMonologue.htm">The Missing Vagina Monologue</a> please <a href="http://mrkhorg.homestead.com/files/ORG/AdditionalMonologue.htm">click here</a>.</p>
