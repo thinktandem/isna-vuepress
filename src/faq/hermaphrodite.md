@@ -7,5 +7,5 @@ No. The mythological term &#8220;hermaphrodite&#8221; implies that a person is b
  [1]: /node/979
  [2]: /books/medicalinvention
  [3]: /library/books
- [4]: /faq/history.%5Cn%5CnOne
+ [4]: /faq/history.One
  [5]: /videos/hermaphrodites_speak

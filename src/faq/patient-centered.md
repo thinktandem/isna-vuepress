@@ -7,4 +7,4 @@ After years of consultation with people with intersex conditions, their parents,
  [1]: /compare
  [2]: /faq/gender_assignment
  [3]: /faq/concealment
- [4]: /compare.%5Cn
+ [4]: /compare.

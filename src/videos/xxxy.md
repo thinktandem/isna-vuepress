@@ -6,4 +6,4 @@ In 2000, the short documentary &#8220;<span class="caps">XXXY</span>&#8221; by S
 
 <!--break--><br>
 
- [1]: http://www.berkeleymedia.com/catalog/berkeleymedia/films/womens_studies_gender_studies/gay_lesbian_transgender_issues/xxxy.%5Cn%5Cn%5CntextileRef%3A9657242565d852b4dd3c62%3AlinkStartMarker
+ [1]: http://www.berkeleymedia.com/catalog/berkeleymedia/films/womens_studies_gender_studies/gay_lesbian_transgender_issues/xxxy.textileRef%3A11488089745d852e340c9d0%3AlinkStartMarker

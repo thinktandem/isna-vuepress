@@ -16,23 +16,23 @@ title: "Press Resources: Biology and the Law"
 
 [personal home page][18] was born looking like other baby girls, and her intersexuality was not diagnosed until, at age 17, she visited a doctor to investigate why she did not menstruate. Her doctor discovered that she had XY chromosomes, but&#8212;following standard medical practice&#8212;lied to her about what he had found. She did not learn the name of her condition (&#8220;Complete Androgen Insensitivity Syndrome&#8221;) until age 34. Cindy lived with her first partner for 20 years, and cared for her through her death from cancer in 1995. She has lived with her current partner, also a woman, for five years. They held a commitment ceremony in summer of 2001. Because Cindy has XY chromosomes, and her partner has XX, would their marriage be recognized under marriage legislation relying on biological definitions of sex?<br><br>h3. <span class="caps">III</span>. Subject Area Experts<br><br>\*Julie A. Greenberg Ph.D.\*<br>Associate Dean & Professor of Law<br>[Thomas Jefferson School of Law][19]: 619-297-9700 &#215;1507<br>cell: 619.997.4857<br><br>Dr. Greenberg is the author of several articles on how the law affects intersex people, including [Legal Aspects of Gender Assignment][20] (The Endocrinologist, 2003) and &#8220;Defining Male and Female: Intersexuality and the Collision between Law and Biology&#8221; (Arizona Law Review, 1998).<br><br><br>
 
- [1]: /faq.%5Cn%5Cn%5Cnh3
+ [1]: /faq.h3
  [2]: /img/about/alice2.jpg "click for 300 dpi photo"
- [3]: /files/images/dreger.jpg%5Cn%5Cn
- [4]: http://www.alicedreger.com/contact%5CnCell
+ [3]: /files/images/dreger.jpg
+ [4]: http://www.alicedreger.com/contactCell
  [5]: http://www.alicedreger.com
- [6]: http://www.isna.org/about/dreger%5Cn%5Cn%5Cn%5CnDr
+ [6]: http://www.isna.org/about/dregerDr
  [7]: /files/images/cheryl_robin_scout_small.jpg
  [8]: /files/images/cheryl_robin_scout.jpg
- [9]: /pressroom/contact/chase%5Cn%5Cn
- [10]: http://www.isna.org/about/chase%5Cn%5CnCheryl
+ [9]: /pressroom/contact/chase
+ [10]: http://www.isna.org/about/chaseCheryl
  [11]: /files/images/jane_goto_small.jpg
  [12]: /files/images/jane_goto.jpg
- [13]: /contact/email%5Cn%5Cn
+ [13]: /contact/email
  [14]: http://www.isna.org/about/goto
  [15]: http://www.millarca.com/intersex.html
  [16]: /files/images/stone_small.jpg
  [17]: /files/images/stone.jpg
- [18]: http://php.indiana.edu/~stonec%5Cn%5CnCindy
+ [18]: http://php.indiana.edu/~stonecCindy
  [19]: http://tjsl.edu/index.cfm?sID_int=43&rID_int=4&xID=16<br>office
  [20]: /pdf/greenberg2003.pdf

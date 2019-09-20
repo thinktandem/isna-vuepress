@@ -8,5 +8,5 @@ title: "Cheryl Chase (Bo Laurent)"
 
  [1]: /books/age_of_ethics
  [2]: /videos/hermaphrodites_speak
- [3]: http://pediatrics.aappublications.org/cgi/reprint/118/2/e488.%5Cn%5CnWhen
+ [3]: http://pediatrics.aappublications.org/cgi/reprint/118/2/e488.When
  [4]: http://www.accordalliance.org/

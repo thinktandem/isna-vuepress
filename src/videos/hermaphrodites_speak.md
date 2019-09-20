@@ -6,4 +6,4 @@ title: "Hermaphrodites Speak!"
 
  [1]: /donate
  [2]: http://www.findarticles.com/cf_0/m2372/3_37/68273932/p1/article.jhtml?term=hermaphroditism.<br>
- [3]: /videos/purchase.%5Cn%5CnChase
+ [3]: /videos/purchase.Chase

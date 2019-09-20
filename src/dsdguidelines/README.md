@@ -12,4 +12,4 @@ We&#8217;re excited to show you how the new _Clinical Guidelines_ and _Handbook 
  [6]: /about/dreger
  [7]: /about/chase
  [8]: http://www.dsdguidelines.org.<br><br>To
- [9]: /donate.%5Cn%5Cn
+ [9]: /donate.

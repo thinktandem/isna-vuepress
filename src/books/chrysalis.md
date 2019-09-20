@@ -6,4 +6,4 @@ title: "Chrysalis Special Issue on Intersexuality (1997)"
 
  [1]: /pdf/chrysalis.pdf
  [2]: /books/chrysalis
- [3]: /books/ageofethics.%5Cn%5CnChase
+ [3]: /books/ageofethics.Chase

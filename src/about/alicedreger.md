@@ -7,4 +7,4 @@ title: "Alice Dreger, Ph.D."
  [1]: http://www.medschool.northwestern.edu/mhb/
  [2]: http://www.alicedreger.com/speaking/lectures
  [3]: http://dsdguidelines.org
- [4]: http://www.isna.org/about/emeritus/.%5Cn%5Cn%5Cn%5Cn%5Cn
+ [4]: http://www.isna.org/about/emeritus/.
