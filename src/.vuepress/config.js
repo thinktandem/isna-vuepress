@@ -11,35 +11,30 @@ module.exports = {
     },
     'autometa': {
       site: {
-        name: 'VuePress Template',
-        twitter: 'changeme',
+        name: 'ISNA',
       },
-      canonical_base: 'https://template-vuepress.lndo.site',
+      canonical_base: 'https://isna.org',
     },
     'canonical': {
-      baseURL: 'https://template-vuepress.lndo.site',
+      baseURL: 'https://isna.org',
     },
     'robots': {
-      host: 'https://template-vuepress.lndo.site',
+      host: 'https://isna.org',
     },
     'sitemap': {
-      hostname: 'https://template-vuepress.lndo.site',
+      hostname: 'https://isna.org',
       exclude: ['/404.html'],
     },
   },
   themeConfig: {
-    repo: 'thinktandem/isna-vuepress',
-    repoLabel: 'GitHub',
-    docsDir: 'docs',
-    docsBranch: 'master',
-    editLinks: true,
-    editLinkText: 'Edit Link Text',
     nav: [
-      {text: 'Test Directory', link: '/test-dir/'},
-      {text: 'Tandem Website', link: 'https://thinktandem.io'},
+      {text: 'faq', link: '/faq/'},
+      {text: 'support groups', link: '/support/'},
+      {text: 'contact', link: '/contact/'},
+      {text: 'español', link: '/espanol/'},
     ],
     sidebar: {
-      '/test-dir/': [
+      '/faq/': [
         {
           title: 'Stuff',
           collapsable: false,
