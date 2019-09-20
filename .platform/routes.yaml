@@ -1,9 +1,0 @@
-https://{default}/:
-  type: upstream
-  upstream: app:http
-  cache:
-    headers: ['Accept', 'Accept-Language', 'Origin']
-    default_ttl: 2600
-    enabled: true
-  ssi:
-    enabled: false

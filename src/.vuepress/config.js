@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'VuePress Template',
-  description: 'Stuff and things and other stuff',
+  title: 'ISNA',
+  description: '',
   head: [
     ['link', {rel: 'icon', href: '/favicon.ico'}],
     ['link', {rel: 'stylesheet', href: '/styles/overrides.css'}],
@@ -28,7 +28,7 @@ module.exports = {
     },
   },
   themeConfig: {
-    repo: 'thinktandem/template-vuepress',
+    repo: 'thinktandem/isna-vuepress',
     repoLabel: 'GitHub',
     docsDir: 'docs',
     docsBranch: 'master',

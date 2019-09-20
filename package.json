@@ -1,15 +1,15 @@
 {
-  "name": "template-vuepress",
-  "description": "VuePress Template.",
+  "name": "isna-vuepress",
+  "description": "ISNA VuePress",
   "license": "MIT",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thinktandem/template-vuepress"
+    "url": "https://github.com/thinktandem/isna-vuepress"
   },
   "bugs": {
-    "email": "mike@thinktandem.io",
-    "url": "https://github.com/template-vuepress/tandem/issues"
+    "email": "john@thinktandem.io",
+    "url": "https://github.com/isna-vuepress/tandem/issues"
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.0.0-rc.1",

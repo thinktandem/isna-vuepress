@@ -1,9 +1,9 @@
-name: template-vuepress
+name: isna
 excludes:
   - node_modules
 proxy:
   node:
-    - template-vuepress.lndo.site:8080
+    - isna.lndo.site:8080
 services:
   node:
     type: node:10
