@@ -2,6 +2,8 @@
 title: "In Process"
 ---
 
+# In Process
+
 <p>\_\_Derick\_\_  </p>
 
 <p>I don&#8217;t quite remember when I became aware that I was not quite like other boys. My father never discussed it, never mentioned it, and never asked me how I felt. My mother broke the news to me when I was about eight, but even then I didn&#8217;t know that I wasn&#8217;t &#8220;right,&#8221; though I had nothing to compare to. I remember being hauled off to a doctor&#8217;s office, where a steel probe was inserted into my meatus (the pee-hole in his penis \_\_&#8212;Ed\_\_.) And I remember the doctor saying something would have to be done. I, of course, had no idea what he meant&#8212;but I was soon to find out. My mother explained that I had something called hysposdadias and that I would be going into the hospital for an operation that would make me like other boys. At the time, I couldn&#8217;t understand the need for this. After all, I could urinate with no problem.  </p>

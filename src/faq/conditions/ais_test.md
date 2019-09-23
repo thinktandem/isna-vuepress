@@ -2,6 +2,8 @@
 title: "Is there a test to find out if I have androgen insensitivity syndrome?"
 ---
 
+# Is there a test to find out if I have androgen insensitivity syndrome?
+
 <p>The answer depends upon exactly what you are looking for&#8212;diagnostic information, or carrier status. If were born with female genitals and testes, and have very sparse or absent pubic hair, you most likely have complete <span class="caps">AIS</span>. If you were born with ambiguous genitals and testes, there are a number of possible etiologies, including partial <span class="caps">AIS</span>.  </p>
 
 <p>Testing for partial <span class="caps">AIS</span> is more problematic than the complete form. Hormonal tests in a newborn with 46 XY karyotype and ambiguous genitals will show normal to elevated testosterone and LH, and a normal ratio of testosterone to <span class="caps">DHT</span>. A family history of ambiguous genitals in maternal relatives suggests partial androgen insensitivity.  </p>

@@ -2,6 +2,8 @@
 title: "Eric Vilain, M.D., Ph.D."
 ---
 
+# Eric Vilain, M.D., Ph.D.
+
 <p>[image:891 class=bio_image]  </p>
 
 <p>\*Eric Vilain, M.D., Ph.D.\* was born in Paris, France and is currently an Associate Professor in the Departments of Human Genetics, Pediatrics and Urology at <span class="caps">UCLA</span>. Dr. Vilain received his B.S. in Biochemistry at the Universite Pierre et Marie Curie in 1987 and then his Ph.D. in 1994 at the Pasteur Institute. In 1995, Dr. Vilain received his M.D. at the Faculte de Medecine Necker Enfants Malades. Dr. Vilain assumes the positions of Chief of the Division of Medical Genetics at <span class="caps">UCLA</span>, Director of Female Sexual Medicine in the Department of Urology and Graduate Advisor in the Department of Human Genetics. When he was a medical student, his first assignment was a pediatric service taking care of intersexed infants. He was shocked to see how poor the understanding of this condition was, and how many life-altering decisions were made on behalf of the babies. Dr. Vilain has devoted his academic career to the biology of intersexuality. He serves on several national committees on intersexuality. He has received numerous awards, notably from the <span class="caps">NIH</span> and the March of Dimes. Dr. Vilain is an expert in the field of the genetics of sexual development. He has deciphered a large number of molecular mechanisms responsible for intersexuality in humans, such as mutations in the sex-determining genes <span class="caps">SRY</span> and SOX9. His laboratory is working on the mechanisms of early gonadal development and brain sexual differentiation.</p>

@@ -2,6 +2,8 @@
 title: "Hermaphrodites and the Medical Invention of Sex (Alice Dreger)"
 ---
 
+# Hermaphrodites and the Medical Invention of Sex (Alice Dreger)
+
 <a href="http://www.amazon.com/exec/obidos/ASIN/1555721001/intersexsocietyo/" target="amazon"><img src="/img/store/dregerhistory.gif" width=150 height=225 alt="Hermaphrodites and the Medical Invention of Sex" align=left hspace=10 vspace=3></a>  
   
 Alice Dreger, Assistant Professor of Science and Technology Studies at Michigan State University and adjunct faculty at the Center for Ethics and Humanities in the Life Sciences, brings us this study of how and why medical and scientific men have construed sex, gender, and sexuality as they have.  

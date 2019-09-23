@@ -2,6 +2,8 @@
 title: "Lynnell Stephani Long"
 ---
 
+# Lynnell Stephani Long
+
 <p>[image:973 class=bio_image]  </p>
 
 <p>\*Lynnell Stephani Long\* has been involved with the Intersex Society of North America, officially, since 2000 after she met Cheryl Chase in D.C. at GenderPac’s National Lobby Days. She is a columnist for \_Identity Magazine\_, a Chicago <span class="caps">LGBTI</span> magazine, where she writes on intersex. In addition to speaking locally in Chicago, Lynnell has spoken on ending intersex genital mutilation in Canada, Wisconsin, New York, Georgia, Michigan, Minnesota, Indiana, Colorado, Texas, Tennessee, and Washington, D.C.  </p>

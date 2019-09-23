@@ -2,6 +2,8 @@
 title: "Fool for Love"
 ---
 
+# Fool for Love
+
 <p>[image:968 class=bio_image]  </p>
 
 <p>From the author, <a href="http://www.lisalees.com/">Lisa Lees</a>:  <br />

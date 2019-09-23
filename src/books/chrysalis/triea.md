@@ -2,6 +2,8 @@
 title: "Interview with Dr. Arika Aiert"
 ---
 
+# Interview with Dr. Arika Aiert
+
 <p>\_\_Kira Triea\_\_  </p>
 
 <blockquote>

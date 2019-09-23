@@ -2,6 +2,8 @@
 title: "Does the Study of History Affect Clinical Practice? Intersex as a Case Study: The Physician’s View"
 ---
 
+# Does the Study of History Affect Clinical Practice? Intersex as a Case Study: The Physician’s View
+
 <p>Jorge J. Daaboul, M.D.  <br />
 Director, Pediatric Endocrinology  <br />
 Children&#8217;s Hospital of Oakland  </p>

@@ -2,6 +2,8 @@
 title: "Shifting the Paradigm of Intersex Treatment"
 ---
 
+# Shifting the Paradigm of Intersex Treatment
+
 [Download a pdf of this document][1] that can be printed on a single sheet, double-sided.  
   
 

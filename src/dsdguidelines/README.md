@@ -2,6 +2,8 @@
 title: "Sneak Preview for ISNA Supporters"
 ---
 
+# Sneak Preview for ISNA Supporters
+
 <p>We&#8217;re excited to show you how the new \_\_Clinical Guidelines\_\_ and \_\_Handbook for Parents\_\_ are shaping up!  </p>
 
 <p>But first, you are probably here because you received our letter asking for your financial support. Did you know that by <a href="/donate">making your gift online</a>, you can cut down <span class="caps">ISNA</span>&#8217;s office work, so that we will have more time to support maintenance and distribution of these ground-breaking documents?  </p>

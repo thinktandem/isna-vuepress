@@ -2,6 +2,8 @@
 title: "Handbook for Parents"
 ---
 
+# Handbook for Parents
+
 <p>\[image:1096 size=thumbnail nolink=(1) class=book_image\] (Handbook for Parents):http://www.dsdguidelines.org  </p>
 
 <p>The <a href="http://www.dsdguidelines.org">Handbook for Parents</a> (a companion to <a href="http://www.dsdguidelines.org">Clinical Guidelines for the Management of Disorders of Sex Development in Childhood.</a>) is a resource that physicians can give parents to aid in understanding and adjusting to the child&#8217;s needs. The Handbook addresses the many questions and emotions parents have upon learning that their child has some kind of disorder of sex development (called a <span class="caps">DSD</span> for short).  </p>

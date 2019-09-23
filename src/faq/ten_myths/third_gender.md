@@ -2,6 +2,8 @@
 title: "Myth #7: ISNA advocates doing nothing and raising intersexed babies in a third gender"
 ---
 
+# Myth #7: ISNA advocates doing nothing and raising intersexed babies in a third gender
+
 <p>Sorry, gender warriors, that&#8217;s not us! We certainly would like to see people become less gender-phobic, but we don&#8217;t think dumping intersexed kids into a gender-phobic world with no gender or with a &#8220;third gender&#8221; is the way to go. We believe there are two problems with trying to raise kids in a &#8220;third gender.&#8221; First, how would we decide who would count in the &#8220;third gender&#8221;? How would we decide where to cut off the category of male and begin the category of intersex, or, on the other side of the spectrum, where to cut off the category of intersex to begin the category of female? (See Myth #1.)  </p>
 
 <p>Second, and much more importantly, we are trying to make the world a safe place for intersexed kids, and we don&#8217;t think labeling them with a gender category that in essence doesn&#8217;t exist would help them. (Duh, huh?)  </p>

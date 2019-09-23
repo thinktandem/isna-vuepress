@@ -2,6 +2,8 @@
 title: "Silence = Death"
 ---
 
+# Silence = Death
+
 <p>\_\_Tamara Alexander\_\_  </p>
 
 <p>\_\_for Max\_\_  </p>

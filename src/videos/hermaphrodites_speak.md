@@ -2,7 +2,9 @@
 title: "Hermaphrodites Speak!"
 ---
 
-<p>[<img src="/img/store/herms-group.jpg" width=150 height=104 alt="Is It a Boy or a Girl" align=left hspace=10 vspace=10>]<sup class="footnote" id="fnrev5081162215d85450c5f4d5-1"><a href="#fn5081162215d85450c5f4d5-1">1</a></sup>  </p>
+# Hermaphrodites Speak!
+
+<p>[<img src="/img/store/herms-group.jpg" width=150 height=104 alt="Is It a Boy or a Girl" align=left hspace=10 vspace=10>]<sup class="footnote" id="fnrev2586302765d88c348d16a7-1"><a href="#fn2586302765d88c348d16a7-1">1</a></sup>  </p>
 
 <p>Imagine growing up knowing you were different, not quite knowing why and feeling like you were the only person in the world like you. Meet Angela, David, Heidi, Tom, Mani, Cheryl, Max and Hida as they tell their stories of growing up intersexed. Share their joy at finally meeting other people who are intersexed. Be amazed as you witness intersex people speaking out for the first time in their lives!  </p>
 

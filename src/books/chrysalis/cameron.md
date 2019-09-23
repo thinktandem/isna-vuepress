@@ -2,6 +2,8 @@
 title: "Caught Between: An Essay on Intersexuality"
 ---
 
+# Caught Between: An Essay on Intersexuality
+
 <p>\_\_D. Cameron\_\_  </p>
 
 <p>It is only recently that I have discovered the term &#8220;intersexed&#8221; and how it relates to my body. I like the term because I prefer more choices than male or female. I think there is a continuum of Male to Female; like shades of gray from black to white. It wasn&#8217;t until I was twenty-nine years old that a label was put on my physical differences, differences that I never quite understood. I had large nipples on smallish breasts, peanut-size testicles and cellulite-type hairless fatty tissue over most of my body. I was told at an infertility clinic that I had an extra &#8220;X&#8221; chromosome and a karyotype of <span class="caps">XXY</span>-47. This is commonly known as Klinefelter&#8217;s syndrome. I was informed that I was genetically sterile and that my &#8220;sex glands&#8221; produced only 10% of what was considered normal testosterone levels for a male. I was advised to immediately start testosterone replacement therapy. I was told that my &#8220;sex drive would increase,&#8221; I would &#8220;gain weight and my shoulders would broaden,&#8221; and that I would have to do this every two weeks for the rest of my life. The medical journals called my condition &#8220;feminized male.&#8221; I had always felt caught between the sexes without knowing why.  </p>

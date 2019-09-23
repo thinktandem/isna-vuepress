@@ -2,6 +2,8 @@
 title: "Pediatric Gender Assignment: A Critical Reappraisal"
 ---
 
+# Pediatric Gender Assignment: A Critical Reappraisal
+
 <p>table)&gt;. <a href="http://www.amazon.com/exec/obidos/ASIN/0306467593/intersexsocietyo">!http://ec1.images-amazon.com/images/P/0306467593.01.\_AA240\_SCLZZZZZZZ_.jpg (cover of Pediatric Gender Assignment: A Critical Reappraisal!</a>  </p>
 
 

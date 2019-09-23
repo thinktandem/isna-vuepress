@@ -2,6 +2,8 @@
 title: "I have a line along the underside of my penis"
 ---
 
+# I have a line along the underside of my penis
+
 <p>Sometimes men write to <span class="caps">ISNA</span>, saying that they have a line down the underside of their penis, all the way to the anus, and they wonder if this is evidence of some sort of intersex condition.  </p>
 
 <p>That line is called the &#8220;penile raphe.&#8221; From conception until 7 weeks, fetuses have no sex difference&#8212;the genitals look fairly female. There are two sets of swellings (&#8220;urogenital swellings&#8221;), open in the middle, and a protuberance toward the front (&#8220;phallus&#8221;). After 7 weeks, for boys with typical development, the fetal testes produce testosterone, and the testosterone causes the urogenital swellings to swell, come together in the middle, and fuse, forming the scrotum and the underside of the penis. The line down the middle, called a &#8220;raphe&#8221;, is just a reminder of how all humans start out with a common female genital anatomy until 7 weeks after conception.  </p>

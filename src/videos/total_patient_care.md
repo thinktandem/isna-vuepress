@@ -2,7 +2,9 @@
 title: "The Child with an Intersex Condition: Total Patient Care"
 ---
 
- [<img src="/img/books/tpc.jpg" width=200 height=238 alt="The Child with an Intersex Condition: Total Patient Care" align=left hspace=10 vspace=10>]<sup class="footnote" id="fnrev10862312195d85450c5f8e3-1"><a href="#fn10862312195d85450c5f8e3-1">1</a></sup>  
+# The Child with an Intersex Condition: Total Patient Care
+
+ [<img src="/img/books/tpc.jpg" width=200 height=238 alt="The Child with an Intersex Condition: Total Patient Care" align=left hspace=10 vspace=10>]<sup class="footnote" id="fnrev6602649915d88c348d1a73-1"><a href="#fn6602649915d88c348d1a73-1">1</a></sup>  
 
 <p>The Child with an Intersex Condition: Total Patient Care (sometimes screened under the name &#8220;First Do No Harm&#8221;). This video tape is addressed to medical and mental health professionals, but is quite accessible to a lay audience as well.  </p>
 

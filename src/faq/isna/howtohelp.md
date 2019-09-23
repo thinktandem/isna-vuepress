@@ -2,6 +2,8 @@
 title: "What can I do to help ISNA?"
 ---
 
+# What can I do to help ISNA?
+
 <p>Many people contact us about how they might help <span class="caps">ISNA</span>. We hope the following suggestions help you find a meaningful way to support our mission:  </p>
 
 <p><a href="/donate">Donate to <span class="caps">ISNA</span></a> and help us support our important work.  </p>

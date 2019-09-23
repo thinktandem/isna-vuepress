@@ -2,6 +2,8 @@
 title: "My Beautiful Clitoris"
 ---
 
+# My Beautiful Clitoris
+
 <p>\_\_Annie Green\_\_  </p>
 
 <p>Thirty-two years have passed since my clitoris was taken from me. Though I was too young to be able now to recall the event, I feel that I will be grieving the loss for the rest of my life. Every day my thoughts touch on what it would be like, what it would feel like, what it would look like, if this had not happened to me. I have only one connection to the clitoris that I was born with: a pathologist&#8217;s report on the bit of tissue the surgeons sent him for analysis:  </p>

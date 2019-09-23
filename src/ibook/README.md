@@ -2,6 +2,8 @@
 title: "iBook G4 933Mhz, 14 screen, 640MB, 40GB, AppleCare $650"
 ---
 
+# iBook G4 933Mhz, 14 screen, 640MB, 40GB, AppleCare $650
+
 <p><img alt="" src="http://www.isna.org/files/apple\_ibook\_g4.jpg" />  </p>
 
 <p>Due to staff turnover, we are selling an iBook.  </p>

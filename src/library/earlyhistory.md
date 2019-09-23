@@ -2,6 +2,8 @@
 title: "Medicalization of Intersexuality: History Resources"
 ---
 
+# Medicalization of Intersexuality: History Resources
+
 <p>Most of the history of medicalization of intersexuality has yet to be investigated. This is pretty close to a complete list of the sources available as of July, 2000.  </p>
 
 <p>Some of these books are out of print; if not available at your library, you can often find them available for purchase via <a href="http://www.abebooks.com/"><span class="caps">ABE</span> Books</a>.  </p>

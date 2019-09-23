@@ -2,6 +2,8 @@
 title: "Yellow for Hermaphrodites: Mani's Story"
 ---
 
+# Yellow for Hermaphrodites: Mani's Story
+
 <p><img src="/img/store/manistory_c.jpg" width="150" height="134" alt="Yellow for Hermaphrodites: Mani's Story" align="left" hspace=10 vspace=10>  <br />
 This video was produced by <a href="http://www.greenstonepictures.com" target="_blank">Greenstone Pictures</a> and is now distributed by <span class="caps">ISNA</span>.  </p>
 

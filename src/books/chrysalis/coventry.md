@@ -2,6 +2,8 @@
 title: "Finding the Words"
 ---
 
+# Finding the Words
+
 <p>\_\_Martha Coventry\_\_  </p>
 
 <p>When I was growing up, and well into adulthood, I used to have a waking nightmare that a squad of men in uniforms would arrive at my door, take me into the night and execute me for not being a real woman. In my mind, they were always justified and I never raised my voice in protest. When my youngest daughter was two and I was 35, I was incapacitated nearly to the point of self-destruction by some unknown shame. I began intensive therapy, desperate to discover why I felt so bad, so tainted, so wrong. One Sunday morning, feeling inches away from disaster, I called my therapist. &#8220;I don&#8217;t know if this is important,&#8221; I told her, &#8220;but I had this operation.&#8221; There. I had said it out loud, and in that instant a tiny sliver of light appeared.  </p>

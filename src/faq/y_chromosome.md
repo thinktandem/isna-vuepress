@@ -2,6 +2,8 @@
 title: "Does having a Y chromosome make someone a man?"
 ---
 
+# Does having a Y chromosome make someone a man?
+
 <p>A lot of unintended harm happens when people assume a Y chromosome makes a person a boy or a man and the lack of a Y chromosome makes a person a girl or a woman. For example, one physician educator on our <a href="/about/medicalboard">Medical Advisory Board</a> had the challenging experience of trying to calm a 23-year-old patient who had just been told by a resident that she was &#8220;really a man&#8221; because the resident had diagnosed the patient as having a Y chromosome and complete <a href="/faq/conditions/ais">androgen insensitivity syndrome</a> (<span class="caps">CAIS</span>).  </p>
 
 <p>It is true that in typical male development, the <span class="caps">SRY</span> gene on the tip of the Y chromosome helps to send the embryo down the masculine pathway. But more than the <span class="caps">SRY</span> is needed for sex determination and differentiation; for example, women with <span class="caps">CAIS</span> have the <span class="caps">SRY</span> gene but lack androgen receptors. In terms of hormone effects on their bodies (including their brains), women with <span class="caps">CAIS</span> have had much less &#8220;masculinization&#8221; than the average 46,XX woman because their cells do not respond to androgens.  </p>

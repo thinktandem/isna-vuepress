@@ -2,6 +2,8 @@
 title: "How can you assign a gender (boy or girl) without surgery?"
 ---
 
+# How can you assign a gender (boy or girl) without surgery?
+
 <p>When you assign a child a gender as boy or girl, what you&#8217;re doing is labeling them a boy or girl. That&#8217;s it. You don&#8217;t need a surgeon for that.  </p>
 
 <p>But how do you pick a child&#8217;s gender if she or he is intersex?  </p>

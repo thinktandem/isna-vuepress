@@ -2,6 +2,8 @@
 title: "Growing up in the Surgical Maelstrom"
 ---
 
+# Growing up in the Surgical Maelstrom
+
 <p>\_\_Jeff McClintock\_\_  </p>
 
 <p>I&#8217;m now forty, and I&#8217;ve done a lot of healing. I am a licensed therapist, and I&#8217;ve used my experience&#8212;of being made to suffer unnecessarily by treatment for being intersexual&#8212;to make patient advocacy an important aspect of my work. I&#8217;ve healed a great deal through my involvement with the cancer community, where I was able to help people avoid unnecessary medical interventions. And I have studied sex and sexuality, which has been an important element in coming to a place where I can help others, rather than feeling like I was the only one in the world. It also helped me to realize that I could have successful relationships, including sexual relations. A lot of the defeat and depression that I felt growing up left me when I realized that doctors and parents were wrong. They believed I could not be happy without normal genitals. When I understood that wasn&#8217;t true, my life completely changed.  </p>

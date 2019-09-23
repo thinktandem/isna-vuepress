@@ -2,6 +2,8 @@
 title: "Is a person who is intersex a hermaphrodite?"
 ---
 
+# Is a person who is intersex a hermaphrodite?
+
 <p>No. The mythological term &#8220;hermaphrodite&#8221; implies that a person is both fully male and fully female. This is a physiologic impossibility.  </p>
 
 <p>The words &#8220;hermaphrodite&#8221; and &#8220;pseudo-hermaphrodite&#8221; are stigmatizing and misleading words. Unfortunately, some medical personnel still use them to refer to people with certain intersex conditions, because they still subscribe to an outdated nomenclature that uses gonadal anatomy as the basis of sex classification. In a paper titled <a href="/node/979">Changing the Nomenclature/Taxonomy for Intersex: A Scientific and Clinical Rationale</a>, five <span class="caps">ISNA</span>-associated experts recommend that all terms based on the root &#8220;hermaphrodite&#8221; be abandoned because they are scientifically specious and clinically problematic. The terms fail to reflect modern scientific understandings of intersex conditions, confuse clinicians, harm patients, and panic parents. We think it is much better for everyone involved when specific condition names are used in medical research and practice.  </p>

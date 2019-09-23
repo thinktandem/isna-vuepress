@@ -2,6 +2,8 @@
 title: "Carolyn Parsons"
 ---
 
+# Carolyn Parsons
+
 <p>[image:1018 class=bio_image]  </p>
 
 <p>On a small mission in the heart of the central Angola highlands, Carolyn Parson&#8217;s grandfather delivered her, introducing a healthy girl to a growing family. A healthy and happy baby, she grew to be a bright, curious, and easy going child.  </p>

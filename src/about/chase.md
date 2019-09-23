@@ -2,6 +2,8 @@
 title: "Cheryl Chase (Bo Laurent)"
 ---
 
+# Cheryl Chase (Bo Laurent)
+
 <p><img src="/img/about/cheryl4.jpg" border="2" align="left" hspace=10 vspace=10>  <br />
 \*Cheryl Chase\* was our founder. Her ongoing efforts to improve the social and medical treatment of intersexed people have been recognized with the year 2000 Felipa de Souza Human Rights Award, and in diverse publications and numerous television and radio programs including \_\_Newsweek\_\_, the \_\_New York Times,\_\_ <span class="caps">NPR</span>&#8217;s \_\_Fresh Air,\_\_ <span class="caps">NBC</span> \_\_Dateline\_\_, ethicist Alice Dreger&#8217;s <a href="/books/age%5C_of%5C_ethics">Intersex in the Age of Ethics</a>, social psychologist Suzanne Kessler&#8217;s \_\_Lessons from the Intersexed\_\_, molecular biologist Anne Fausto-Sterling&#8217;s \_\_Sexing the Body,\_\_ and Pulitzer Prize winning medical writer Natalie Angier&#8217;s bestseller, \_\_Woman: An Intimate Geography.\_\_  <br />
 <!--break--></p>

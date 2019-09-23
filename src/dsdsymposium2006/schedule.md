@@ -2,6 +2,8 @@
 title: "DSD Symposium 2006 Schedule"
 ---
 
+# DSD Symposium 2006 Schedule
+
 <p>\*Friday October 13, 2006\*  </p>
 
 <p>Friday 10:00 Conversation Rounds  <br />

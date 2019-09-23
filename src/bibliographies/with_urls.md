@@ -2,6 +2,8 @@
 title: "Bibliography of articles accessible online"
 ---
 
+# Bibliography of articles accessible online
+
 <P CLASS="bibliography">
   60 minutes (australia) breaking the silence: Sexual reassignment (antoinette briffa), 2000. Directed by Anon. . Sydney. June 25. Available from: <a href="http://sixtyminutes.ninemsn.com.au/01_stories/2000_06_25/story_185.asp">http://sixtyminutes.ninemsn.com.au/01_stories/2000_06_25/story_185.asp</a>.
 </p>

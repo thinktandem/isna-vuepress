@@ -2,6 +2,8 @@
 title: "Is it a Boy or a Girl? (Discovery Channel)"
 ---
 
+# Is it a Boy or a Girl? (Discovery Channel)
+
 <p><img src="/img/books/discovery.jpg" width="200" height="270" alt="Is It a Boy or a Girl?" align="left" hspace=10 vspace=10>  <br />
 This one-hour documentary was nominated for a <span class="caps">GLAAD</span> award for Outstanding TV Journalism.  </p>
 

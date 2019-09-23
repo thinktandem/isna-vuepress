@@ -2,6 +2,8 @@
 title: "Letter to My Physicians"
 ---
 
+# Letter to My Physicians
+
 <blockquote>
 	<p>The following is a letter which <span class="caps">ISNA</span> member Angela Moreno recently sent to two pediatric endocrinologists, women who presided over her treatment for intersexuality in 1985 (See <a href="/books/chrysalis/moreno">In Amerika They Call us Hermaphrodites</a>). We have not used the names of the women, because our aim is to open a dialog, not to publicly embarrass individual physicians.  <br />
 \_\_&#8212;Ed.\_\_  </p>

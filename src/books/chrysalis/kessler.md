@@ -2,6 +2,8 @@
 title: "Meanings of Gender Variability Constructs of Sex and Gender"
 ---
 
+# Meanings of Gender Variability Constructs of Sex and Gender
+
 <blockquote>
 	<p>Paper presented as part of a plenary symposium titled &#8220;Genitals, Identity, and Gender,&#8221; at the Society for the Scientific Study of Sexuality, November, 1995, San Francisco.  </p>
 </blockquote>

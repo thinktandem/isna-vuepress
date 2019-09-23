@@ -2,6 +2,8 @@
 title: "Time for a Change"
 ---
 
+# Time for a Change
+
 <p>\_\_Heidi Walcutt\_\_  </p>
 
 <p>I was born in 1961 with a problem of sex differentiation. At the age of three months I was diagnosed as a male pseudo-hermaphrodite at Cincinnati Children&#8217;s Hospital when they performed an exploratory laparotomy [abdominal surgery]. They found a rudimentary uterus, fallopian tubes, segments of a vas deferens, and gonads. They did a second laparotomy and biopsy at age seven months where they removed what they characterized as &#8220;three under-developed testes.&#8221; The reason for this removal was to prevent a possible malignancy of these organs or perhaps a masculinizing puberty.  </p>

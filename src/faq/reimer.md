@@ -2,6 +2,8 @@
 title: "Who was David Reimer (also, sadly, known as John/Joan)?"
 ---
 
+# Who was David Reimer (also, sadly, known as John/Joan)?
+
 <p>David Reimer was born an identical (non-intersex) twin boy in 1965. At the age of 8 months, David and his brother each had a minor medical problem involving his penis, and a doctor decided to treat the problem with circumcision. The doctor botched the circumcision on David, using an inappropriate method and accidentally burning off virtually all of David&#8217;s penis. At the advice of psychologist John Money at Johns Hopkins University, David&#8217;s parents agreed to have him &#8220;sex reassigned&#8221; and made into a girl via surgical, hormonal, and psychological treatments&#8212;i.e., via <a href="/faq/concealment">the system Money advocated for intersex children</a>.  </p>
 
 <p>For many years, John Money claimed that David (known in the interim as &#8220;Brenda&#8221;) turned out to be a &#8220;real&#8221; girl with a female gender identity. Money used this case to bolster <a href="/faq/concealment">his approach to intersex</a> &#8212;the approach that is still used throughout much of the U.S. and developed world&#8212;one that relies on the assumption that gender identity is all about nurture (upbringing), not nature (inborn traits), and that gender assignment is the key to treating all children with atypical sex anatomies.  </p>

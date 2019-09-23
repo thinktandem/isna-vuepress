@@ -2,6 +2,8 @@
 title: "The Medical Management of Intersexed Children: An Analogue for Childhood Sexual Abuse"
 ---
 
+# The Medical Management of Intersexed Children: An Analogue for Childhood Sexual Abuse
+
 <p>\_\_&#169; 1997 Tamara Alexander\_\_  </p>
 
 <h3>Introduction  </h3>

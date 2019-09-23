@@ -2,6 +2,8 @@
 title: "From the Editors"
 ---
 
+# From the Editors
+
 <p>Intersexed people have until recently been without a voice. Things changed four years ago, when Cheryl Chase founded the Intersex Society of North America and its witty and oft irreverent newsletter, Hermaphrodites With Attitude. This issue of \_\_Chrysalis\_\_, which is edited by Cheryl and Martha Coventry, both of whom are intersexed, reflects the groundbreaking work of <span class="caps">ISNA</span>.  </p>
 
 <p>\_\_&#8212;Dallas Denny (Editor)\_\_  </p>

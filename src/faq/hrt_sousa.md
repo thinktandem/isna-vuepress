@@ -2,6 +2,8 @@
 title: "Talking with your doctor about HRT"
 ---
 
+# Talking with your doctor about HRT
+
 <p>Individuals who have had their gonads (ovaries, testes, and/or ovotestes) removed are at increased risk for severe osteoporosis, a serious bone-wasting disease. Some people who have had gonadectomies also report potentially-related symptoms like decrease in libido and increase in skin dryness.  </p>
 
 <p>These problems may sometimes be treated or avoided with hormone replacement therapy (<span class="caps">HRT</span>). Yet several people have informed us that their doctors are reluctant to give them <span class="caps">HRT</span> following gonadectomy because of what they have heard about the Women&#8217;s Health Initiative (<span class="caps">WHI</span>) study. They mistakenly think the <span class="caps">WHI</span> showed that no one should ever employ <span class="caps">HRT</span>. If you have had a gonadectomy because of an anomaly of sex development and may benefit from <span class="caps">HRT</span>, consider printing the following letter and presenting it to your doctor. Ask her or him to talk with you about <span class="caps">HRT</span>, and to consider why your needs may differ from those of the subjects studied in the <span class="caps">WHI</span>.  </p>

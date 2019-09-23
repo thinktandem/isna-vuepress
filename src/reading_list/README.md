@@ -2,6 +2,8 @@
 title: "Reading List (Where to Learn More)"
 ---
 
+# Reading List (Where to Learn More)
+
 <ul>
 	<li><a href="http://www.dsdguidelines.org/htdocs/parents/resources.html#dsd_websites">Websites</a></li>
 	<li><a href="http://www.dsdguidelines.org/htdocs/parents/support_groups.html">Support Groups and Diagnosis-Specific Information</a></li>

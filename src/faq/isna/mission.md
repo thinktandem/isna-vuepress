@@ -2,6 +2,8 @@
 title: "What is ISNA's mission?"
 ---
 
+# What is ISNA's mission?
+
 <p>The Intersex Society of North America (<span class="caps">ISNA</span>) is devoted to systemic change to end shame, secrecy, and unwanted genital surgeries for people born with an anatomy that someone decided is not standard for male or female.  </p>
 
 <p>We have learned from listening to individuals and families dealing with intersex that:  </p>

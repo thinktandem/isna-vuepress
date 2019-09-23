@@ -2,6 +2,8 @@
 title: "Take Charge! A Guide to Home Catheterization"
 ---
 
+# Take Charge! A Guide to Home Catheterization
+
 <p>\_\_Sven Nicholson\_\_  </p>
 
 <p>I am now forty-four years old. When I was eleven, I had three operations to repair hypospadias. These operations were performed by a competent physician who considered my family a charity case and never sent us a bill. The artistry of his work has been commented on by most urologists who have subsequently examined me. He sincerely believed this was the best treatment for me, and did the best job he could. However, a stricture developed within two months of the final operation, and ever since my life has been drastically altered.  </p>

@@ -2,6 +2,8 @@
 title: "Biology, the Law, and Definitions of Sex (Eric Vilain)"
 ---
 
+# Biology, the Law, and Definitions of Sex (Eric Vilain)
+
 <p>Media Briefing at American Association for Advancement of Science <a href="/node/691">Symposium on Biology, the Law, and Definitions of Sex</a> (February 18)  </p>
 
 <p><a href="http://www.uclaaccess.ucla.edu/cfm/access_faculty.CFM?FacultyKey=430">Eric Vilain, M.D., Ph.D.</a>  <br />

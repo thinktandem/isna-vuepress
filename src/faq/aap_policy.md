@@ -2,6 +2,8 @@
 title: "What is the current policy of the American Academy of Pediatrics on surgery?"
 ---
 
+# What is the current policy of the American Academy of Pediatrics on surgery?
+
 <p>American Academy of Pediatrics Section on Endocrinology and Section on Urology Committee on Genetics. 2000. <a href="http://aappolicy.aappublications.org/cgi/content/full/pediatrics%3B106/1/138">Evaluation of the Newborn With Developmental Anomalies of the External Genitalia</a>. Pediatrics 106 (01):138-142.  </p>
 
 <ul>

@@ -2,6 +2,8 @@
 title: "News Release: American Academy of Pediatrics Position on Intersexuality"
 ---
 
+# News Release: American Academy of Pediatrics Position on Intersexuality
+
 <blockquote>
 	<p>In 1996, the <a href="/books/chrysalis/beck">American Academy of Pediatrics annual convention was picketed</a> by a group of intersex people. The <span class="caps">AAP</span> refused to talk with the picketers (and did not reply to a letter from <span class="caps">ISNA</span>), but they did distribute this press release to journalists who had come to cover the demonstration.  </p>
 </blockquote>

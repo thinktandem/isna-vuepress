@@ -2,6 +2,8 @@
 title: "Androgen Insensitivity Syndrome (AIS)"
 ---
 
+# Androgen Insensitivity Syndrome (AIS)
+
 <p>Androgen Insensitivity Syndrome, or <span class="caps">AIS</span>, is a genetic condition, inherited (except for occasional spontaneous mutations), occurring in approximately 1 in 20,000 individuals. In an individual with complete <span class="caps">AIS</span>, the body&#8217;s cells are unable to respond to androgen, or &#8220;male&#8221; hormones. (&#8220;Male&#8221; hormones is an unfortunate term, since these hormones are ordinarily present and active in both males and females.) Some individuals have partial androgen insensitivity.  </p>
 
 <p>In an individual with complete <span class="caps">AIS</span> and karyotype 46 XY, testes develop during gestation. The fetal testes produce mullerian inhibiting hormone (<span class="caps">MIH</span>) and testosterone. As in typical male fetuses, the <span class="caps">MIH</span> causes the fetal mullerian ducts to regress, so the fetus lacks uterus, fallopian tubes, and cervix plus upper part of vagina. However, because cells fail to respond to testosterone, the genitals differentiate in the female, rather than the male pattern, and Wolffian structures (epididymis, vas deferens, and seminal vesicles) are absent.  </p>

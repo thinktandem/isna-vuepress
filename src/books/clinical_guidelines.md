@@ -2,6 +2,8 @@
 title: "Clinical Guidelines for the Management of Disorders of Sex Development in Childhood"
 ---
 
+# Clinical Guidelines for the Management of Disorders of Sex Development in Childhood
+
 <p>\[image:1094 size=thumbnail nolink=(1) class=book_image\] (Clinical Guidelines for the Management of Disorders of Sex Development in Childhood):http://www.dsdguidelines.org  </p>
 
 <p>\_\_Clinical Guidelines for the Management of Disorders of Sex Development in Childhood\_\_ is a handbook for health care professionals who provide care to pediatric patients with Disorders of Sex Development. It is also a valuable resource for health professional students, educators, parents of children with <span class="caps">DSD</span>s, and adults with <span class="caps">DSD</span>s.  </p>

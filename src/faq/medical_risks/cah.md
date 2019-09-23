@@ -2,6 +2,8 @@
 title: "Congenital Adrenal Hyperplasia (CAH) medical risks"
 ---
 
+# Congenital Adrenal Hyperplasia (CAH) medical risks
+
 <p>Congenital Adrenal Hyperplasia:/faq/conditions/cah (<span class="caps">CAH</span>) is the only one of all the various causes of intersex that can actually cause a medical emergency. In fact, before <span class="caps">CAH</span> was well understood, it was thought to occur much more frequently in girls. Now we know that this really reflects the fact that newborn girls with genital ambiguity often came quickly to medical attention, whereas <span class="caps">CAH</span> boys (who don&#8217;t have an intersex appearance) often died without being diagnosed. <span class="caps">CAH</span> occurs equally often in XX and XY individuals.  </p>
 
 <p>People with <span class="caps">CAH</span> (both XY individuals, who are not intersexed, and XX individuals, who may be intersexed) have problems making their own cortisone, a hormone which helps the body respond to stress (like a cold, or a broken bone, or severe trauma in a bad automobile accident, or undergoing surgery). This problem can be addressed by administering cortisone, but only if medical professionals know that the person has <span class="caps">CAH</span>. For this reason, some <span class="caps">CAH</span> people wear Medic Alert bracelets.  </p>

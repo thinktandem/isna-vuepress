@@ -2,6 +2,8 @@
 title: "What's ISNA's position on surgery?"
 ---
 
+# What's ISNA's position on surgery?
+
 <p>Many people who know of <span class="caps">ISNA</span>&#8217;s work mistakenly think we are &#8220;anti-surgery.&#8221; Not at all!  </p>
 
 <p>Like all sane people, we believe it is appropriate to have competent surgeons perform operations necessary to resolve a life-threatening metabolic crisis. For example, if a child is born without a urinary opening, the child needs surgery to create a urinary opening. If a child has active gonadal cancer, the cancer should be treated immediately.  </p>

@@ -2,6 +2,8 @@
 title: "Power, Orgasm, And the Psychohormonal Research Unit"
 ---
 
+# Power, Orgasm, And the Psychohormonal Research Unit
+
 <p>\_\_Kira Triea\_\_  </p>
 
 <p>I&#8217;ve wondered why researchers at Johns Hopkins were so concerned with the genitals of a barely teenaged hermaphrodite from a family of absolutely no standing or financial resources. My experience at the <span class="caps">PRU</span> [Psychohormonal Research Unit] leads me to believe that a need to express and preserve androcentric control is at the root of the medical industrial complex&#8217;s fascination with my (our) genitals. The amount of medical resources which were brought to bear against a fourteen-year-old intersexed kid are pretty amazing, considering that life-saving surgery and treatments are routinely denied people at Hopkins. Why all the unsolicited attention?  </p>

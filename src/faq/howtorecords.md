@@ -2,6 +2,8 @@
 title: "How can I get my old medical records?"
 ---
 
+# How can I get my old medical records?
+
 <p>If you know that you were <a href="/node/726">identified as having an intersex condition</a> as an infant, you may want to try to get your old medical records.  </p>
 
 <p>But if you do know that you have an intersex condition, we encourage you to try to get copies of your medical records. Many of us have found it invaluable to obtain copies of our medical records, especially those of our births or early genital surgeries. The medical information and the emotional confirmation of what was done to us as children and how we were evaluated by medical personnel helps us to heal. With this information we can better know ourselves and understand who we are.  </p>

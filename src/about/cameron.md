@@ -2,6 +2,8 @@
 title: "David Iris Cameron"
 ---
 
+# David Iris Cameron
+
 <p>[image:890 class=bio_image]  </p>
 
 <p>\*David Cameron\* attended his first <span class="caps">ISNA</span> support group meeting in 1995 and within the year became <span class="caps">ISNA</span>’s first volunteer! He served as a board member from Dec. ’02 through Dec. ’05. As a person with <span class="caps">XXY</span> sex chromosomes, David has written about his experience in <a href="http://www.isna.org/library/hwa">Hermaphrodites with Attitude</a>, <a href="http://www.isna.org/books/chrysalis">Chrysalis</a>, and Alice Dreger’s book <a href="http://www.isna.org/books/ageofethics">Intersex In the Age of Ethics</a>. As an adult, David was hormonally masculinized by testosterone therapy without his “informed” consent.  <br />

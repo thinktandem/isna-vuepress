@@ -2,6 +2,8 @@
 title: "Bibliography sorted by Author"
 ---
 
+# Bibliography sorted by Author
+
 <p CLASS="bibliography">
   Anon. . 1980, July. Letter to the editor. Ms., 9, 12.
 </p>

@@ -2,6 +2,8 @@
 title: "Turner Syndrome"
 ---
 
+# Turner Syndrome
+
 <p>The typical female karyotype (“sex” chromosome make-up) for females is 46,XX. This means that the typical female has 46 chromosomes including two that look like X’s. People with Turner syndrome have only one X chromosome present and fully functional. This is sometimes referred to as 45,XO or 45,X karyotype. In a person with Turner Syndrome, female sex characteristics are usually present but underdeveloped compared to the typical female.  </p>
 
 <p>The following signs are more common in women with Turner Syndrome than in the general population: short stature, lymphodema (swelling of hands and feet), broad chest and widely spaced nipples, low hairline, low-set ears, and infertility.  </p>

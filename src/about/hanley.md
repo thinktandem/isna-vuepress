@@ -2,6 +2,8 @@
 title: "William Hanley, A.A., B.A."
 ---
 
+# William Hanley, A.A., B.A.
+
 <p>[image:1048 class=bio_image]  </p>
 
 

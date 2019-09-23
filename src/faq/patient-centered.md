@@ -2,6 +2,8 @@
 title: "What does ISNA recommend for children with intersex?"
 ---
 
+# What does ISNA recommend for children with intersex?
+
 <p>After years of consultation with people with intersex conditions, their parents, their healthcare providers, and others, the following <a href="/compare">Patient-Centered Model</a> is what <span class="caps">ISNA</span> recommends.  </p>
 
 <ul>

@@ -2,6 +2,8 @@
 title: "(Not) Another Clit Story"
 ---
 
+# (Not) Another Clit Story
+
 <p>\_\_Cheryl Chase\_\_  </p>
 
 <p>Karen sat on the edge of Zara&#8217;s bed and her body began to shake. It was late, and the two women were tired. Karen had flown into town to speak on a panel organized by Zara. In the course of the evening, Zara&#8217;s film had been screened several times, perhaps one time too many for Karen.  </p>

@@ -2,6 +2,8 @@
 title: "Cindy Stone"
 ---
 
+# Cindy Stone
+
 <p>[image:1004 class=bio_image]  </p>
 
 <p>\*Cindy Stone\* earned her bachelor’s and masters degrees in Education from Indiana University. She has worked at her alma mater as an administrator and instructor for the past 26 years. Cindy was born looking like other baby girls, and her intersex syndrome was not fully diagnosed until she was an adult in her 30’s. She has the complete form of Androgen Insensitivity Syndrome passed on genetically from her mother. Had she not become inquisitive on her own at age 34 about her medical needs, she might have developed gonadal cancer. She was unaware that her doctors lied to her as a teenager withholding critical information about her syndrome.  </p>

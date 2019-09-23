@@ -2,6 +2,8 @@
 title: "Surgically Shaping Children"
 ---
 
+# Surgically Shaping Children
+
 <p>table)&lt;. <a href="http://www.amazon.com/exec/obidos/ASIN/0801883059/intersexsocietyo"><img alt="cover of Surgically Shaping Children" src="http://ec1.images-amazon.com/images/P/0801883059.01.\_BO2,204,203,200\_PIsitb-dp-500-arrow,TopRight,45,-64\_AA240\_SH20\_SCLZZZZZZZ\_V62138239_.jpg" title="cover of Surgically Shaping Children" /></a>  </p>
 
 <p>At a time when medical technologies make it ever easier to enhance our minds and bodies, a debate has arisen about whether such efforts promote a process of &#8220;normalization,&#8221; which makes it ever harder to tolerate the natural anatomical differences among us. The debate becomes especially complicated when it addresses the surgical alteration, or &#8220;shaping,&#8221; of children. This volume explores the ethical and social issues raised by the recent proliferation of surgeries designed to make children born with physical differences look more normal.  </p>

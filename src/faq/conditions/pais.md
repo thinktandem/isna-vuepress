@@ -2,6 +2,8 @@
 title: "Partial Androgen Insensitivity Syndrome (PAIS)"
 ---
 
+# Partial Androgen Insensitivity Syndrome (PAIS)
+
 <p>The extent of androgen insensitivity in 46 XY individuals is quite variable, even in a single family. Partial androgen insensitivity typically results in &#8220;ambiguous genitalia.&#8221; The clitoris is large or, alternatively, the penis is small and hypospadic (these are two ways of labeling the same anatomical structure). Partial androgen insensitivity may be quite common, and has been suggested as the cause of infertility in many men whose genitals are of typically male appearance.  </p>
 
 <p>Individuals with ambiguous genitals have typically been subjected to &#8220;corrective&#8221; surgery during infancy. Based on our own painful experiences, <span class="caps">ISNA</span> believes that such cosmetic surgery of the genitals is harmful and unethical. Surgery is justified only when it is necessary for the health and well-being of the child. Surgery which is intended to make the genitals appear more male or more female should be offered, but not imposed, only when the child is old enough to make an informed decision for her/himself.  </p>

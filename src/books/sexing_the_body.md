@@ -2,6 +2,8 @@
 title: "Sexing the Body (Anne Fausto-Sterling)"
 ---
 
+# Sexing the Body (Anne Fausto-Sterling)
+
 <A HREF="http://www.amazon.com/exec/obidos/ISBN%3D0465077137/intersexsocietyo/"><IMG SRC="/img/books/sexing.gif" ALT="Sexing the Body" border=1 HEIGHT="140" WIDTH="92" align="left" hspace=10 vspace=10 ></A>  
 Drawing on astonishing real-life cases and a probing analysis of centuries of scientific research, Fausto-Sterling demonstrates how scientists have historically politicized the body.  
 <!--break-->

@@ -2,6 +2,8 @@
 title: "What do intersex and the same-sex marriage debate have to do with each other?"
 ---
 
+# What do intersex and the same-sex marriage debate have to do with each other?
+
 <p>A lot, as it turns out.  </p>
 
 <p>People who are proponents of prohibitions against &#8220;same sex&#8221; marriage think it is easy to figure out who is &#8220;same sex&#8221; and who is &#8220;opposite sex.&#8221; Not so. Check out our <span class="caps">FAQ</span> called <a href="/faq/what%5C_is%5C_intersex">What is intersex?</a> to learn more about how it isn&#8217;t clear, in practice, where the category of &#8220;male&#8221; should end and &#8220;intersex&#8221; begin, or &#8220;intersex&#8221; end and &#8220;female&#8221; begin.  </p>

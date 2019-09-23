@@ -2,6 +2,8 @@
 title: "Press Resources: Biology and the Law"
 ---
 
+# Press Resources: Biology and the Law
+
 <h3>I. <span class="caps">FAQ</span>  </h3>
 
 <p>You may find many of your basic questions answered in our <a href="/faq"><span class="caps">FAQ</span></a>.  </p>
@@ -42,7 +44,7 @@ Cell: 517.410.8963  </p>
 
 
 
-<p>[![click for 300 dpi photo]<sup class="footnote" id="fnrev12888589285d85450c8844a-1"><a href="#fn12888589285d85450c8844a-1">1</a></sup>]<sup class="footnote" id="fnrev12888589285d85450c8844a-2"><a href="#fn12888589285d85450c8844a-2">2</a></sup></p>
+<p>[![click for 300 dpi photo]<sup class="footnote" id="fnrev3591163555d88c3490581f-1"><a href="#fn3591163555d88c3490581f-1">1</a></sup>]<sup class="footnote" id="fnrev3591163555d88c3490581f-2"><a href="#fn3591163555d88c3490581f-2">2</a></sup></p>
 
 
 
@@ -66,7 +68,7 @@ Cell: 707.481.5307  <br />
 
 
 
-<p>[![click for 300 dpi photo]<sup class="footnote" id="fnrev12888589285d85450c8844a-3"><a href="#fn12888589285d85450c8844a-3">3</a></sup>]<sup class="footnote" id="fnrev12888589285d85450c8844a-4"><a href="#fn12888589285d85450c8844a-4">4</a></sup></p>
+<p>[![click for 300 dpi photo]<sup class="footnote" id="fnrev3591163555d88c3490581f-3"><a href="#fn3591163555d88c3490581f-3">3</a></sup>]<sup class="footnote" id="fnrev3591163555d88c3490581f-4"><a href="#fn3591163555d88c3490581f-4">4</a></sup></p>
 
 
 
@@ -112,7 +114,7 @@ Cell: 708.257.6692  </p>
 
 
 
-<p>[![click for 300 dpi photo]<sup class="footnote" id="fnrev12888589285d85450c8844a-5"><a href="#fn12888589285d85450c8844a-5">5</a></sup>]<sup class="footnote" id="fnrev12888589285d85450c8844a-6"><a href="#fn12888589285d85450c8844a-6">6</a></sup></p>
+<p>[![click for 300 dpi photo]<sup class="footnote" id="fnrev3591163555d88c3490581f-5"><a href="#fn3591163555d88c3490581f-5">5</a></sup>]<sup class="footnote" id="fnrev3591163555d88c3490581f-6"><a href="#fn3591163555d88c3490581f-6">6</a></sup></p>
 
 
 

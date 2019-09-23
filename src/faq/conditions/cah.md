@@ -2,6 +2,8 @@
 title: "Congenital Adrenal Hyperplasia (CAH)"
 ---
 
+# Congenital Adrenal Hyperplasia (CAH)
+
 <p>Congenital Adrenal Hyperplasia (<span class="caps">CAH</span>) is the most prevalent cause of intersex among people with XX chromosomes. About 1 in 10,000 to 18,000 children are born with congenital adrenal hyperplasia, but it does not cause intersex in those with XY chromosomes, so the prevalence of <span class="caps">CAH</span>-related intersex is about 1 in 20,000 to 1 in 36,000.  </p>
 
 <p>\*Among the many causes of intersex, only <span class="caps">CAH</span> represents a real medical emergency in the newborn period.\* Click here to read about the <a href="/faq/medical_risks/cah">medical risks of <span class="caps">CAH</span></a> both at birth and later in life.  </p>

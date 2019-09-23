@@ -2,6 +2,8 @@
 title: "Hermaphrodites with Attitude"
 ---
 
+# Hermaphrodites with Attitude
+
 <p><img alt="Hermaphrodites with Attitude nameplate" src="/files/hwa/nameplate.gif" title="Hermaphrodites with Attitude nameplate" />  </p>
 
 <p>Hermaphrodites with Attitude was the occasional newsletter of <span class="caps">ISNA</span>, published from December 1994 thru Spring 2003. Here are all the back issues, in pdf form.  </p>

@@ -2,6 +2,8 @@
 title: "Ethics of Gender Assignment"
 ---
 
+# Ethics of Gender Assignment
+
 <p>These ethics of gender assignment for children born with intersex conditions were presented by William Reiner, M.D. at the <a href="/events/ducket2000">Duckett Memorial Lecture</a>, University of Michigan, July 21, 2000. Dr. Reiner is a physician in the Division of Child Psychiatry and in the Division of Pediatric Urology at Johns Hopkins University. The title of Dr. Reiner&#8217;s talk was &#8220;How I learned to Stop Worrying and Love the Unknown.&#8221;  </p>
 
 <h3>New Precepts  </h3>

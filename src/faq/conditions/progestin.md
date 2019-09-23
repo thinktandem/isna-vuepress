@@ -2,6 +2,8 @@
 title: "Progestin Induced Virilization"
 ---
 
+# Progestin Induced Virilization
+
 <p>Caused by prenatal exposure to exogenous androgens, most commonly progestin. Progestin is a drug which was administered to prevent miscarriage in the 50&#8217;s and 60&#8217;s and it is converted to an androgen (virilizing hormone) by the prenatal XX persons metabolism. If the timing is right, the genitals are virilized with effects ranging from enlarged clitoris to the development of a complete phallus and the fusing of the labia. In all cases ovaries and uterus or uterine tract are present, though in extreme cases of virilization there is no vagina or cervix, the uterine tract being connected to the upper portion of the urethra internally. The virilization only occurs prenatally and the endocrinological functionality is unchanged, ie. feminizing puberty occurs due to normally functioning ovaries.  </p>
 
 <p>In other words, XX people affected in-utero by virilizing hormones can be born into a continuum of sex phenotype which ranges from &#8220;female with larger clitoris&#8221; to &#8220;male with no testes&#8221;. It is noteworthy that the use of progestin is not effective in the prevention of miscarriage.  </p>

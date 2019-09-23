@@ -2,6 +2,8 @@
 title: "Traveling to the DSD Symposium"
 ---
 
+# Traveling to the DSD Symposium
+
 <p>Here is some information to assist those who will be traveling to the <a href="/dsdsymposium2006"><span class="caps">DSD</span> Symposium</a>.  </p>
 
 <h3>Accomodations  </h3>

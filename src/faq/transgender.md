@@ -2,6 +2,8 @@
 title: "What's the difference between being transgender or transsexual and having an intersex condition?"
 ---
 
+# What's the difference between being transgender or transsexual and having an intersex condition?
+
 <p>People who identify as transgender or transsexual are usually people who are born with typical male or female anatomies but feel as though they’ve been born into the “wrong body.” For example, a person who identifies as transgender or transsexual may have typical female anatomy but feel like a male and seek to become male by taking hormones or electing to have sex reassignment surgeries.  </p>
 
 <p>People who have intersex conditions have anatomy that is not considered typically male or female. Most people with intersex conditions come to medical attention because \_\_doctors or parents notice something unusual about their bodies\_\_. In contrast, people who are transgendered \_\_have an internal experience of gender identity\_\_ that is different from most people.  </p>

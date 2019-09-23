@@ -2,6 +2,8 @@
 title: "Dear ISNA Friends and Supporters"
 ---
 
+# Dear ISNA Friends and Supporters
+
 <p>The Intersex Society of North America (<span class="caps">ISNA</span>) was founded in 1993 in an effort to advocate for patients and families who felt they had been harmed by their experiences with the health care system. From these scrappy, brave, and confrontational beginnings, <span class="caps">ISNA</span> evolved into an important resource for clinicians, parents, and affected individuals who require basic information about disorders of sex development (<span class="caps">DSD</span>s) and for how to improve the health care and overall well-being of people with <span class="caps">DSD</span>s.  </p>
 
 <p>Largely as a result of <span class="caps">ISNA</span>’s efforts, there is now widespread acknowledgment among health professionals that the time has come to change how we think about and care for persons with <span class="caps">DSD</span>s. Here are two recent and striking examples of this shift:  </p>

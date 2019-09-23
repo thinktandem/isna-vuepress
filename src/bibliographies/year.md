@@ -2,6 +2,8 @@
 title: "Bibliography sorted by Year"
 ---
 
+# Bibliography sorted by Year
+
 <P CLASS="bibliography">
   Meyer-Bahlburg, H. F. L., in press. Gender assignment and reassignment in intersexuality: Controversies, data, and guidelines for research. In: Zderic, S. A., Canning, D. A., Synder Iii, H. M., and Carr, M. C. eds. Pediatric gender reassignment: A critical reappraisal. New York: Plenum.
 </p>

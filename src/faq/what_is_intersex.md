@@ -2,6 +2,8 @@
 title: "What is intersex?"
 ---
 
+# What is intersex?
+
 <p>Intersex is a general term used for a variety of conditions in which a person is born with a reproductive or sexual anatomy that doesn&#8217;t seem to fit the typical definitions of female or male. For example, a person might be born appearing to be female on the outside, but having mostly male-typical anatomy on the inside. Or a person may be born with genitals that seem to be in-between the usual male and female types&#8212;for example, a girl may be born with a noticeably large clitoris, or lacking a vaginal opening, or a boy may be born with a notably small penis, or with a scrotum that is divided so that it has formed more like labia. Or a person may be born with mosaic genetics, so that some of her cells have XX chromosomes and some of them have XY.  </p>
 
 <p>Though we speak of intersex as an inborn condition, intersex anatomy doesn&#8217;t always show up at birth. Sometimes a person isn&#8217;t found to have intersex anatomy until she or he reaches the age of puberty, or finds himself an infertile adult, or dies of old age and is autopsied. Some people live and die with intersex anatomy without anyone (including themselves) ever knowing.  </p>

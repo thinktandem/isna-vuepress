@@ -2,6 +2,8 @@
 title: "Hermaphrodites with Attitude Take to the Streets"
 ---
 
+# Hermaphrodites with Attitude Take to the Streets
+
 <p>\_\_Max Beck\_\_  </p>
 
 <p>In late October of 1996, Hermaphrodites with Attitude took to the streets, in the first public demonstration by intersexuals in modern history. On a glorious fall day, the like of which you can only find in New England, under a crackling, cloudless sky, twenty-odd protesters joined forces to picket the Annual Meeting of the American Academy of Pediatricians in Boston (see cover photo \_\_&#8212;Ed.\_\_).  </p>

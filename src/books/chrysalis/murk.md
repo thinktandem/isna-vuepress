@@ -2,6 +2,8 @@
 title: "The Murk Manual: How to Understand Medical Writing on Intersex"
 ---
 
+# The Murk Manual: How to Understand Medical Writing on Intersex
+
 <p>\_\_Raphael Carter\_\_  </p>
 
 <blockquote>

@@ -2,6 +2,8 @@
 title: "Chrysalis Special Issue on Intersexuality (1997)"
 ---
 
+# Chrysalis Special Issue on Intersexuality (1997)
+
 <p><img src="/img/store/chrysalis.gif" width=150 height=194 alt="Chrysalis: Intersex Awakening Special Issue" align=left hspace=10 vspace=3>  <br />
 This special issue of \_\_Chrysalis: Journal of Transgressive Gender Identities\_\_ is guest-edited by intersex activists and is completely devoted to addressing intersex issues.  </p>
 

@@ -2,6 +2,8 @@
 title: "Third Sex, Third Gender (ed Gilbert Herdt)"
 ---
 
+# Third Sex, Third Gender (ed Gilbert Herdt)
+
 <A HREF="http://www.amazon.com/exec/obidos/ISBN%3D0942299825/intersexsocietyo/"><IMG SRC="/img/books/thirdsex.jpg" ALT="Third Sex, Third Gender" border=1 WIDTH="126" HEIGHT="140" align="left" hspace=10 vspace=10></A>  
 These eleven essays in history and anthropology offer a novel perspective by questioning the place of sexual dimorphism in culture and history.  
 <!--break-->

@@ -2,6 +2,8 @@
 title: "Teaching Intersex Issues"
 ---
 
+# Teaching Intersex Issues
+
 <p>!(book\_image) /files/teaching\_cover_thumb.jpg (Teaching Intersex Issues)!:/donate  <br />
 \*Teaching Intersex Issues\* is designed for undergraduate classes and offers instructors a two-week unit on intersex issues in a format that can easily be added to existing syllabi, expanded to constitute an entire course, or trimmed down to a few class sessions.  </p>
 

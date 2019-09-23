@@ -2,6 +2,8 @@
 title: "MYTH #3: Corrective cosmetic surgeries make parents forget their kid was born different"
 ---
 
+# MYTH #3: Corrective cosmetic surgeries make parents forget their kid was born different
+
 <p><span class="caps">MYTH</span> #3: Corrective cosmetic surgeries make parents forget their kid was born different and undoes all their confusion, shame, guilt, and fear.  </p>
 
 <p>Hello? This might work if the surgery being done was a lobotomy on the parents. &#8220;Normalizing&#8221; surgery just gives parents this message: Your kid is a freak, we had to correct it, don&#8217;t talk to anyone about it because this is a really scary, shameful condition.  </p>

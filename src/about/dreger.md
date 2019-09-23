@@ -2,6 +2,8 @@
 title: "Alice Dreger, PhD"
 ---
 
+# Alice Dreger, PhD
+
 <p>[image:1060 class=bio_image]  </p>
 
 <p><a href="http://www.alicedreger.com">Alice Dreger,PhD</a> began her association with <span class="caps">ISNA</span> in 1996 in response to Cheryl Chase’s request for help changing the medical treatment of people born with intersex. One of the few non-intersex people to become a pillar of the intersex rights movement, Alice served <span class="caps">ISNA</span> for nine years, acting as Chair and President of the Board for six years, Chair of the Fundraising Committee for one year, and as the first Director of Medical Education. These titles do not capture the extent to which Alice often functioned as behind-the-scenes glue helping to hold <span class="caps">ISNA</span> together. She wrote, ghost-wrote, and edited countless articles, grants, letters, hand-outs, and blogs for <span class="caps">ISNA</span>, recruited and aided allies, directed numerous major fundraising campaigns, and played a central role in policy development and advocacy strategizing. She and her husband, Aron Sousa (a member of <span class="caps">ISNA</span>’s <a href="http://www.isna.org/about/medicalboard/">Medical Advisory Board</a>) have also been major financial donors to <span class="caps">ISNA</span>.  </p>

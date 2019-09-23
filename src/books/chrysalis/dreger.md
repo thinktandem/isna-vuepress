@@ -2,6 +2,8 @@
 title: "Doctors Containing Hermaphrodites: The Victorian Legacy"
 ---
 
+# Doctors Containing Hermaphrodites: The Victorian Legacy
+
 <p>\_\_Alice Dreger, Michigan State University\_\_  </p>
 
 <p>In the early 1880s, a French woman, identified in medical records only as Sophie V., went to a local surgical clinic seeking advice and help. At the age of 42, Sophie had now been married two months to her first husband, but for all their trying he could not &#8220;accomplish the conjugal act&#8221; with her; he just could not seem to penetrate her vagina. The attending physician, identified in the record as Professor Michaux, examined Sophie&#8217;s genitals and quickly discovered the &#8220;problem&#8221;: Sophie V. was a man, no matter what she had been led to believe all of her life. She had a &#8220;penis&#8221; five centimeters long, albeit lacking the urinary- tract opening in the usual place. Her &#8220;labia&#8221; contained at least one testicle. And, Michaux noted, of course her husband couldn&#8217;t get his penis into her vagina, because she didn&#8217;t really have one!  </p>

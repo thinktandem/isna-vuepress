@@ -2,6 +2,8 @@
 title: "Jane L. Goto"
 ---
 
+# Jane L. Goto
+
 <p>[image:886 class=bio_image]  </p>
 
 <p>Following 25 years of shame and denial, a series of events caused \*Jane Goto\* to re-evaluate. Electing to cast off the shroud of shame, she began to utilize her skills and 25 year&#8217;s experience as an adult educator and communicator to help others and, in the process, expedite her own healing.  </p>

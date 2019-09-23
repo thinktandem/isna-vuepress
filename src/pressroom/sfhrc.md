@@ -2,6 +2,8 @@
 title: "Press Information (San Francisco Human Rights Commission Report)"
 ---
 
+# Press Information (San Francisco Human Rights Commission Report)
+
 <p>Today the San Francisco Human Rights Commission issued <a href="/files/SFHRC%5C_Intersex%5C_Report.pdf">A Human Rights Investigation into the Medical &#8216;Normalization&#8217; of Intersex People</a>, declaring that the standard medical approach to intersex conditions leads pediatric specialists to violate their patients&#8217; human rights.  </p>
 
 
