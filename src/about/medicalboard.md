@@ -4,9 +4,7 @@ title: "Medical Advisory Board"
 
 # Medical Advisory Board
 
-<p><span class="caps">ISNA</span>&#8217;s Medical Advisory Board included some of the nation&#8217;s leading experts in pediatric endocrinology, urology, general pediatrics, nursing, psychiatry, psychology, social work, and bioethics.  <br />
-<!--break--></p>
-
+<p><span class="caps">ISNA</span>&#8217;s Medical Advisory Board included some of the nation&#8217;s leading experts in pediatric endocrinology, urology, general pediatrics, nursing, psychiatry, psychology, social work, and bioethics.  </p>
 
 
 <p><a href="http://www.mhb.northwestern.edu/faculty/frader.htm">Joel Frader, M.D.</a> \_\_Chair\_\_  <br />
@@ -140,6 +138,4 @@ Highland Park, NJ  </p>
 <p>\*Bruce E. Wilson, M.D.\*  <br />
 Pediatric Endocrinology  <br />
 DeVos Children&#8217;s Hospital  <br />
-Grand Rapids, MI  </p>
-
-<!--break-->
+Grand Rapids, MI</p>

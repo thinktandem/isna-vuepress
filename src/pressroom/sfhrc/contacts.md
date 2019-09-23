@@ -8,7 +8,7 @@ title: "Contacts for San Francisco Human Rights Commission story"
 
 
 
-<p>![]<sup class="footnote" id="fnrev1058796375d88e583aba18-1"><a href="#fn1058796375d88e583aba18-1">1</a></sup> </p>
+<p>![]<sup class="footnote" id="fnrev2196937345d88eb35a2eaa-1"><a href="#fn2196937345d88eb35a2eaa-1">1</a></sup> </p>
 
 
 

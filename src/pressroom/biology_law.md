@@ -44,7 +44,7 @@ Cell: 517.410.8963  </p>
 
 
 
-<p>[![click for 300 dpi photo]<sup class="footnote" id="fnrev9242230885d88e583d1dd0-1"><a href="#fn9242230885d88e583d1dd0-1">1</a></sup>]<sup class="footnote" id="fnrev9242230885d88e583d1dd0-2"><a href="#fn9242230885d88e583d1dd0-2">2</a></sup></p>
+<p>[![click for 300 dpi photo]<sup class="footnote" id="fnrev14841328745d88eb35cf7d0-1"><a href="#fn14841328745d88eb35cf7d0-1">1</a></sup>]<sup class="footnote" id="fnrev14841328745d88eb35cf7d0-2"><a href="#fn14841328745d88eb35cf7d0-2">2</a></sup></p>
 
 
 
@@ -68,7 +68,7 @@ Cell: 707.481.5307  <br />
 
 
 
-<p>[![click for 300 dpi photo]<sup class="footnote" id="fnrev9242230885d88e583d1dd0-3"><a href="#fn9242230885d88e583d1dd0-3">3</a></sup>]<sup class="footnote" id="fnrev9242230885d88e583d1dd0-4"><a href="#fn9242230885d88e583d1dd0-4">4</a></sup></p>
+<p>[![click for 300 dpi photo]<sup class="footnote" id="fnrev14841328745d88eb35cf7d0-3"><a href="#fn14841328745d88eb35cf7d0-3">3</a></sup>]<sup class="footnote" id="fnrev14841328745d88eb35cf7d0-4"><a href="#fn14841328745d88eb35cf7d0-4">4</a></sup></p>
 
 
 
@@ -114,7 +114,7 @@ Cell: 708.257.6692  </p>
 
 
 
-<p>[![click for 300 dpi photo]<sup class="footnote" id="fnrev9242230885d88e583d1dd0-5"><a href="#fn9242230885d88e583d1dd0-5">5</a></sup>]<sup class="footnote" id="fnrev9242230885d88e583d1dd0-6"><a href="#fn9242230885d88e583d1dd0-6">6</a></sup></p>
+<p>[![click for 300 dpi photo]<sup class="footnote" id="fnrev14841328745d88eb35cf7d0-5"><a href="#fn14841328745d88eb35cf7d0-5">5</a></sup>]<sup class="footnote" id="fnrev14841328745d88eb35cf7d0-6"><a href="#fn14841328745d88eb35cf7d0-6">6</a></sup></p>
 
 
 

@@ -16,7 +16,7 @@ Anne Tamar-Mattis (facilitator)  </p>
 <p>\*Agenda for Change: Psychology and Clinical Management of Disorders of Sex Development in Adulthood\*  <br />
 Lih-Mei Liao PhD  </p>
 
-<p>\*Report on Chicago Consensus Conference\*<sup class="footnote" id="fnrev13630990765d88e583e720d-1"><a href="#fn13630990765d88e583e720d-1">1</a></sup>  <br />
+<p>\*Report on Chicago Consensus Conference\*<sup class="footnote" id="fnrev14250564215d88eb35e3f98-1"><a href="#fn14250564215d88eb35e3f98-1">1</a></sup>  <br />
 David Sandberg PhD, Eric Vilain PhD MD, and Cheryl Chase  </p>
 
 <p>\*Nomenclature Change: I Am Not a Disorder\*  <br />
@@ -25,14 +25,14 @@ Cheryl Chase, Eric Vilain PhD MD, Ellen Feder PhD, Katie Baratz, Arlene Baratz M
 <p>\*Counseling Adults\*  <br />
 William Byne MD, Nina Williams PhD  </p>
 
-<p>\*Clinical Guidelines for the Management of Disorders of Sex Development in Childhood\*<sup class="footnote" id="fnrev13630990765d88e583e720d-2"><a href="#fn13630990765d88e583e720d-2">2</a></sup>  <br />
+<p>\*Clinical Guidelines for the Management of Disorders of Sex Development in Childhood\*<sup class="footnote" id="fnrev14250564215d88eb35e3f98-2"><a href="#fn14250564215d88eb35e3f98-2">2</a></sup>  <br />
 Charmian Quigley MD  </p>
 
 <p>\*How to Make a Team\*  <br />
 Barbara Neilson PhD, Melissa Parisi PhD  </p>
 
 
-<p>\*Handbook for Parents\*<sup class="footnote" id="fnrev13630990765d88e583e720d-3"><a href="#fn13630990765d88e583e720d-3">3</a></sup>  <br />
+<p>\*Handbook for Parents\*<sup class="footnote" id="fnrev14250564215d88eb35e3f98-3"><a href="#fn14250564215d88eb35e3f98-3">3</a></sup>  <br />
 Arlene Baratz MD  </p>
 
 <p>\*Counseling Parents\*  <br />
@@ -45,11 +45,11 @@ Lih-Mei Liao PhD  </p>
 
 <p>\*Affinity Groups\*  </p>
 
-<p class="footnote" id="fn13630990765d88e583e720d-1"><sup>1</sup> Lee, P. A., C. P. Houk, et al. (2006). <a href="http://pediatrics.aappublications.org/cgi/reprint/118/2/e488">Consensus statement on management of intersex disorders.</a> Pediatrics 118(2): e488-500.  </p>
+<p class="footnote" id="fn14250564215d88eb35e3f98-1"><sup>1</sup> Lee, P. A., C. P. Houk, et al. (2006). <a href="http://pediatrics.aappublications.org/cgi/reprint/118/2/e488">Consensus statement on management of intersex disorders.</a> Pediatrics 118(2): e488-500.  </p>
 
-<p class="footnote" id="fn13630990765d88e583e720d-2"><sup>2</sup> Consortium on the Management of Disorders of Sex Differentiation (2006). <a href="http://www.dsdguidelines.org/htdocs/clinical/index.html">Clinical Guidelines for the Management of Disorders of Sex Development in Childhood.</a> Rohnert Park, Intersex Society of North America.  </p>
+<p class="footnote" id="fn14250564215d88eb35e3f98-2"><sup>2</sup> Consortium on the Management of Disorders of Sex Differentiation (2006). <a href="http://www.dsdguidelines.org/htdocs/clinical/index.html">Clinical Guidelines for the Management of Disorders of Sex Development in Childhood.</a> Rohnert Park, Intersex Society of North America.  </p>
 
-<p class="footnote" id="fn13630990765d88e583e720d-3"><sup>3</sup> Consortium on the Management of Disorders of Sex Differentiation (2006). <a href="http://www.dsdguidelines.org/htdocs/parents/index.html">Handbook for Parents.</a> Rohnert Park, Intersex Society of North America.  </p>
+<p class="footnote" id="fn14250564215d88eb35e3f98-3"><sup>3</sup> Consortium on the Management of Disorders of Sex Differentiation (2006). <a href="http://www.dsdguidelines.org/htdocs/parents/index.html">Handbook for Parents.</a> Rohnert Park, Intersex Society of North America.  </p>
 
 
 

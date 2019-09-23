@@ -14,6 +14,4 @@ title: "Clinical Guidelines for the Management of Disorders of Sex Development i
 
 
 <p>Consortium on the Management of Disorders of Sex Differentiation (2006). <a href="http://www.dsdguidelines.org">Clinical Guidelines for the Management of Disorders of Sex Development in Childhood.</a>  <br />
-Rohnert Park, Intersex Society of North America.  </p>
-
-<!--break-->
+Rohnert Park, Intersex Society of North America.</p>

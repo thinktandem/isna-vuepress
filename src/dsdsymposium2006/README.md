@@ -16,5 +16,3 @@ title: "DSD Symposium 2006"
 	<li><a href="/files/DSD%5C_Symposium%5C_Proceedings.pdf">Proceedings</a></li>
 	<li><a href="/files/DSD%5C_Symposium%5C_Program.pdf">Program</a></li>
 </ul>
-
-<!--break-->

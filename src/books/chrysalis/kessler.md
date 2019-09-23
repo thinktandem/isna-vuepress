@@ -57,21 +57,19 @@ title: "Meanings of Gender Variability Constructs of Sex and Gender"
 
 
 
-<li value="5">
-  Your genitals are inferior (less functional, ugly). We pity you and suggest you have corrective/cosmetic surgery.
-</li>
+  1. Your genitals are inferior (less functional, ugly). We pity you and suggest you have corrective/cosmetic surgery.
 
 
 
-  1. Your genitals are superior (more versatile, attractive). We envy yours and want ones like them.
+  2. Your genitals are superior (more versatile, attractive). We envy yours and want ones like them.
 
 
 
-  2. Your genitals are just another body-part that varies from person to person, like noses and ears, and it doesn&#8217;t matter what they look like as long as they function well. We don&#8217;t think that much about your genitals or our own.
+  3. Your genitals are just another body-part that varies from person to person, like noses and ears, and it doesn&#8217;t matter what they look like as long as they function well. We don&#8217;t think that much about your genitals or our own.
 
 
 
-  3. Your genitals signify something about your parents. They have misbehaved or are genetically unsuitable. They are embarrassed by you and your genitals.
+  4. Your genitals signify something about your parents. They have misbehaved or are genetically unsuitable. They are embarrassed by you and your genitals.
 
 
 

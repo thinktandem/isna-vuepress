@@ -18,4 +18,85 @@ title: "In Process"
 
 
 
-<pre>&lt;br /&gt;To: Derick@domain.net&lt;br /&gt;From: cchase@isna.org (Cheryl Chase)&lt;br /&gt;Subject: Re: Write for Chrysalis?&lt;br /&gt;Cc:&lt;br /&gt;Bcc:&lt;br /&gt;X-Attachments:&lt;br /&gt;&lt;br /&gt;Hi Derick,&lt;br /&gt;&lt;br /&gt;What I would like you to write about is not just about the&lt;br /&gt;surgery, but about what it has been like to be intersexed,&lt;br /&gt;how you were treated and what it felt like (emotionally,&lt;br /&gt;physically), and how you wish you had been treated.&lt;br /&gt;&lt;br /&gt;best,&lt;br /&gt;&lt;br /&gt;cheryl&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;From: Derick@domain.net&lt;br /&gt;Date: Sat, 3 Aug 1996 14:37:35 -0400&lt;br /&gt;To: cchase@isna.org&lt;br /&gt;Subject: My Story&lt;br /&gt;&lt;br /&gt;Cheryl..... is this what you are looking for?.... if you&lt;br /&gt;want it changed, expanded, etc... please let me know.....&lt;br /&gt;&lt;br /&gt;Regards&lt;br /&gt;&lt;br /&gt;Derick&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;To: Derick@domain.net&lt;br /&gt;Date: 6 Aug 1996&lt;br /&gt;From: cchase@isna.org (Cheryl Chase)&lt;br /&gt;Subject: Re: My Story&lt;br /&gt;&lt;br /&gt;&gt;Cheryl..... is this what you are looking for?.... if you&lt;br /&gt;want it&lt;br /&gt;&gt;changed, expanded, etc... please let me know.....&lt;br /&gt;&lt;br /&gt;Thank you!&lt;br /&gt;&lt;br /&gt;If you could expand somewhat on what your life has been&lt;br /&gt;like since then... what you wrote seems to end at about 18.&lt;br /&gt;But it is now many years later; how did you fare, how did&lt;br /&gt;you connect with your current partner, how has sex been for&lt;br /&gt;you, and has your adult life been affected by your sexual&lt;br /&gt;difference?&lt;br /&gt;&lt;br /&gt;Did you ever learn to masturbate? Are you orgasmic? Do you&lt;br /&gt;find pleasure in sex?&lt;br /&gt;&lt;br /&gt;One of the goals of hypospadias surgery is to make you able&lt;br /&gt;to pee standing up. How did you pee before the surgery?&lt;br /&gt;After the surgery?&lt;br /&gt;&lt;br /&gt;love,&lt;br /&gt;&lt;br /&gt;cheryl&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;From: Derick@domain.net&lt;br /&gt;Date: Tue, 13 Aug 1996 11:47:41 -0400&lt;br /&gt;To: cchase@isna.org&lt;br /&gt;Subject: Re: Article&lt;br /&gt;&lt;br /&gt;Cheryl,&lt;br /&gt;&lt;br /&gt;I am having a struggle trying to put into words my inner&lt;br /&gt;feelings, emotions, etc. that you asked for as an addition&lt;br /&gt;to the stuff I sent you. I think it&#39;s because its something&lt;br /&gt;I&#39;ve never consciously tried to do.. it&#39;s been repressed&lt;br /&gt;for a long time. I&#39;ve only known about ISNA for about a&lt;br /&gt;month now... and I guess you could say that I am still in&lt;br /&gt;the process of coming out......&lt;br /&gt;&lt;br /&gt;Derick&lt;br /&gt;&lt;br /&gt;</pre>
+
+    To: Derick@domain.net  
+    From: cchase@isna.org (Cheryl Chase)  
+    Subject: Re: Write for Chrysalis?  
+    Cc:  
+    Bcc:  
+    X-Attachments:  
+
+    Hi Derick,  
+
+    What I would like you to write about is not just about the  
+    surgery, but about what it has been like to be intersexed,  
+    how you were treated and what it felt like (emotionally,  
+    physically), and how you wish you had been treated.  
+
+    best,  
+
+    cheryl  
+
+
+
+    From: Derick@domain.net  
+    Date: Sat, 3 Aug 1996 14:37:35 -0400  
+    To: cchase@isna.org  
+    Subject: My Story  
+
+    Cheryl&#8230;.. is this what you are looking for?&#8230;. if you  
+    want it changed, expanded, etc&#8230; please let me know&#8230;..  
+
+    Regards  
+
+    Derick  
+
+
+
+    To: Derick@domain.net  
+    Date: 6 Aug 1996  
+    From: cchase@isna.org (Cheryl Chase)  
+    Subject: Re: My Story  
+
+    &gt;Cheryl&#8230;.. is this what you are looking for?&#8230;. if you  
+    want it  
+    &gt;changed, expanded, etc&#8230; please let me know&#8230;..  
+
+    Thank you!  
+
+    If you could expand somewhat on what your life has been  
+    like since then&#8230; what you wrote seems to end at about 18.  
+    But it is now many years later; how did you fare, how did  
+    you connect with your current partner, how has sex been for  
+    you, and has your adult life been affected by your sexual  
+    difference?  
+
+    Did you ever learn to masturbate? Are you orgasmic? Do you  
+    find pleasure in sex?  
+
+    One of the goals of hypospadias surgery is to make you able  
+    to pee standing up. How did you pee before the surgery?  
+    After the surgery?  
+
+    love,  
+
+    cheryl  
+
+
+
+    From: Derick@domain.net  
+    Date: Tue, 13 Aug 1996 11:47:41 -0400  
+    To: cchase@isna.org  
+    Subject: Re: Article  
+
+    Cheryl,  
+
+    I am having a struggle trying to put into words my inner  
+    feelings, emotions, etc. that you asked for as an addition  
+    to the stuff I sent you. I think it&#8217;s because its something  
+    I&#8217;ve never consciously tried to do.. it&#8217;s been repressed  
+    for a long time. I&#8217;ve only known about <span class="caps">ISNA</span> for about a  
+    month now&#8230; and I guess you could say that I am still in  
+    the process of coming out&#8230;&#8230;  
+
+    Derick

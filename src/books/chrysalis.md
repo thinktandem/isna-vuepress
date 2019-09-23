@@ -11,5 +11,4 @@ This special issue of \_\_Chrysalis: Journal of Transgressive Gender Identities\
 
 <p>Chase, Cheryl. 1997. \_\_Special issue on intersexuality. Chrysalis: The Journal of Transgressive Gender Identities\_\_, Fall/Winter.  </p>
 
-<p>\_\_Chrysalis\_\_ was the journal of the American Educational Gender Information Service, Inc., now <a href="www.gender.org">Gender Education &amp; Advocacy</a>.  <br />
-<!--break--></p>
+<p>\_\_Chrysalis\_\_ was the journal of the American Educational Gender Information Service, Inc., now <a href="www.gender.org">Gender Education &amp; Advocacy</a>.</p>

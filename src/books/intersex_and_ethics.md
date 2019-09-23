@@ -8,8 +8,6 @@ title: "Intersex and Ethics"
 
 <p>This collection of 21 articles is designed to serve as a state-of-the art reference book for intersexuals, their parents, health care professionals, ethics committee members, and anyone interested in problems associated with intersexuality. It fills an important need because of its uniqueness as an interdisciplinary effort, bringing together not just urologists and endocrinologists, but gynecologists, psychiatrists, psychologists, lawyers, theologians, gender theorists, medical historians, and philosophers. Most contributors are well-known experts on intersexuality in their respective fields. The book is also unique in that it is also an international effort, including authors from England, the Netherlands, Germany, Australia, India, Canada and the United States. The book begins with introductory chapters on the etiology of intersex conditions, conceptual clarification, legal issues, and reflections about the inherent characteristics of medical care that have led up to the issues we face today and explain the resistance to change in traditional practices. Researchers provide recent data on gender identity, surgical outcomes, and appropriate clinical care. Issues never having been addressed are introduced. The significance of intersexuality for Christianity and for philosophical concerns with authenticity add further depth to the collection. The final chapters deal with future possibilities in the treatment of intersex and for intersex advocacy.  </p>
 
-<!--break-->
-
 
 
 <h3>Table of Contents  </h3>

@@ -43,6 +43,4 @@ title: "Dear ISNA Friends and Supporters"
 
 <p><span class="caps">ISNA</span>&#8217;s successes and the future of Accord Alliance would not have been possible without the involvement of many, many dedicated people. (<a href="/about/emeritus/">Here are just some of the people</a> who raised money, worked in our offices, wrote, publicized, spoke, provided support, and so much more). We cannot thank each of you enough for the encouragement, support, and hard work. We could not have done it without you!  </p>
 
-<p>If you are an <span class="caps">ISNA</span> donor, you will be hearing from us very soon.  </p>
-
-<!--break-->
+<p>If you are an <span class="caps">ISNA</span> donor, you will be hearing from us very soon.</p>

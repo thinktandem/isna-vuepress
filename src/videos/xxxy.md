@@ -9,9 +9,4 @@ title: "XXXY - A short documentary about intersex (online)"
 <p>This film is not available from <span class="caps">ISNA</span>. You can find distribution information from <a href="http://www.berkeleymedia.com/catalog/berkeleymedia/films/womens%5C_studies%5C_gender%5C_studies/gay%5C_lesbian%5C_transgender%5C_issues/xxxy">Berkeley Media</a>.  </p>
 
 
-<p><a href="/files/xxxy.mov">View online</a>  </p>
-
-<!--"View online at PopcornQ":http://www.planetout.com/popcornq/db/getfilm.html?63816.-->
-
-
-<!--break-->
+<p><a href="/files/xxxy.mov">View online</a></p>

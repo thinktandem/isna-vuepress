@@ -20,5 +20,4 @@ May 2001 <a href="/files/hwa/may2001.pdf">pdf</a>  <br />
 Fall 2002 <a href="/files/hwa/fall2002.pdf">pdf</a>  <br />
 Spring 2003 <a href="/files/hwa/spring2003.pdf">pdf</a>  <br />
 Summer 2003 <a href="/files/hwa/summer2003.pdf">pdf</a>  <br />
-Winter 2005 <a href="/files/hwa/winter2005.pdf">pdf</a>  <br />
-<!--break--></p>
+Winter 2005 <a href="/files/hwa/winter2005.pdf">pdf</a></p>

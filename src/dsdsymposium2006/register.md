@@ -15,5 +15,3 @@ title: "DSD Symposium 2006 Registration"
 	<li><a href="/dsdsymposium2006/travel">Planning Your Trip</a></li>
 	<li><a href="/dsdsymposium2006/sponsor">Sponsor</a></li>
 </ul>
-
-<!--break-->

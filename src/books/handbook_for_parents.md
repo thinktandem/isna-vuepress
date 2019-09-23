@@ -14,6 +14,4 @@ title: "Handbook for Parents"
 
 <p>Espeically insightful are the generously shared thoughts and experiences of other parents and of adults with <span class="caps">DSD</span>s.  </p>
 
-<p>Consortium on the Management of Disorders of Sex Differentiation (2006). <a href="http://www.dsdguidelines.org">Handbook for Parents.</a> Rohnert Park, Intersex Society of North America. (133 pages).  </p>
-
-<!--break-->
+<p>Consortium on the Management of Disorders of Sex Differentiation (2006). <a href="http://www.dsdguidelines.org">Handbook for Parents.</a> Rohnert Park, Intersex Society of North America. (133 pages).</p>

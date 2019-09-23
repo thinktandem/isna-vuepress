@@ -14,6 +14,4 @@ title: "Surgically Shaping Children"
 
 <h3>Contributors  </h3>
 
-<p>Priscilla Alderson, Adrienne Asch, Cassandra Aspinall, Alice Domurat Dreger, James C. Edwards, Todd C. Edwards, Ellen K. Feder, Arthur W. Frank, Lisa Abelow Hedley, Eva Fedder Kittay, Hilde Lindemann, Jeffery L. Marsh, Paul Steven Miller, Sherri Groveman Morris, Wendy E. Mouradian, Donald L. Patrick, Nichola Rumsey, Emily Sullivan Sanford, Tari D. Topolski  </p>
-
-<!--break-->
+<p>Priscilla Alderson, Adrienne Asch, Cassandra Aspinall, Alice Domurat Dreger, James C. Edwards, Todd C. Edwards, Ellen K. Feder, Arthur W. Frank, Lisa Abelow Hedley, Eva Fedder Kittay, Hilde Lindemann, Jeffery L. Marsh, Paul Steven Miller, Sherri Groveman Morris, Wendy E. Mouradian, Donald L. Patrick, Nichola Rumsey, Emily Sullivan Sanford, Tari D. Topolski</p>

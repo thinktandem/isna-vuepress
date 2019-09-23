@@ -13,5 +13,4 @@ This one-hour documentary was nominated for a <span class="caps">GLAAD</span> aw
 
 <p>You can request a copy as a thank you gift when you <a href="/donate">make a donation</a>. It is also available for <a href="/videos/purchase">purchase</a>.  </p>
 
-<p>Phyllis. Ward. 2000. Is it a Boy or a Girl? Great Falls VA: Discovery Channel. Cable broadcast. Broadcast March 26.  <br />
-<!--break--></p>
+<p>Phyllis. Ward. 2000. Is it a Boy or a Girl? Great Falls VA: Discovery Channel. Cable broadcast. Broadcast March 26.</p>
