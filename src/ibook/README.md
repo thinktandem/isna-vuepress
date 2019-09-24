@@ -4,7 +4,7 @@ title: "iBook G4 933Mhz, 14 screen, 640MB, 40GB, AppleCare $650"
 
 # iBook G4 933Mhz, 14 screen, 640MB, 40GB, AppleCare $650
 
-<p><img alt="" src="http://www.isna.org/files/apple\_ibook\_g4.jpg" />  </p>
+<p><img alt="" src="https://www.isna.org/files/apple\_ibook\_g4.jpg" />  </p>
 
 <p>Due to staff turnover, we are selling an iBook.  </p>
 
@@ -18,4 +18,4 @@ title: "iBook G4 933Mhz, 14 screen, 640MB, 40GB, AppleCare $650"
 
 <p>Email at ibookforsale@isna.org for more information. The computer is located in Saint Peter Minnesota.  </p>
 
-<p><a href="http://support.apple.com/specs/ibook/iBook_G4.html">Specs at Apple.com</a></p>
+<p><a href="https://support.apple.com/specs/ibook/iBook_G4.html">Specs at Apple.com</a></p>
