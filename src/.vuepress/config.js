@@ -14,6 +14,9 @@ module.exports = {
         name: 'ISNA',
       },
       canonical_base: 'https://isna.org',
+      image  : false,
+      twitter: false,
+      og     : false,
     },
     'canonical': {
       baseURL: 'https://isna.org',
@@ -39,7 +42,7 @@ module.exports = {
           title: 'Stuff',
           collapsable: false,
           children: [
-            'things',
+            //
           ],
         },
       ],
