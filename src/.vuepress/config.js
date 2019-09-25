@@ -17,6 +17,7 @@ module.exports = {
       image  : false,
       twitter: false,
       og     : false,
+      schema : false,
     },
     'canonical': {
       baseURL: 'https://isna.org',
@@ -33,16 +34,40 @@ module.exports = {
     nav: [
       {text: 'faq', link: '/faq/'},
       {text: 'support groups', link: '/support/'},
-      {text: 'contact', link: '/contact/'},
+      {text: 'contact', link: '/about/contact/'},
       {text: 'español', link: '/espanol/'},
     ],
     sidebar: {
-      '/faq/': [
+      '/': [
         {
-          title: 'Stuff',
-          collapsable: false,
+          title: 'FAQ',
+          collapsable: true,
           children: [
-            //
+            "/faq/what_is_intersex/",
+            "/faq/frequency/",
+            "/faq/conditions/",
+            "/faq/patient-centered/",
+            "/faq/third-gender/",
+            "/faq/concealment/",
+            "/faq/standard_of_care/",
+            "/faq/isna/",
+            "/faq/end_secrecy/",
+            "/faq/hermaphrodite/",
+            "/faq/y_chromosome/",
+            "/faq/ambiguous/",
+            "/faq/anatomy/",
+            "/faq/aap_policy/",
+            "/faq/transgender/",
+            "/faq/not_eradicating_gender/",
+            "/faq/gender_assignment/",
+            "/faq/healthy/",
+            "/faq/nothing/",
+            "/faq/surgery/",
+            "/faq/medical_risks/",
+            "/faq/howtorecords/",
+            "/faq/marriage/",
+            "/faq/reimer/",
+            "/faq/history/"
           ],
         },
       ],
