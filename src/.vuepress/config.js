@@ -41,7 +41,6 @@ module.exports = {
       '/': [
         {
           title: 'FAQ',
-          collapsable: true,
           children: [
             "/faq/what_is_intersex/",
             "/faq/frequency/",
@@ -68,6 +67,13 @@ module.exports = {
             "/faq/marriage/",
             "/faq/reimer/",
             "/faq/history/"
+          ],
+        },
+        {
+          title: 'Legal',
+          sidebarDepth: 1,
+          children: [
+            "/legal/",
           ],
         },
       ],
