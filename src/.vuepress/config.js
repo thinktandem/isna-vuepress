@@ -78,6 +78,13 @@ module.exports = {
             "/legal/",
           ],
         },
+        {
+          title: 'Library',
+          path: '/taxonomy/term/7',
+          children: [
+            "/bibliographies/",
+          ],
+        },
       ],
     },
   },
