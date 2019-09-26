@@ -35,7 +35,7 @@ _Chrysalis_ was the journal of the American Educational Gender Information Servi
 
 Classification: [Books][16]
 
-[![cover of Clinical Guidelines for the Management of Disorders of Sex Development in Childhood](http://www.isna.org/files/images/0-9773201-1-1.thumbnail.jpg)][17]
+[![cover of Clinical Guidelines for the Management of Disorders of Sex Development in Childhood](https://www.isna.org/files/images/0-9773201-1-1.thumbnail.jpg)][17]
 
 _Clinical Guidelines for the Management of Disorders of Sex Development in Childhood_ is a handbook for health care professionals who provide care to pediatric patients with Disorders of Sex Development. It is also a valuable resource for health professional students, educators, parents of children with DSDs, and adults with DSDs.
 
@@ -52,7 +52,7 @@ Submitted by Cheryl Chase on Tue, 09/14/2004 - 10:59.
 
 Classification: [Books][21] | [Recent Publications][22] | [What We're Reading][23]
 
-[![cover of Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach](http://ec1.images-amazon.com/images/P/0521809614.01._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_AA240_SH20_SCLZZZZZZZ_.jpg)][24]
+[![cover of Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach](https://ec1.images-amazon.com/images/P/0521809614.01._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_AA240_SH20_SCLZZZZZZZ_.jpg)][24]
 
 **Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach.** Essentially an intersex textbook with a significant emphasis on psychological care (and on issues such as psychological support) with chapters by clinical psychologists like Lih-Mei Liao, Julie Alderson and Polly Carmichael.
 
@@ -64,7 +64,7 @@ Balen, Adam H., Sarah M. Creighton, Melanie C. Davies, Jane MacDougall, and Rich
 
 Classification: [Books][27]
 
-[![Fool for Love](http://www.isna.org/files/images/fool_for_love.thumbnail.jpg)][28]
+[![Fool for Love](https://www.isna.org/files/images/fool_for_love.thumbnail.jpg)][28]
 
 From the author, [Lisa Lees][29]:  
 Carys has never willingly worn a dress and Jami, who has, is intersexed. Teenage love is never easy, but for Carys and Jami love is an often terrifying journey in self-discovery and trust.
@@ -77,7 +77,7 @@ Jami is helping teach a photography course. Carys is immediately attracted to Ja
 
 Classification: [Books][31]
 
-[![cover of Handbook for Parents](http://www.isna.org/files/images/0-9773201-0-3.thumbnail.jpg)][32]
+[![cover of Handbook for Parents](https://www.isna.org/files/images/0-9773201-0-3.thumbnail.jpg)][32]
 
 The [Handbook for Parents][33] (a companion to [Clinical Guidelines for the Management of Disorders of Sex Development in Childhood.][34]) is a resource that physicians can give parents to aid in understanding and adjusting to the child’s needs. The Handbook addresses the many questions and emotions parents have upon learning that their child has some kind of disorder of sex development (called a DSD for short).
 
@@ -127,7 +127,7 @@ Winter 2005 [pdf][50]
 
 Classification: [Books][52]
 
-[![](http://ec3.images-amazon.com/images/P/1402043139.01._AA240_SCLZZZZZZZ_.jpg)][53]
+[![](https://ec3.images-amazon.com/images/P/1402043139.01._AA240_SCLZZZZZZZ_.jpg)][53]
 
 This collection of 21 articles is designed to serve as a state-of-the art reference book for intersexuals, their parents, health care professionals, ethics committee members, and anyone interested in problems associated with intersexuality. It fills an important need because of its uniqueness as an interdisciplinary effort, bringing together not just urologists and endocrinologists, but gynecologists, psychiatrists, psychologists, lawyers, theologians, gender theorists, medical historians, and philosophers. Most contributors are well-known experts on intersexuality in their respective fields. The book is also unique in that it is also an international effort, including authors from England, the Netherlands, Germany, Australia, India, Canada and the United States. The book begins with introductory chapters on the etiology of intersex conditions, conceptual clarification, legal issues, and reflections about the inherent characteristics of medical care that have led up to the issues we face today and explain the resistance to change in traditional practices. Researchers provide recent data on gender identity, surgical outcomes, and appropriate clinical care. Issues never having been addressed are introduced. The significance of intersexuality for Christianity and for philosophical concerns with authenticity add further depth to the collection. The final chapters deal with future possibilities in the treatment of intersex and for intersex advocacy.
 
@@ -144,37 +144,37 @@ In _Intersex and Identity: The Contested Self_, sociologist Sharon Preves explor
 [2]: /books/medicalinvention
 [3]: /books
 [4]: /library/history
-[5]: http://www.amazon.com/exec/obidos/ASIN/1555721001/intersexsocietyo/
+[5]: https://www.amazon.com/exec/obidos/ASIN/1555721001/intersexsocietyo/
 [6]: /books/colapinto
 [7]: /books
-[8]: http://www.amazon.com/exec/obidos/ISBN%3D0060192119/intersexsocietyo/
+[8]: https://www.amazon.com/exec/obidos/ISBN%3D0060192119/intersexsocietyo/
 [9]: /books/chrysalis
 [10]: /books
 [11]: /pdf/chrysalis.pdf
 [12]: /books/chrysalis
 [13]: /books/ageofethics
-[14]: http://www.gender.org
+[14]: https://www.gender.org
 [15]: /books/clinical_guidelines
 [16]: /books
-[17]: http://www.dsdguidelines.org "Clinical Guidelines for the Management of Disorders of Sex Development in Childhood"
-[18]: http://www.dsdguidelines.org
-[19]: http://www.dsdguidelines.org
+[17]: https://www.dsdguidelines.org "Clinical Guidelines for the Management of Disorders of Sex Development in Childhood"
+[18]: https://www.dsdguidelines.org
+[19]: https://www.dsdguidelines.org
 [20]: /books/pagma
 [21]: /books
 [22]: /library/recentpublications
 [23]: /what_we_are_reading
-[24]: http://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
-[25]: http://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
+[24]: https://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
+[25]: https://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
 [26]: /books/foolforlove
 [27]: /books
 [28]: /node/968
-[29]: http://www.lisalees.com/
+[29]: https://www.lisalees.com/
 [30]: /books/handbook_for_parents
 [31]: /books
-[32]: http://www.dsdguidelines.org "Handbook for Parents"
-[33]: http://www.dsdguidelines.org
-[34]: http://www.dsdguidelines.org
-[35]: http://www.dsdguidelines.org
+[32]: https://www.dsdguidelines.org "Handbook for Parents"
+[33]: https://www.dsdguidelines.org
+[34]: https://www.dsdguidelines.org
+[35]: https://www.dsdguidelines.org
 [36]: /library/hwa
 [37]: /books
 [38]: /files/hwa/winter1995.pdf
@@ -192,7 +192,7 @@ In _Intersex and Identity: The Contested Self_, sociologist Sharon Preves explor
 [50]: /files/hwa/winter2005.pdf
 [51]: /books/intersex_and_ethics
 [52]: /books
-[53]: http://www.amazon.com/exec/obidos/ASIN/1402043139/intersexsocietyo
+[53]: https://www.amazon.com/exec/obidos/ASIN/1402043139/intersexsocietyo
 [54]: /intersexandidentity
 [55]: /books
-[56]: http://www.amazon.com:80/exec/obidos/ASIN/0813532299/intersexsocietyo/
+[56]: https://www.amazon.com:80/exec/obidos/ASIN/0813532299/intersexsocietyo/

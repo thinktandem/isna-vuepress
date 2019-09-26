@@ -86,6 +86,17 @@ module.exports = {
           children: [
             "/bibliographies/",
             "/books/",
+            "/library/history/",
+            "/videos/",
+          ],
+        },
+        ['/about/emeritus/', 'People'],
+        {
+          title: 'Learn More',
+          collapsable: false,
+          sidebarDepth: 1,
+          children: [
+            ['http://dsdguidelines.org/', 'DSD Guidelines'],
           ],
         },
       ],
