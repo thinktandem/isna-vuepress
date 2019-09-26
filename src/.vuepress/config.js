@@ -97,6 +97,10 @@ module.exports = {
           sidebarDepth: 1,
           children: [
             ['http://dsdguidelines.org/', 'DSD Guidelines'],
+            "/articles/tips_for_parents/",
+            "/teaching_kit/",
+            "/dsdsymposium2006/",
+            ['http://www.accordalliance.org/', 'Accord Alliance'],
           ],
         },
       ],
