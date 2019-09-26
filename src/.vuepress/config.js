@@ -1,5 +1,4 @@
 module.exports = {
-  title: 'ISNA',
   description: '',
   head: [
     ['link', {rel: 'icon', href: '/favicon.ico'}],
@@ -31,6 +30,7 @@ module.exports = {
     },
   },
   themeConfig: {
+    logo: '/ISNA-logo.png',
     nav: [
       {text: 'faq', link: '/faq/'},
       {text: 'support groups', link: '/support/'},
