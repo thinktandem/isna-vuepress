@@ -1,0 +1,7 @@
+---
+title: "Dr. Joyce Brothers Likes Our Work!"
+---
+
+# Dr. Joyce Brothers Likes Our Work!
+
+<p>The well-known and well-regarded Dr. Joyce Brothers has just written about the intersex treatment controversy in a syndicated column appearing in <a href="http://seattlepi.nwsource.com/brothers/217988%5C_joyce20.html">The Seattle Post-Intelligencer</a> and elsewhere. Judging by her Q&amp;A&#8217;s on intersex, Dr. Brothers has taken a close look at what what we have to say and agrees with the logic of <a href="/faq/patient-centered">our recommendations</a>. Thanks, Dr. Brothers, for seeing the importance of public education about people with intersex! We would like to note, though, that intersex is not the same as &#8220;ambiguous genitalia,&#8221; as Dr. Brothers&#8217; column seems to suggest. Some people with intersex do not have any apparent genital ambiguity; for more on what we mean, check out our <a href="/faq/ambiguous"><span class="caps">FAQ</span> on this topic</a>. Unfortunately, even those folks have tended to be subject to the same shrouds of <a href="/faq/end%5C_secrecy">shame and secrecy</a>. If you&#8217;d like to help us change that, consider <a href="/donate">donating to support our work</a>. Every dollar helps us in our mission to <a href="/faq/patient-centered">build a world free of shame, secrecy, and unwanted genital surgeries</a>!</p>

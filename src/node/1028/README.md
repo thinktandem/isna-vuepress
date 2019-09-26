@@ -1,0 +1,15 @@
+---
+title: "What are Disorders of Sex Development?"
+---
+
+# What are Disorders of Sex Development?
+
+<p>Those of you paying close attention to the <span class="caps">ISNA</span> site might have noticed the term “Disorders of Sex Development” (<span class="caps">DSD</span>s for short) being used interchangeably with “intersex.” In the future, <span class="caps">ISNA</span> will continue to use both of these terms—for good reason.  </p>
+
+<p>The word “intersex” has allowed many adults to speak about their bodies and their experiences. They’ve found the word “intersex” empowering because it provided a sense of community and allowed people with many different conditions to band together to work toward better medical care and social justice.  </p>
+
+<p>However, when working toward change, especially in medical venues, <span class="caps">ISNA</span> discovered that the term “intersex” sometimes made things more difficult. People were often confused, thinking that <span class="caps">ISNA</span> was speaking about “intersex” as an identity or that <span class="caps">ISNA</span> was focused only on gender issues involved. There were also problems with reaching agreement about what were and weren’t “intersex” conditions. For example, some people thought <span class="caps">CAH</span> counted as an intersex condition while others disagreed. These disagreements meant that the stakeholders were sometimes sidetracked into discussions about what counted as intersex conditions rather than how healthcare providers and parents could provide the best care and support.  </p>
+
+<p>Using <span class="caps">DSD</span>s instead has allowed <span class="caps">ISNA</span> to help focus those discussions on care and support. The term has already been adopted in the Clinical Handbook and Handbook for Parents that are being published by <span class="caps">ISNA</span> and in recent medical journal articles. We’ve found that the term <span class="caps">DSD</span>s is an incredibly useful umbrella term that allows everyone involved in the conversation to agree on the conditions that are covered and to focus their efforts on providing the best possible care for children and adults with these conditions.  </p>
+
+<p>We realize, of course, that any terminology including the word “disorder” can be construed as pejorative. We’d also like to emphasize that we use the abbreviated form of <span class="caps">DSD</span> whenever possible. Explaining why this is important, Alice Dreger writes, “we find that, when accompanied by an explanation of what we mean, <span class="caps">DSD</span> isn&#8217;t terribly stigmatizing. And an important point: the acronym <span class="caps">DSD</span> is very useful&#8212;and thus, the acronym should be favored over the spelled-out term&#8212; because as an abbreviation we don&#8217;t focus on &#8216;disorder&#8217;.&#8221; We explain what we mean, and then use the term &#8220;<span class="caps">DSD</span>s.&#8221; Thus, we recognize that this is not a perfect term, but we hope <span class="caps">ISNA</span>’s supporters and allies will understand that it’s helping us enact real change in medical care.</p>
