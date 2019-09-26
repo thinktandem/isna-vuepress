@@ -81,8 +81,11 @@ module.exports = {
         {
           title: 'Library',
           path: '/taxonomy/term/7',
+          collapsable: false,
+          sidebarDepth: 1,
           children: [
             "/bibliographies/",
+            "/books/",
           ],
         },
       ],
