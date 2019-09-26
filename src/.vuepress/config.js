@@ -38,10 +38,10 @@ module.exports = {
       {text: 'español', link: '/espanol/'},
     ],
     sidebar: {
-      '/faq/': [
+      '/': [
         {
           title: 'FAQ',
-          collapsable: false,
+          path: '/faq/',
           children: [
             "/faq/what_is_intersex/",
             "/faq/frequency/",
@@ -70,21 +70,14 @@ module.exports = {
             "/faq/history/"
           ],
         },
-        '/legal/',
-      ],
-      '/legal/': [
-        ['/faq/', 'FAQ'],
         {
           title: 'Legal',
-          collapsable: false,
+          path: '/legal/',
+          sidebarDepth: 1,
           children: [
             "/legal/",
           ],
         },
-      ],
-      '/': [
-        ['/faq/', 'FAQ'],
-        '/legal/',
       ],
     },
   },
