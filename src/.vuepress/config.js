@@ -51,7 +51,20 @@ module.exports = {
             "/faq/third-gender/",
             "/faq/concealment/",
             "/faq/standard_of_care/",
-            "/faq/isna/",
+            {
+              title: 'Questions about Intersex Society of North America',
+              path: '/faq/isna/',
+              collapsable: true,
+              children: [
+                '/faq/isna/referrals/',
+                '/faq/isna/support/',
+                '/faq/isna/howtohelp/',
+                '/faq/isna/activities/',
+                '/faq/isna/mission/',
+                '/faq/isna/location/',
+                '/faq/isna/people/',
+              ]
+            },
             "/faq/end_secrecy/",
             "/faq/hermaphrodite/",
             "/faq/y_chromosome/",
