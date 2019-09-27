@@ -6,4 +6,4 @@ title: "Adam Mathias"
 
 ![][1]
 
- [1]: /images/adam_1.jpg
+ [1]: /files/images/adam_1.jpg

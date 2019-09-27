@@ -6,4 +6,4 @@ title: "Sherri Groveman Morris"
 
 ![][1]
 
- [1]: /images/sherri_groveman.jpg
+ [1]: /files/images/sherri_groveman.jpg

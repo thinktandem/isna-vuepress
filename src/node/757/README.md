@@ -6,4 +6,4 @@ title: "Clitoral & Penile Non-Erect Lengths at Birth (cm)"
 
 ![][1]
 
- [1]: /images/lengths-757.gif
+ [1]: /files/images/lengths-757.gif

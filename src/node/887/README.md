@@ -6,4 +6,4 @@ title: "Laina Poon"
 
 ![][1]
 
- [1]: /images/laina.jpg
+ [1]: /files/images/laina.jpg

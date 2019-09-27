@@ -6,4 +6,4 @@ title: "Debora Rode Hartman"
 
 ![][1]
 
- [1]: /images/debbie-tpc.jpg
+ [1]: /files/images/debbie-tpc.jpg

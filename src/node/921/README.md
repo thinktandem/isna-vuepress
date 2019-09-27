@@ -6,4 +6,4 @@ title: "Sydney Levy"
 
 ![][1]
 
- [1]: /images/sydney_levy.jpg
+ [1]: /files/images/sydney_levy.jpg

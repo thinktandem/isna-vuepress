@@ -6,4 +6,4 @@ title: "H. Marty Malin"
 
 ![][1]
 
- [1]: /images/malin.jpg
+ [1]: /files/images/malin.jpg

@@ -6,4 +6,4 @@ title: "William Hanley"
 
 ![][1]
 
- [1]: /images/Hanley.jpg
+ [1]: /files/images/Hanley.jpg

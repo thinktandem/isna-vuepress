@@ -6,4 +6,4 @@ title: "Katherine Betzer"
 
 ![][1]
 
- [1]: /images/Katherine_betzer.jpg
+ [1]: /files/images/Katherine_betzer.jpg

@@ -6,4 +6,4 @@ title: "Robin Mathias"
 
 ![][1]
 
- [1]: /images/robin_mathias.jpg
+ [1]: /files/images/robin_mathias.jpg

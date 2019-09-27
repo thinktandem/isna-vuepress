@@ -6,4 +6,4 @@ title: "Esther Morris Leidolf"
 
 ![][1]
 
- [1]: /images/esther4ISNA.jpg
+ [1]: /files/images/esther4ISNA.jpg

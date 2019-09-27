@@ -6,4 +6,4 @@ title: "cover of Clinical Guidelines for the Management of Disorders of Sex Deve
 
 ![][1]
 
- [1]: /images/0-9773201-1-1.jpg
+ [1]: /files/images/0-9773201-1-1.jpg

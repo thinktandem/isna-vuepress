@@ -6,4 +6,4 @@ title: "Megan Curran"
 
 ![][1]
 
- [1]: /images/megan_curran.jpg
+ [1]: /files/images/megan_curran.jpg

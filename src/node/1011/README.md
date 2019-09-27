@@ -6,4 +6,4 @@ title: "Alice Dreger"
 
 ![][1]
 
- [1]: /images/alice_speaker.jpg
+ [1]: /files/images/alice_speaker.jpg

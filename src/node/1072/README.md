@@ -6,4 +6,4 @@ title: "Barbara Jones"
 
 Barbara Jones![][1]
 
- [1]: /images/8c60scd.jpg
+ [1]: /files/images/8c60scd.jpg

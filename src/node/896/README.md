@@ -6,4 +6,4 @@ title: "Vernon Rosario"
 
 ![][1]
 
- [1]: /images/vernon2.jpg
+ [1]: /files/images/vernon2.jpg

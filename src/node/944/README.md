@@ -6,4 +6,4 @@ title: "Ciara Relyea"
 
 ![][1]
 
- [1]: /images/ciara_relyea.jpg
+ [1]: /files/images/ciara_relyea.jpg

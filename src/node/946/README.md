@@ -6,4 +6,4 @@ title: "Thea_Hillman"
 
 ![][1]
 
- [1]: /images/theahillman4-1.jpg
+ [1]: /files/images/theahillman4-1.jpg

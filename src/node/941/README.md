@@ -6,4 +6,4 @@ title: "Christine Feick"
 
 ![][1]
 
- [1]: /images/chris_feick.jpg
+ [1]: /files/images/chris_feick.jpg

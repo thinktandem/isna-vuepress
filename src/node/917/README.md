@@ -6,4 +6,4 @@ title: "Sunny Nordmarken"
 
 ![][1]
 
- [1]: /images/sunny_nordmarken.jpg
+ [1]: /files/images/sunny_nordmarken.jpg

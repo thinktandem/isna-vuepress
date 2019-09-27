@@ -6,4 +6,4 @@ title: "Clinical Guidelines cover image"
 
 ![][1]
 
- [1]: /images/clinical.jpg
+ [1]: /files/images/clinical.jpg

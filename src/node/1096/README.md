@@ -6,4 +6,4 @@ title: "cover of Handbook for Parents"
 
 ![][1]
 
- [1]: /images/0-9773201-0-3.jpg
+ [1]: /files/images/0-9773201-0-3.jpg

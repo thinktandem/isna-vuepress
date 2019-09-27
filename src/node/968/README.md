@@ -6,4 +6,4 @@ title: "Fool for Love"
 
 ![][1]
 
- [1]: /images/fool_for_love.jpg
+ [1]: /files/images/fool_for_love.jpg

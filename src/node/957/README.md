@@ -6,4 +6,4 @@ title: "Phyllis Ward"
 
 ![][1]
 
- [1]: /images/phyllis_0_0.jpg
+ [1]: /files/images/phyllis_0_0.jpg

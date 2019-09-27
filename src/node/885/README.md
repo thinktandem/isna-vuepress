@@ -6,4 +6,4 @@ title: "Angela Moreno photo"
 
 ![][1]
 
- [1]: /images/moreno.jpg
+ [1]: /files/images/moreno.jpg

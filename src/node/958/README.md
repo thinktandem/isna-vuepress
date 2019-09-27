@@ -6,4 +6,4 @@ title: "Mary Kelterborn"
 
 ![][1]
 
- [1]: /images/mary.jpg
+ [1]: /files/images/mary.jpg

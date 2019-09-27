@@ -6,4 +6,4 @@ title: "Aron Sousa"
 
 ![][1]
 
- [1]: /images/aron.jpg
+ [1]: /files/images/aron.jpg

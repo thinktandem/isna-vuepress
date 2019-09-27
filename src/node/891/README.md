@@ -6,4 +6,4 @@ title: "Eric Vilain"
 
 ![][1]
 
- [1]: /images/vilain.jpg
+ [1]: /files/images/vilain.jpg

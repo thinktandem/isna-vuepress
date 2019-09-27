@@ -6,4 +6,4 @@ title: "David Cameron"
 
 ![][1]
 
- [1]: /images/strachan.jpg
+ [1]: /files/images/strachan.jpg

@@ -6,4 +6,4 @@ title: "Monica Casper"
 
 ![][1]
 
- [1]: /images/monicacasper2.jpg
+ [1]: /files/images/monicacasper2.jpg

@@ -6,4 +6,4 @@ title: "Lynnell Stephani Long"
 
 ![][1]
 
- [1]: /images/Lynnell_Stephani_Long_recen.jpg
+ [1]: /files/images/Lynnell_Stephani_Long_recen.jpg

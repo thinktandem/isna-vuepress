@@ -6,4 +6,4 @@ title: "Ellen Feder"
 
 ![][1]
 
- [1]: /images/feder.jpg
+ [1]: /files/images/feder.jpg

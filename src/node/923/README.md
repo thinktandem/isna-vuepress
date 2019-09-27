@@ -6,4 +6,4 @@ title: "Julie Dorf"
 
 ![][1]
 
- [1]: /images/julie_dorf.jpg
+ [1]: /files/images/julie_dorf.jpg

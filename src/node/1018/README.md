@@ -6,4 +6,4 @@ title: "Carolyn Parsons"
 
 ![][1]
 
- [1]: /images/CarolynColorFullSize.jpg
+ [1]: /files/images/CarolynColorFullSize.jpg

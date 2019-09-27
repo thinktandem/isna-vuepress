@@ -6,4 +6,4 @@ title: "Arlene Baratz"
 
 ![][1]
 
- [1]: /images/arlene.jpg
+ [1]: /files/images/arlene.jpg

@@ -6,4 +6,4 @@ title: "Cindy Stone"
 
 ![][1]
 
- [1]: /images/cindy_stone.jpg
+ [1]: /files/images/cindy_stone.jpg

@@ -6,4 +6,4 @@ title: "Jeanne Nollman"
 
 ![][1]
 
- [1]: /images/jeanne_thumb.jpg
+ [1]: /files/images/jeanne_thumb.jpg

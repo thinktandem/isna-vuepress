@@ -6,4 +6,4 @@ title: "Aron Sousa (with Kepler)"
 
 ![][1]
 
- [1]: /images/SousaAron_Kepler.jpg
+ [1]: /files/images/SousaAron_Kepler.jpg

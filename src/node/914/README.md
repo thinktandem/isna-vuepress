@@ -6,4 +6,4 @@ title: "Sally Foley"
 
 ![][1]
 
- [1]: /images/salley_foley.jpg
+ [1]: /files/images/salley_foley.jpg

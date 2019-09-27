@@ -6,4 +6,4 @@ title: "Jane Goto"
 
 ![][1]
 
- [1]: /images/jane.jpg
+ [1]: /files/images/jane.jpg

@@ -6,4 +6,4 @@ title: "Kim Saviano"
 
 ![][1]
 
- [1]: /images/kim_saviano.jpg
+ [1]: /files/images/kim_saviano.jpg
