@@ -13,9 +13,7 @@
 </script>
 
 <style lang="stylus">
-
-  .printable-page {
+  .printable-page
     padding 1rem 2rem
     display block
-  }
 </style>
