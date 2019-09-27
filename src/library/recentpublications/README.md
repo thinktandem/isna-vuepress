@@ -98,7 +98,7 @@ Submitted by Cheryl Chase on Tue, 09/14/2004 - 10:59.
 
 Classification: [Books][24] | [Recent Publications][25] | [What We're Reading][26]
 
-[![cover of Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach](http://ec1.images-amazon.com/images/P/0521809614.01._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_AA240_SH20_SCLZZZZZZZ_.jpg)][27]
+[![cover of Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach](https://ec1.images-amazon.com/images/P/0521809614.01._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_AA240_SH20_SCLZZZZZZZ_.jpg)][27]
 
 **Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach.** Essentially an intersex textbook with a significant emphasis on psychological care (and on issues such as psychological support) with chapters by clinical psychologists like Lih-Mei Liao, Julie Alderson and Polly Carmichael.
 
@@ -125,8 +125,8 @@ Paul McHugh is University Distinguished Service Professor of Psychiatry at Johns
 [3]: /library/recentpublications
 [4]: /node/628
 [5]: /library/recentpublications
-[6]: http://www.cbc.ca/thecurrent/2004/200407/20040728.html
-[7]: http://media.cbc.ca:8080/ramgen/cbc.ca/thecurrent/media/200407/20040728thecurrent_sec2.rm
+[6]: https://www.cbc.ca/thecurrent/2004/200407/20040728.html
+[7]: https://media.cbc.ca:8080/ramgen/cbc.ca/thecurrent/media/200407/20040728thecurrent_sec2.rm
 [8]: /node/599
 [9]: /library/recentpublications
 [10]: /node/602
@@ -136,7 +136,7 @@ Paul McHugh is University Distinguished Service Professor of Psychiatry at Johns
 [14]: /library/recentpublications
 [15]: /node/623
 [16]: /library/recentpublications
-[17]: http://www.freep.com/news/childrenfirst/anat19_20040719.htm
+[17]: https://www.freep.com/news/childrenfirst/anat19_20040719.htm
 [18]: /node/641
 [19]: /library/recentpublications
 [20]: /what_we_are_reading
@@ -146,8 +146,8 @@ Paul McHugh is University Distinguished Service Professor of Psychiatry at Johns
 [24]: /books
 [25]: /library/recentpublications
 [26]: /what_we_are_reading
-[27]: http://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
-[28]: http://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
+[27]: https://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
+[28]: https://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
 [29]: /node/674
 [30]: /news
 [31]: /library/recentpublications
