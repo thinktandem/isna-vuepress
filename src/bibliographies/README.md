@@ -1,11 +1,11 @@
 ---
 title: "Bibliographies"
+sidebarDepth: 0
 ---
 
 # Bibliographies
 
 [Access References Section of DSD Guidelines][2]
-------------------------------------------------
 
 Classification: [Bibliographies][3]
 

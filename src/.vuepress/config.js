@@ -1,4 +1,5 @@
 module.exports = {
+  title: 'Intersex Society of North America',
   description: '',
   head: [
     ['link', {rel: 'icon', href: '/favicon.ico'}],

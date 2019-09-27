@@ -1,5 +1,6 @@
 ---
 title: "Videos"
+sidebarDepth: 0
 ---
 
 # Videos
@@ -20,7 +21,7 @@ You may purchase any of the above videos for $150 (plus sales tax). [Click here]
 
 Individuals may choose any of the above videos as a complimentary gift by [donating][6] $75 or more. (Note that you will be taken to a page where you can make a donation to Accord Alliance.)
 
-### [Hermaphrodites Speak!][7]
+## [Hermaphrodites Speak!][7]
 
 Classification: [Videos][8]
 
@@ -34,7 +35,7 @@ You can request a copy as a thank you gift when you [make a donation][11]. It is
 
 Chase, Cheryl. 1997. Hermaphrodites Speak! Rohnert Park: Intersex Society of North America. video tape (30 minutes).
 
-### [Is it a Boy or a Girl? (Discovery Channel)][13]
+## [Is it a Boy or a Girl? (Discovery Channel)][13]
 
 Classification: [Videos][14]
 
@@ -48,7 +49,7 @@ You can request a copy as a thank you gift when you [make a donation][15]. It is
 
 Phyllis. Ward. 2000. Is it a Boy or a Girl? Great Falls VA: Discovery Channel. Cable broadcast. Broadcast March 26.
 
-### [Yellow for Hermaphrodites: Mani's Story][17]
+## [Yellow for Hermaphrodites: Mani's Story][17]
 
 Classification: [Videos][18]
 
@@ -61,7 +62,7 @@ Mani herself says about the film: “I was asked to make this documentary after 
 
 You can request a copy as a thank you gift when you [make a donation][20]. It is also available for [purchase][21].
 
-### [Both][22]
+## [Both][22]
 
 Classification: [Videos][23]
 
@@ -69,7 +70,7 @@ Classification: [Videos][23]
 
 Haunted by memories of her long-lost hermaphrodite brother, a stunt woman embarks on a quest in she discovers her sexual identity is a tissue of lies created by her parents and doctors.
 
-### [San Francisco Human Rights Commission Hearings][26]
+## [San Francisco Human Rights Commission Hearings][26]
 
 Classification: [Videos][27]
 
@@ -77,7 +78,7 @@ On May 27, 2004, the San Francisco Human Rights Commission held a historic heari
 
 You can view the hearing by clicking on the Video on Demand link below or you can purchase a DVD or a VHS tape of the SFGTV recording of the hearing directly from SFGTV. When ordering, be sure to specify that you want the Intersex Hearing from May 27, 2004. When we checked, the price was $12.50, and they required that you mail a check (they do not accept credit cards).
 
-### [Talking Back to Science: Art, Science, and the Personal][28]
+## [Talking Back to Science: Art, Science, and the Personal][28]
 
 Classification: [Videos][29]
 
@@ -85,7 +86,7 @@ Classification: [Videos][29]
 
 Through text, images and a DVD Talking back to Science provides an insight into the work of artists and scientists collaborating to explore biomedical science through performance, film and video. The artists and their contributors speak with candour, love, sensuality, poetry and intelligence about subjects as diverse as **intersex conditions**, osteoporosis, visual agnosia, cancer and autism. The scientists speak of the new perspective that artists can bring through their lateral and associative thinking, finding connections that a scientist might have overlooked in favour of the telescopic vision they assume out of necessity. Edited by Bergit Arends and Verity Slater.
 
-### [XXXY - A short documentary about intersex (online)][31]
+## [XXXY - A short documentary about intersex (online)][31]
 
 Classification: [Videos][32]
 

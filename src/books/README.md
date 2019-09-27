@@ -1,10 +1,11 @@
 ---
 title: "Books"
+sidebarDepth: 0
 ---
 
 # Books
 
-### ["Hermaphrodites and the Medical Invention of Sex" (Alice Dreger)][2]
+## ["Hermaphrodites and the Medical Invention of Sex" (Alice Dreger)][2]
 
 Classification: [Books][3] | [History][4]
 
@@ -12,14 +13,14 @@ Classification: [Books][3] | [History][4]
 
 Alice Dreger, Assistant Professor of Science and Technology Studies at Michigan State University and adjunct faculty at the Center for Ethics and Humanities in the Life Sciences, brings us this study of how and why medical and scientific men have construed sex, gender, and sexuality as they have.
 
-### [As Nature Made Him (John Colapinto)][6]
+## [As Nature Made Him (John Colapinto)][6]
 
 Classification: [Books][7]
 
 [![As Nature Made Him](/img/books/colapinto.jpg)][8]  
 The so-called twins, or John/Joan case, is one of the most famous in modern medicine and the social sciences, cited repeatedly over the past thirty years as proof that our sense of being male or female is not inborn but primarily the result of how we are raised.
 
-### [Chrysalis Special Issue on Intersexuality (1997)][9]
+## [Chrysalis Special Issue on Intersexuality (1997)][9]
 
 Classification: [Books][10]
 
@@ -31,7 +32,7 @@ Chase, Cheryl. 1997. _Special issue on intersexuality. Chrysalis: The Journal of
 
 _Chrysalis_ was the journal of the American Educational Gender Information Service, Inc., now [Gender Education & Advocacy][14].
 
-### [Clinical Guidelines for the Management of Disorders of Sex Development in Childhood][15]
+## [Clinical Guidelines for the Management of Disorders of Sex Development in Childhood][15]
 
 Classification: [Books][16]
 
@@ -46,7 +47,7 @@ The _Clinical Guidelines_ have been produced by a consortium consisting mainly o
 Consortium on the Management of Disorders of Sex Differentiation (2006). [Clinical Guidelines for the Management of Disorders of Sex Development in Childhood.][19]  
 Rohnert Park, Intersex Society of North America.  
 
-### [Finally: A progressive medical text on intersex issues!][20]
+## [Finally: A progressive medical text on intersex issues!][20]
 
 Submitted by Cheryl Chase on Tue, 09/14/2004 - 10:59.
 
@@ -60,7 +61,7 @@ Classification: [Books][21] | [Recent Publications][22] | [What We're Reading][2
 
 Balen, Adam H., Sarah M. Creighton, Melanie C. Davies, Jane MacDougall, and Richard Stanhope, eds. 2004. _Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach_: Cambridge University Press.
 
-### [Fool for Love][26]
+## [Fool for Love][26]
 
 Classification: [Books][27]
 
@@ -73,7 +74,7 @@ Carys, a senior, meets home-schooled Jami at a week-long Arts
 Camp where she is clowning (as a tramp named Lovelorn) and  
 Jami is helping teach a photography course. Carys is immediately attracted to Jami and boldly sets out to determine if the interest might be mutual. Jami surprises herself by telling Carys that she is intersexed, and so begins a sometimes very emotional process of figuring out what it would mean for Carys and Jami to be in love, and eventually to make love. They continue to see each other when the Arts Camp ends, becoming involved in each other’s activities and interests.
 
-### [Handbook for Parents][30]
+## [Handbook for Parents][30]
 
 Classification: [Books][31]
 
@@ -89,7 +90,7 @@ Espeically insightful are the generously shared thoughts and experiences of othe
 
 Consortium on the Management of Disorders of Sex Differentiation (2006). [Handbook for Parents.][35] Rohnert Park, Intersex Society of North America. (133 pages).  
 
-### [Hermaphrodites with Attitude][36]
+## [Hermaphrodites with Attitude][36]
 
 Classification: [Books][37]
 
@@ -123,7 +124,7 @@ Summer 2003 [pdf][49]
 
 Winter 2005 [pdf][50]
 
-### [Intersex and Ethics][51]
+## [Intersex and Ethics][51]
 
 Classification: [Books][52]
 
@@ -131,7 +132,7 @@ Classification: [Books][52]
 
 This collection of 21 articles is designed to serve as a state-of-the art reference book for intersexuals, their parents, health care professionals, ethics committee members, and anyone interested in problems associated with intersexuality. It fills an important need because of its uniqueness as an interdisciplinary effort, bringing together not just urologists and endocrinologists, but gynecologists, psychiatrists, psychologists, lawyers, theologians, gender theorists, medical historians, and philosophers. Most contributors are well-known experts on intersexuality in their respective fields. The book is also unique in that it is also an international effort, including authors from England, the Netherlands, Germany, Australia, India, Canada and the United States. The book begins with introductory chapters on the etiology of intersex conditions, conceptual clarification, legal issues, and reflections about the inherent characteristics of medical care that have led up to the issues we face today and explain the resistance to change in traditional practices. Researchers provide recent data on gender identity, surgical outcomes, and appropriate clinical care. Issues never having been addressed are introduced. The significance of intersexuality for Christianity and for philosophical concerns with authenticity add further depth to the collection. The final chapters deal with future possibilities in the treatment of intersex and for intersex advocacy.
 
-### [Intersex and Identity: The Contested Self][54]
+## [Intersex and Identity: The Contested Self][54]
 
 Classification: [Books][55]
 

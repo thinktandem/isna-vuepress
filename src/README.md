@@ -1,5 +1,5 @@
 ---
-home: false
+title: "Intersex Society of North America | A world free of shame, secrecy, and unwanted genital surgery"
 ---
 
 # Our Mission:
