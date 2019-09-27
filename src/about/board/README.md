@@ -1,8 +1,7 @@
 ---
-title: "Medical Board"
+title: "Board of Directors"
 ---
 
-# Medical Board
+# Board of Directors
 
 There are no resources to display in this category.
-
