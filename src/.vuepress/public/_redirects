@@ -224,3 +224,7 @@
 /user/11/     /
 /legal/colombia/     /
 /legal?from=10    /legal/
+/legal?from=0    /legal/
+/taxonomy/term/7?from=10    /taxonomy/term/7/
+/taxonomy/term/7?from=20    /taxonomy/term/7/
+/taxonomy/term/7?from=0    /taxonomy/term/7/

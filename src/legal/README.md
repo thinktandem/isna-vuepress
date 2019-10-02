@@ -9,8 +9,6 @@ Law
 [Advocates for Informed Choice][1]
 ----------------------------------
 
-Submitted by ISNA on Wed, 12/13/2006 - 17:21.
-
 Classification: [Law][2]
 
 Founded in 2006 through an Equal Justice Works Fellowship, [Advocates for Informed Choice][3] is the first organization in the country to undertake a coordinated strategy of legal advocacy for the rights of children with intersex conditions.
@@ -69,8 +67,6 @@ In 1987, Wilma Wood was fired. She brought suit against her employer, claiming t
 [Federal Judge Finds Wyoming Prison Violated Constitutional Rights of Intersexual Prisoner][19]
 -----------------------------------------------------------------------------------------------
 
-Submitted by Cheryl Chase on Tue, 06/22/2004 - 08:03.
-
 Classification: [Law][20]
 
 In what may be the first U.S. court decision to consider the constitutional rights of intersexuals, U.S. District Judge Clarence A. Brimmer ruled on February 18 in **DiMarco v. Wyoming Department of Corrections**, 2004 WL 307421 (D. Wyoming), that state prison officials violated the 14th Amendment Due Process rights of Miki Ann DiMarco when they consigned her to 14 months in a dungeon-like high security lock-up without affording any kind of hearing process for her to challenge that decision.
@@ -108,8 +104,6 @@ Greenberg, Julie. 2003. [Legal Aspects of Gender Assignment][27]. _The Endocrino
 
 [Miki Ann Dimarco confined in isolation because she's intersexed][28]
 ---------------------------------------------------------------------
-
-Submitted by Cheryl Chase on Thu, 12/09/2004 - 17:11.
 
 Classification: [Law][29] | [News][30] | [Recent Publications][31]
 
