@@ -27,7 +27,7 @@ title: "Getting Rid of Hermaphroditism Once and For All"
 	<li>should make clear that diagnosis does not simply dictate therapy.</li>
 </ul>
 
-<p>The authors end by suggesting that it would be better to use specific etiology-based diagnoses (like <span class="caps">AIS</span>, 5-alpha reductase deficiency, etc.) along with an umbrella term. Which umbrella term? In our travels in the last few months, we notice there seems to be an emerging consensus around using \*\*disorders of sex development\*\*, abbreviated \*\*DSDs\*\*. This seems to be a term that doctors and many patient advocates can agree encompasses all of the conditions we at <span class="caps">ISNA</span> have traditionally labeled <a href="http://www.isna.org/faq/what%5C_is%5C_intersex">intersex</a>.  </p>
+<p>The authors end by suggesting that it would be better to use specific etiology-based diagnoses (like <span class="caps">AIS</span>, 5-alpha reductase deficiency, etc.) along with an umbrella term. Which umbrella term? In our travels in the last few months, we notice there seems to be an emerging consensus around using \*\*disorders of sex development\*\*, abbreviated \*\*DSDs\*\*. This seems to be a term that doctors and many patient advocates can agree encompasses all of the conditions we at <span class="caps">ISNA</span> have traditionally labeled <a href="http://www.isna.org/faq/what_is_intersex">intersex</a>.  </p>
 
 <p>For the full article, see:  <br />
 Dreger AD, Chase C, Sousa A, Gruppuso PA, Frader, J. &#8220;Changing the Nomenclature/Taxonomy for Intersex: A Scientific and Clinical Rationale.&#8221; \_\_J Pediatric Endocrinol Metab\_\_. 2005 Aug: 18 (8): 729-33.  </p>

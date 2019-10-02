@@ -9,7 +9,7 @@ title: "Hermaphrodites Speak!"
 <p>Imagine growing up knowing you were different, not quite knowing why and feeling like you were the only person in the world like you. Meet Angela, David, Heidi, Tom, Mani, Cheryl, Max and Hida as they tell their stories of growing up intersexed. Share their joy at finally meeting other people who are intersexed. Be amazed as you witness intersex people speaking out for the first time in their lives!  </p>
 
 
-<p>See the <a href="http://www.findarticles.com/cf%5C_0/m2372/3%5C_37/68273932/p1/article.jhtml?term=hermaphroditism">review in \_\_Journal of Sex Research\_\_</a>.  </p>
+<p>See the <a href="http://www.findarticles.com/cf_0/m2372/3_37/68273932/p1/article.jhtml?term=hermaphroditism">review in \_\_Journal of Sex Research\_\_</a>.  </p>
 
 
 <p>You can request a copy as a thank you gift when you <a href="/donate">make a donation</a>. It is also available for <a href="/videos/purchase">purchase</a>.  </p>

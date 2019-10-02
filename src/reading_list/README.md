@@ -14,5 +14,5 @@ title: "Reading List (Where to Learn More)"
 	<li><a href="http://www.dsdguidelines.org/htdocs/parents/parenting_books.html">General Parenting</a></li>
 	<li><a href="//www.dsdguidelines.org/htdocs/parents/sex_education.html">Sex Education for Your Child</a></li>
 	<li><a href="http://www.dsdguidelines.org/htdocs/parents/photos.html">Photos of Real People with <span class="caps">DSD</span>s</a> (at <span class="caps">DSD</span> Guidelines)</li>
-	<li><a href="http://www.oprah.com/tows/slide/200709/20070921/slide%5C_20070921%5C_350_101.jhtml">Photos of Real People with <span class="caps">DSD</span>s</a> (at Oprah&#8217;s website)</li>
+	<li><a href="http://www.oprah.com/tows/slide/200709/20070921/slide_20070921_350_101.jhtml">Photos of Real People with <span class="caps">DSD</span>s</a> (at Oprah&#8217;s website)</li>
 </ul>

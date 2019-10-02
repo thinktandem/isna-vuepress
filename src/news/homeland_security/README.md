@@ -6,7 +6,7 @@ title: "Intersex and Homeland Security"
 
 <p>Well, it had to happen sooner or later. Thanks to naive beliefs about sex and gender, the Department of Homeland Security finds itself arguing with the Board of Immigration Appeals about whether or not a person&#8217;s chromosomes determine her/his sex.  </p>
 
-<p>In its disagreement with Homeland Security, the Board of Immigration Appeals noted that the <a href="/faq/what%5C_is%5C_intersex">facts about intersex</a> negate Homeland Security&#8217;s overly simplistic beliefs about sex and gender identity. In making its decision, the Board referred to legal scholar Julie Greenberg&#8217;s masterful Arizona Law review article called <a href="/node/59">Defining Male and Female: Intersexuality and the Collision Between Law and Biology</a>.  </p>
+<p>In its disagreement with Homeland Security, the Board of Immigration Appeals noted that the <a href="/faq/what_is_intersex">facts about intersex</a> negate Homeland Security&#8217;s overly simplistic beliefs about sex and gender identity. In making its decision, the Board referred to legal scholar Julie Greenberg&#8217;s masterful Arizona Law review article called <a href="/node/59">Defining Male and Female: Intersexuality and the Collision Between Law and Biology</a>.  </p>
 
 <p>You can read more details about this legal ruling in <a href="http://www.gaycitynews.com/gcn_421/panelokstrangendered.html">Gay City News</a>.  </p>
 

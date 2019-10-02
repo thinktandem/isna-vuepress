@@ -22,5 +22,5 @@ The researchers note that cloacal exstrophy is not an intersex condition in the 
   
 Reiner, W. G. and J. P. Gearhart (2004). "Discordant sexual identity in some genetic males with cloacal exstrophy assigned to female sex at birth." _New England Journal of Medicine_ 350(4): 333-41.
 
- [1]: about/medicalboard
+ [1]: /about/medicalboard
  [2]: http://content.nejm.org/cgi/content/abstract/350/4/333?fyear=1994&tmonth=Apr&author2=gearhart%2C+j&author1=reiner%2C+w&tyear=2004&hits=20&fmonth=Apr&excludeflag=TWEEK_element&sortspec=Score+desc+PUBDATE_SORTDATE+desc&search_tab=authors&andorexacttitleabs=and&searchtitle=Authors&sendit=GO&andorexactfulltext=and&searchid=1081207688152_68&FIRSTINDEX=0&journalcode=nejm

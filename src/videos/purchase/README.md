@@ -4,7 +4,7 @@ title: "Purchase DVDs"
 
 # Purchase DVDs
 
-<p>Although <span class="caps">ISNA</span> is closed, you may purchase any of the videos on offer (<a href="/videos/boy%5C_or%5C_girl">Is It a Boy or a Girl</a>, <a href="/videos/hermaphrodites_speak">Hermaphrodites Speak!</a>, or <a href="/videos/mani">Mani&#8217;s Story</a>) from Accord Alliance.  </p>
+<p>Although <span class="caps">ISNA</span> is closed, you may purchase any of the videos on offer (<a href="/videos/boy_or_girl">Is It a Boy or a Girl</a>, <a href="/videos/hermaphrodites_speak">Hermaphrodites Speak!</a>, or <a href="/videos/mani">Mani&#8217;s Story</a>) from Accord Alliance.  </p>
 
 <h3>Price  </h3>
 

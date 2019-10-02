@@ -4,7 +4,7 @@ title: "How common is intersex?"
 
 # How common is intersex?
 
-<p>To answer this question in an uncontroversial way, you&#8217;d have to first get everyone to agree on <a href="/faq/what%5C_is%5C_intersex">what counts as intersex</a> &#8212;and also to agree on what should count as strictly male or strictly female. That&#8217;s hard to do. How small does a penis have to be before it counts as intersex? Do you count &#8220;sex chromosome&#8221; anomalies as intersex if there&#8217;s no apparent external sexual ambiguity?\[1\] (Alice Dreger explores this question in greater depth in her book <a href="/books/medicalinvention">Hermaphrodites and the Medical Invention of Sex</a>.)  </p>
+<p>To answer this question in an uncontroversial way, you&#8217;d have to first get everyone to agree on <a href="/faq/what_is_intersex">what counts as intersex</a> &#8212;and also to agree on what should count as strictly male or strictly female. That&#8217;s hard to do. How small does a penis have to be before it counts as intersex? Do you count &#8220;sex chromosome&#8221; anomalies as intersex if there&#8217;s no apparent external sexual ambiguity?\[1\] (Alice Dreger explores this question in greater depth in her book <a href="/books/medicalinvention">Hermaphrodites and the Medical Invention of Sex</a>.)  </p>
 
 <p>Here&#8217;s what we do know: If you ask experts at medical centers how often a child is born so noticeably atypical in terms of genitalia that a specialist in sex differentiation is called in, the number comes out to about 1 in 1500 to 1 in 2000 births. But a lot more people than that are born with subtler forms of sex anatomy variations, some of which won&#8217;t show up until later in life.  </p>
 

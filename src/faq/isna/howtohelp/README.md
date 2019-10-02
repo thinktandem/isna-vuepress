@@ -8,7 +8,7 @@ title: "What can I do to help ISNA?"
 
 <p><a href="/donate">Donate to <span class="caps">ISNA</span></a> and help us support our important work.  </p>
 
-<p>\*Become an ally\*: An ally is a partner, friend, family member, or associate who is not herself or himself <a href="http://www.isna.org/faq/what%5C_is%5C_intersex">intersexed</a>, but is commited to fighting social and medical structures that hurt and erase intersex people. You do not have to be an intersex person to help create a world free of shame, secrecy, and unwanted genital surgeries on intersex children.  </p>
+<p>\*Become an ally\*: An ally is a partner, friend, family member, or associate who is not herself or himself <a href="http://www.isna.org/faq/what_is_intersex">intersexed</a>, but is commited to fighting social and medical structures that hurt and erase intersex people. You do not have to be an intersex person to help create a world free of shame, secrecy, and unwanted genital surgeries on intersex children.  </p>
 
 <p>\*If you are a medical professional\*: Find out what kind of treatments are provided to intersex people in your institution or clinic, and contact us so we can discuss how to improve them. Schedule a lunch or roundtable with your colleagues and invite someone from <span class="caps">ISNA</span> to attend.  </p>
 

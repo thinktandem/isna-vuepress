@@ -48,4 +48,4 @@ title: "Intersex Treatment as Standard Medical Practice, or, How Wrong I Was"
 
 <p class="footnote" id="fn12083809925d8ccdd338285-8"><sup>7</sup> Barron Lerner, <a href="http://www.amazon.com/exec/obidos/ASIN/0195161068/intersexsocietyo">The Breast Cancer Wars: Hope, Fear, and the Pursuit of a Cure in Twentieth Century America</a> (Oxford University Press, 2003).  </p>
 
-<p class="footnote" id="fn12083809925d8ccdd338285-4"><sup>8</sup> Anita Natarajan, <a href="http://collection.nlc-bnc.ca/100/201/300/cdn%5C_medical%5C_association/cmaj/vol-154/0568e.htm">Medical ethics and truth telling in the case of androgen insensitivity syndrome</a> \_\_Canadian Medical Association Journal\_\_ 1996; 154: 568-570</p>
+<p class="footnote" id="fn12083809925d8ccdd338285-4"><sup>8</sup> Anita Natarajan, <a href="http://collection.nlc-bnc.ca/100/201/300/cdn_medical_association/cmaj/vol-154/0568e.htm">Medical ethics and truth telling in the case of androgen insensitivity syndrome</a> \_\_Canadian Medical Association Journal\_\_ 1996; 154: 568-570</p>

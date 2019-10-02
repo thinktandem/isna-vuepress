@@ -13,7 +13,7 @@ title: "Legal Discussion on Intersex"
 
 <ul>
 	<li>Informing Consent: Whose &#8220;Best Interest&#8221; is at Stake?</li>
-	<li>New Critical Frameworks: the <a href="/colombia">Colombia Decision</a> and San Francisco&#8217;s <a href="/videos/sf%5C_hrc%5C_hearing">Human Rights Commission</a> Report</li>
+	<li>New Critical Frameworks: the <a href="/colombia">Colombia Decision</a> and San Francisco&#8217;s <a href="/videos/sf_hrc_hearing">Human Rights Commission</a> Report</li>
 	<li>The Politics of Intersex</li>
 </ul>
 

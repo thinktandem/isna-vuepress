@@ -24,7 +24,7 @@ title: "Teaching Intersex Issues"
 <p><span class="caps">ISNA</span> recommends that instructors purchasing \*Teaching Intersex Issues\* also consider purchasing the <a href="/videos">videos</a> used in the two-week unit. The recommended videos are:  </p>
 
 <ul>
-	<li><a href="/videos/boy%5C_or%5C_girl">Discovery Is It a Boy or a Girl?</a></li>
+	<li><a href="/videos/boy_or_girl">Discovery Is It a Boy or a Girl?</a></li>
 	<li><a href="/videos/mani">Mani&#8217;s Story</a></li>
 </ul>
 

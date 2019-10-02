@@ -4,7 +4,7 @@ title: "Real ID Act and Intersex Families"
 
 # Real ID Act and Intersex Families
 
-<p>It&#8217;s not uncommon for the law to assume that everyone is born into two neat sex categories (male and female) and that everyone stays in the category in which s/he was first placed. Not so! It is inevitable that some <a href="/faq/what%5C_is%5C_intersex">people born intersex</a> will tell us that the <a href="/faq/gender_assignment">sex/gender category to which they were assigned</a> was incorrect.  </p>
+<p>It&#8217;s not uncommon for the law to assume that everyone is born into two neat sex categories (male and female) and that everyone stays in the category in which s/he was first placed. Not so! It is inevitable that some <a href="/faq/what_is_intersex">people born intersex</a> will tell us that the <a href="/faq/gender_assignment">sex/gender category to which they were assigned</a> was incorrect.  </p>
 
 <p>Unfortunately, it looks like U.S. legislatures are making it harder and harder for people with intersex to assume the legal sex/gender category that they personally identify with. For one example of legislation that can cause hardship to people with intersex, and to their families, read what our friend and ally <a href="/news/realID">Lisa Lees reports</a> on &#8220;The Real ID Act of 2005&#8221;:  </p>
 

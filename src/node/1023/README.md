@@ -25,5 +25,5 @@ title: "Infant Vaginal Dilatations Continue"
 <ul>
 	<li><a href="/node/83">Care and Counseling of the Patient with Vaginal Agenesis</a></li>
 	<li><span class="caps">AIS</span> Support Group&#8217;s page <a href="http://www.medhelp.org/ais/31_HPLASIA.HTM">Vaginal Hypoplasia</a></li>
-	<li><a href="/videos/total%5C_patient%5C_care">The Child with an Intersex Condition: Total Patient Care</a>. In this video Debbie Hartman gives a moving account of her experience as a mother instructed to perform vaginal dilatations on her child.</li>
+	<li><a href="/videos/total_patient_care">The Child with an Intersex Condition: Total Patient Care</a>. In this video Debbie Hartman gives a moving account of her experience as a mother instructed to perform vaginal dilatations on her child.</li>
 </ul>

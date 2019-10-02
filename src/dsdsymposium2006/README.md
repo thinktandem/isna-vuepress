@@ -13,6 +13,6 @@ title: "DSD Symposium 2006"
 <p>The conference is over, but click the following links to learn more about the exciting interactions that transpired:  </p>
 
 <ul>
-	<li><a href="/files/DSD%5C_Symposium%5C_Proceedings.pdf">Proceedings</a></li>
-	<li><a href="/files/DSD%5C_Symposium%5C_Program.pdf">Program</a></li>
+	<li><a href="/files/DSD_Symposium_Proceedings.pdf">Proceedings</a></li>
+	<li><a href="/files/DSD_Symposium_Program.pdf">Program</a></li>
 </ul>

@@ -4,11 +4,11 @@ title: "Tips for Adoptive Parents"
 
 # Tips for Adoptive Parents
 
-<p>In response to our <a href="/articles/tips%5C_for%5C_parents">Tips for Parents</a>, one woman wrote to say that she was adopting a child who had already had cosmetic genital surgery, and could we write guidelines for people in her position?  </p>
+<p>In response to our <a href="/articles/tips_for_parents">Tips for Parents</a>, one woman wrote to say that she was adopting a child who had already had cosmetic genital surgery, and could we write guidelines for people in her position?  </p>
 
 <p>First off, we want to thank all parents&#8212;adoptive, foster, biological, and other&#8212;who provide love and care to children with intersex conditions. Good, open love is what all children need.  </p>
 
-<p>Now, take a look at our <a href="/articles/tips%5C_for%5C_parents">Tips for Parents</a>. We would recommend that you follow the same basic idea: avoid being subject to the concealment-centered approach (which features incomplete information and uninformed decision-making) and insist that your child receives a patient-centered approach, one featuring honestly and openness. More specifically:  </p>
+<p>Now, take a look at our <a href="/articles/tips_for_parents">Tips for Parents</a>. We would recommend that you follow the same basic idea: avoid being subject to the concealment-centered approach (which features incomplete information and uninformed decision-making) and insist that your child receives a patient-centered approach, one featuring honestly and openness. More specifically:  </p>
 
 <p>Recommendations 1-6 of the &#8220;Tips for Parents&#8221; apply to all situations:  </p>
 

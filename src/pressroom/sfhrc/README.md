@@ -4,22 +4,22 @@ title: "Press Information (San Francisco Human Rights Commission Report)"
 
 # Press Information (San Francisco Human Rights Commission Report)
 
-<p>Today the San Francisco Human Rights Commission issued <a href="/files/SFHRC%5C_Intersex%5C_Report.pdf">A Human Rights Investigation into the Medical &#8216;Normalization&#8217; of Intersex People</a>, declaring that the standard medical approach to intersex conditions leads pediatric specialists to violate their patients&#8217; human rights.  </p>
+<p>Today the San Francisco Human Rights Commission issued <a href="/files/SFHRC_Intersex_Report.pdf">A Human Rights Investigation into the Medical &#8216;Normalization&#8217; of Intersex People</a>, declaring that the standard medical approach to intersex conditions leads pediatric specialists to violate their patients&#8217; human rights.  </p>
 
 
 <h3>Press Releases.  </h3>
 
 <ul>
 	<li>See <a href="/node/841"><span class="caps">ISNA</span>&#8217;s press release</a></li>
-	<li>See <a href="/files/SF%5C_HRC%5C_Press_Release.pdf">San Francisco Human Rights Commission&#8217;s Press Release</a></li>
+	<li>See <a href="/files/SF_HRC_Press_Release.pdf">San Francisco Human Rights Commission&#8217;s Press Release</a></li>
 	<li>We also suggest that you have a look at <a href="/faq/ten_myths">Top 10 Myths about Intersex</a></li>
 </ul>
 
 <h3>San Franciso Human Rights Commission  </h3>
 
 <ul>
-	<li><a href="/files/SFHRC%5C_Intersex%5C_Report.pdf">A Human Rights Investigation into the Medical &#8216;Normalization&#8217; of Intersex People</a></li>
-	<li><a href="/videos/sf%5C_hrc%5C_hearing">Video of testimony</a> from San Francisco Human Rights Commission&#8217;s May 27, 2004 open hearing on intersex issues.</li>
+	<li><a href="/files/SFHRC_Intersex_Report.pdf">A Human Rights Investigation into the Medical &#8216;Normalization&#8217; of Intersex People</a></li>
+	<li><a href="/videos/sf_hrc_hearing">Video of testimony</a> from San Francisco Human Rights Commission&#8217;s May 27, 2004 open hearing on intersex issues.</li>
 </ul>
 
 

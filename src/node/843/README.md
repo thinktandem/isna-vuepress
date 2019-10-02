@@ -5,7 +5,7 @@ title: "Jane Goto at Edmonds Community College"
 # Jane Goto at Edmonds Community College
 
 <p><span class="caps">ISNA</span> Director of Community Relations,  <br />
-<a href="/about/goto">Jane Goto</a>, will briefly discuss the history of the intersex movement; relate her own story; and share some insights relevant to future nurses, social workers and counselors. The short video <a href="/videos/total%5C_patient%5C_care">Total Patient Care: The Child with an Intersex Condition</a> will be shown, followed by time for questions.  </p>
+<a href="/about/goto">Jane Goto</a>, will briefly discuss the history of the intersex movement; relate her own story; and share some insights relevant to future nurses, social workers and counselors. The short video <a href="/videos/total_patient_care">Total Patient Care: The Child with an Intersex Condition</a> will be shown, followed by time for questions.  </p>
 
 <p>Edmonds Community College  <br />
 Snoqualmie Hall, Room 113  <br />

@@ -10,7 +10,7 @@ title: "Who was David Reimer (also, sadly, known as John/Joan)?"
 
 <p>As it turns out, Money was lying. He knew Brenda was never happy as a girl, and he knew that as soon as David found out what happened to him, David reassumed the social identity of a boy.  </p>
 
-<p>The case of David Reimer has been used by the proponents of the &#8220;gender is inborn&#8221; (nature) theory as proof that they are right. \_\_We\_\_ like to point out that what the story of David Reimer <a href="/news/pbs%5C_sex%5C_unknown">teaches us most clearly</a> is how much people are harmed by being lied to and treated in inhumane ways. We don&#8217;t think we can ever predict, with absolute certainty, what gender identity a person will grow up to have. What we \_\_can\_\_ predict with a good degree of certainty is that children who are treated with shame, secrecy, and lies will suffer at the hands of medical providers who may think they have the best of intentions and the best of theories.  </p>
+<p>The case of David Reimer has been used by the proponents of the &#8220;gender is inborn&#8221; (nature) theory as proof that they are right. \_\_We\_\_ like to point out that what the story of David Reimer <a href="/news/pbs_sex_unknown">teaches us most clearly</a> is how much people are harmed by being lied to and treated in inhumane ways. We don&#8217;t think we can ever predict, with absolute certainty, what gender identity a person will grow up to have. What we \_\_can\_\_ predict with a good degree of certainty is that children who are treated with shame, secrecy, and lies will suffer at the hands of medical providers who may think they have the best of intentions and the best of theories.  </p>
 
 <p>To read more about David Reimer, see:  </p>
 

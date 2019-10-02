@@ -4,7 +4,7 @@ title: "Report on Human Rights Commission Hearing"
 
 # Report on Human Rights Commission Hearing
 
-<p>Learn how to <a href="/videos/sf%5C_hrc%5C_hearing">view the hearing online, or to order a <span class="caps">DVD</span> or a <span class="caps">VHS</span> tape</a>.  </p>
+<p>Learn how to <a href="/videos/sf_hrc_hearing">view the hearing online, or to order a <span class="caps">DVD</span> or a <span class="caps">VHS</span> tape</a>.  </p>
 
 <p>This report on the San Francisco Human Rights Commission hearing on intersex comes to us from Peter Trinkl, board member of Bodies Like Ours:  </p>
 

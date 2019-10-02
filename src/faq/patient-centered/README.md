@@ -19,7 +19,7 @@ title: "What does ISNA recommend for children with intersex?"
 </ul>
 
 <ul>
-	<li>Following diagnostic work-up, newborns with intersex should be given a <a href="/faq/gender%5C_assignment">gender assignment</a> as boy or girl, depending on which of those genders the child is more likely to feel as she or he grows up. Note that gender assignment does \\_\_not\_\_ involve surgery; it involves assigning a label as boy or girl to a child. (Genital &#8220;normalizing&#8221; surgery does not create or cement a gender identity; it just takes tissue away that they patient may want later.)</li>
+	<li>Following diagnostic work-up, newborns with intersex should be given a <a href="/faq/gender_assignment">gender assignment</a> as boy or girl, depending on which of those genders the child is more likely to feel as she or he grows up. Note that gender assignment does \\_\_not\_\_ involve surgery; it involves assigning a label as boy or girl to a child. (Genital &#8220;normalizing&#8221; surgery does not create or cement a gender identity; it just takes tissue away that they patient may want later.)</li>
 </ul>
 
 <ul>

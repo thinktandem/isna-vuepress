@@ -8,4 +8,4 @@ title: "5-alpha reductase deficiency"
 
 <p>Different from <span class="caps">AIS</span>, 5-<span class="caps">ARDS</span> occurs due to an autosomal defect (on a chromosome other than the X or Y chromosomes) and requires two altered genes, one from the father and one from the mother.  </p>
 
-<p>The experience of individuals and families affected by 5-<span class="caps">ARDS</span> in the Dominican Republic is featured in the Discovery Channel documentary, <a href="/videos/boy%5C_or%5C_girl">Is it a Boy or a Girl?</a></p>
+<p>The experience of individuals and families affected by 5-<span class="caps">ARDS</span> in the Dominican Republic is featured in the Discovery Channel documentary, <a href="/videos/boy_or_girl">Is it a Boy or a Girl?</a></p>

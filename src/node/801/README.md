@@ -22,7 +22,7 @@ title: "Scientists: Stop Risky Surgeries Now!"
 
 
 
-<p>Our own Medical Advisory Board member Bill Reiner presented, as did Eric Vilain of <span class="caps">UCLA</span>, whose <a href="/library/law/vilain%5C_aaas%5C_2005">research and words</a> support our work. Drs. Reiner and Vilain did a great job talking with the press. </p>
+<p>Our own Medical Advisory Board member Bill Reiner presented, as did Eric Vilain of <span class="caps">UCLA</span>, whose <a href="/library/law/vilain_aaas_2005">research and words</a> support our work. Drs. Reiner and Vilain did a great job talking with the press. </p>
 
 
 

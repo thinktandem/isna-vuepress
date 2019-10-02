@@ -29,7 +29,7 @@ title: "What's wrong with the way intersex has traditionally been treated?"
 
 <p>Finally, parents consenting to intersex surgeries do not appear to be fully informed about the available evidence, about alternatives available to them, about the risks associated with surgeries, or about the theoretical problems underlying the &#8220;optimum gender of rearing&#8221; approach. For example, they are typically not told the evidence that gender identity may emerge to an important degree from prenatal hormonal actions on the brain&#8212;and thus, that you can&#8217;t &#8220;make&#8221; a child a maintain a particular gender identity in the long term by doing surgery on him or her in infancy.<sup class="footnote" id="fnrev19281022895d8a20a37f1fa-6"><a href="#fn19281022895d8a20a37f1fa-6">6</a></sup>  </p>
 
-<p>To read more about the problems with the traditional treatment of intersex, see Alice Dreger&#8217;s <a href="/articles/ambivalent%5C_medicine">&#8216;Ambiguous Sex&#8217;&#8212;or Ambivalent Medicine</a>, \\_\_The Hastings Center Report\_\_, May/June 1998, vol. 28, issue 3, pp. 24-35.  </p>
+<p>To read more about the problems with the traditional treatment of intersex, see Alice Dreger&#8217;s <a href="/articles/ambivalent_medicine">&#8216;Ambiguous Sex&#8217;&#8212;or Ambivalent Medicine</a>, \\_\_The Hastings Center Report\_\_, May/June 1998, vol. 28, issue 3, pp. 24-35.  </p>
 
 <p>To read more about how the concealment model differs from <span class="caps">ISNA</span>&#8217;s recommended patient-centered model, take a look at our chart called <a href="/compare">Shifting the Paradigm of Intersex Treatment</a>.  </p>
 
@@ -37,7 +37,7 @@ title: "What's wrong with the way intersex has traditionally been treated?"
 
 <p class="footnote" id="fn19281022895d8a20a37f1fa-1"><sup>1</sup> For examples of people who were lied to and deceived, check out <a href="/videos/hermaphrodites_speak">Hermaphrodites Speak</a> and <a href="/books/chrysalis">Chrysalis</a>.  </p>
 
-<p class="footnote" id="fn19281022895d8a20a37f1fa-2"><sup>2</sup> For documentation, see Alice Domurat Dreger, <a href="/articles/ambivalent%5C_medicine">Ambiguous Sex&#8212;or Ambivalent Medicine? Ethical Issues in the Treatment of Intersexuality</a>. \\_\_Hastings Center Report\_\_, 28, 3 (May/June 1998): 24-35.  </p>
+<p class="footnote" id="fn19281022895d8a20a37f1fa-2"><sup>2</sup> For documentation, see Alice Domurat Dreger, <a href="/articles/ambivalent_medicine">Ambiguous Sex&#8212;or Ambivalent Medicine? Ethical Issues in the Treatment of Intersexuality</a>. \\_\_Hastings Center Report\_\_, 28, 3 (May/June 1998): 24-35.  </p>
 
 <p class="footnote" id="fn19281022895d8a20a37f1fa-3"><sup>3</sup> For evidence boys with small penises do well without sex re-assignment, see Justine M. Reilly and C. R. J. Woodhouse, &#8220;Small Penis and the Male Sexual Role,&#8221; \_\_Journal of Urology\_\_, 142 (1989): 569-571, and see the autobiography of Hale Hawbecker in <a href="/books/ageofethics">Intersex in the Age of Ethics</a>.  </p>
 
