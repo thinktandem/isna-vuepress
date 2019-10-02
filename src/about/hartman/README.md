@@ -4,8 +4,13 @@ title: "Debbie Hartman"
 
 # Debbie Hartman
 
-<p>[image:888 class=bio_image]  <br />
-\*Debbie Rode Hartman\* is a single mother raising her intersexed child who had gender re-assignment surgery at 11 weeks. She is an active advocate for <span class="caps">ISNA</span> and has participated in numerous panels about intersex including presentations to the National Organization of Women and the University of Medicine and Dentistry in Piscataway New Jersey. She was interviewed in Canada SexTV&#8217;s full-length feature on intersex <em>Redefining Sex</em> and has been interviewed by numerous publications including the <em>San Francisco Chronicle</em> and the <em>New Haven Advocate</em>. She is featured in [Total Patient Care]<sup class="footnote" id="fnrev18420941775d8a20a37617c-1"><a href="#fn18420941775d8a20a37617c-1">1</a></sup>, <span class="caps">ISNA</span>&#8217;s video on the practical application of new methodologies in the treatment of intersexed children. Visit her [website on intersex and other special needs]<sup class="footnote" id="fnrev18420941775d8a20a37617c-2"><a href="#fn18420941775d8a20a37617c-2">2</a></sup>.</p>
+Classification: [Emeritus][1] | [Speakers][2]
 
- [1]: totalpatientcare
- [2]: http://www.geocities.com/elee2_2000/indexdebandkellspage.html
+[![Debora Rode Hartman](/files/images/debbie-tpc_0.jpg)][3]  
+**Debbie Rode Hartman** is a single mother raising her intersexed child who had gender re-assignment surgery at 11 weeks. She is an active advocate for ISNA and has participated in numerous panels about intersex including presentations to the National Organization of Women and the University of Medicine and Dentistry in Piscataway New Jersey. She was interviewed in Canada SexTV’s full-length feature on intersex _Redefining Sex_ and has been interviewed by numerous publications including the _San Francisco Chronicle_ and the _New Haven Advocate_. She is featured in [Total Patient Care][4], ISNA’s video on the practical application of new methodologies in the treatment of intersexed children. Visit her [website on intersex and other special needs][5].
+
+[1]: /about/emeritus
+[2]: /about/speakers
+[3]: /node/888
+[4]: /totalpatientcare
+[5]: http://www.geocities.com/elee2_2000/indexdebandkellspage.html

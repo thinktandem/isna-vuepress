@@ -15,7 +15,7 @@ Classification: [News][3] | [What We're Reading][4]
 The American College of Obstetricians and Gynecologists (ACOG) is the main professional association for the specialty of obststrics and gynecology. They recently published a paper in the journal _Obstetrics and Gynecology_ condemning the practice of cosmetic gynecologic surgery. This article gives a  
 good discussion of ACOG’s opinion:
 
-[http://www.chicagotribune.com/news/local/chi-cosmetic\_31aug31,0,7734462.story?coll=chi-unitednavover-misc][5]
+[https://www.chicagotribune.com/news/local/chi-cosmetic\_31aug31,0,7734462.story?coll=chi-unitednavover-misc][5]
 
 [Effects of Clitoral Surgery (Minto et al)][6]
 ----------------------------------------------
@@ -35,7 +35,7 @@ Submitted by Cheryl Chase on Tue, 09/14/2004 - 10:59.
 
 Classification: [Books][10] | [Recent Publications][11] | [What We're Reading][12]
 
-[![cover of Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach](http://ec1.images-amazon.com/images/P/0521809614.01._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_AA240_SH20_SCLZZZZZZZ_.jpg)][13]
+[![cover of Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach](https://ec1.images-amazon.com/images/P/0521809614.01._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_AA240_SH20_SCLZZZZZZZ_.jpg)][13]
 
 **Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach.** Essentially an intersex textbook with a significant emphasis on psychological care (and on issues such as psychological support) with chapters by clinical psychologists like Lih-Mei Liao, Julie Alderson and Polly Carmichael.
 
@@ -100,7 +100,7 @@ I’ve been updating my references database, and I continue to be impressed by t
 [2]: /node/1140
 [3]: /news
 [4]: /what_we_are_reading
-[5]: http://www.chicagotribune.com/news/local/chi-cosmetic_31aug31,0,7734462.story?coll=chi-unitednavover-misc
+[5]: https://www.chicagotribune.com/news/local/chi-cosmetic_31aug31,0,7734462.story?coll=chi-unitednavover-misc
 [6]: /node/641
 [7]: /library/recentpublications
 [8]: /what_we_are_reading
@@ -108,19 +108,19 @@ I’ve been updating my references database, and I continue to be impressed by t
 [10]: /books
 [11]: /library/recentpublications
 [12]: /what_we_are_reading
-[13]: http://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
-[14]: http://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
+[13]: https://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
+[14]: https://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
 [15]: /node/1141
 [16]: /news
 [17]: /what_we_are_reading
 [18]: /about/medicalboard
-[19]: http://www.sciam.com/article.cfm?chanID=sa006&articleID=727D7A18-E7F2-99DF-306CFA4718A57613&colID=30
+[19]: https://www.sciam.com/article.cfm?chanID=sa006&articleID=727D7A18-E7F2-99DF-306CFA4718A57613&colID=30
 [20]: /node/1142
 [21]: /news
 [22]: /what_we_are_reading
-[23]: http://www.madison.com/wsj/home/column/247014
+[23]: https://www.madison.com/wsj/home/column/247014
 [24]: /node/1025
 [25]: /what_we_are_reading
-[26]: http://www.urotoday.com/prod/contents/confreport/article.asp?cat=confReport&sid=184&tid=412&aid=3474
+[26]: https://www.urotoday.com/prod/contents/confreport/article.asp?cat=confReport&sid=184&tid=412&aid=3474
 [27]: /node/1024
 [28]: /what_we_are_reading
