@@ -222,7 +222,10 @@ export default ({Vue, options, router, siteData}) => {
     { path: '/woodvcgstudios.html', redirect: '/node/142' },
     { path: '/xxxy.html', redirect: '/node/695' },
     { path: '/books/age_of_ethics/', redirect: '/books/ageofethics/' },
-
-
+    { path: '/node/726/', redirect: '/faq/conditions/know/' },
+    { path: '/lessonsfromtheintersexed/', redirect: '/books/lessons/' },
+    { path: '/library/books/', redirect: '/books/' },
+    { path: '/user/11/', redirect: '/' },
+    { path: '/legal/colombia/', redirect: '/' },
   ])
 };

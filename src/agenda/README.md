@@ -143,5 +143,5 @@ _Randy Howe, MD_
  [2]: http://www.bbc.co.uk/radio4/womanshour/10_12_01/tuesday/info1.shtml
  [3]: http://collection.nlc-bnc.ca/100/201/300/cdn_medical_association/cmaj/vol-154/0568e.htm
  [4]: http://collection.nlc-bnc.ca/100/201/300/cdn_medical_association/cmaj/vol-154/1829e.htm
- [5]: articles/groveman2001
+ [5]: /articles/groveman2001
  [6]: http://www.findarticles.com/cf_0/m0950/1_106/63602518/p1/article.jhtml?term=hermaphroditism
