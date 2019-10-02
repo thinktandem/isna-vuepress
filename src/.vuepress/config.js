@@ -109,14 +109,7 @@ module.exports = {
             "/faq/history/"
           ],
         },
-        {
-          title: 'Legal',
-          path: '/legal/',
-          sidebarDepth: 1,
-          children: [
-            "/legal/",
-          ],
-        },
+        ['/legal/', 'Law'],
         {
           title: 'Library',
           path: '/taxonomy/term/7',
@@ -143,6 +136,7 @@ module.exports = {
           ],
         },
       ],
+
     },
   },
 };

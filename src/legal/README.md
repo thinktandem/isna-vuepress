@@ -1,5 +1,6 @@
 ---
 title: "Law"
+sidebarDepth: 0
 ---
 
 Law
@@ -104,14 +105,49 @@ Classification: [Law][26]
 
 Greenberg, Julie. 2003. [Legal Aspects of Gender Assignment][27]. _The Endocrinologist_ 13 (3):277-86.
 
-**1**
 
-[2][28]
+[Miki Ann Dimarco confined in isolation because she's intersexed][28]
+---------------------------------------------------------------------
 
-[next page][29]
+Submitted by Cheryl Chase on Thu, 12/09/2004 - 17:11.
 
-[last page][30]
+Classification: [Law][29] | [News][30] | [Recent Publications][31]
 
+The Casper Wyoming Star Tribune is carrying an article about Miki Ann Dimarco. Early this year, a U.S. District Court judge found that 438 days of confinement in Pod Three, a maximum security four-cell segregated area that is used to house the Wyoming Women’s Center worst inmates, was not cruel an unusual punishment. Dimarco was found guilty of passing six bad checks, totalling $742.85. That’s not why she was confined all alone for over a year. Rather, prison officials decided to segregate her when they discovered that she was intersexed.
+
+Dusen, Matthew Van. 2004. Separate and Unequal. Casper Star Tribune, December 8. [Available online][32].
+
+[Right to marry determined by genes?][33]
+-----------------------------------------
+
+Classification: [Law][34]
+
+Two women -- one of them a male-to-female transexual -- have [obtained a marriage license][35] in San Antonio Texas. The women had previously been denied a marriage license on the basis that they are a same-sex couple. However, they successfully argued that the Texas 4th Court of Appeals [Littleton v. Prange decision][36] guaranteed them the right to marry, based upon their inferred chromosomes.
+
+These legal developments have the potential to invalidate the
+
+[Surgeons legally liable?][37]
+------------------------------
+
+Classification: [Law][38]
+
+The Summer issue of _Michigan Journal of Gender and Law_ has published "An emerging ethical and medical dilemma: should physicians perform sex assignment surgery on infants with ambiguous genitalia?" by Milton Diamond and Hazel Beh. The article breaks new ground in examining the legal liability of physicians who treat sexual ambiguity in infants with genital surgery. See the full citation at the bottom of this page.
+
+The authors note, "This article discusses the development of a surgical approach to treating intersex infants and others with genital anomalies that began in the late 1950s and becamse standard in the 1970s. Although professional literature has recently questioned the surgical approach to the treatment of infants, controversy surrounding treatment persists and the medical community now is divided. How sex reassignment for intersex infants became a routine recommendation of practitioners and how parents were persuaded to consent to such radical surgeries provide a cautionary tale that is relevant to both medicine and law."
+
+[Texas Court creates Genetic Definition of Marriage][39]
+--------------------------------------------------------
+
+Classification: [Law][40] | [News][41]
+
+When Christie Littleton's husband died under medical care, she filed a wrongful death suit against the physician. When the opposing side realized that Littleton was a transsexual, they asked the court to dismiss her suit on the basis that legal change of sex is impossible, so her marriage was invalid, and she thus lacked legal standing to sue. This case sets a precedent that could render many people with atypical genes ineligible for marriage. The decision's author noted, but dodged, the complexity of legal sex of intersex people: "I express no opinion as to how the law would view \[intersex people\] with regard to marriage.
+
+[Yale Law and Policy Review examines surgical liability][42]
+------------------------------------------------------------
+
+Classification: [Law][43]
+
+From the article's conclusion: "Surgeons who perform genetic normalizing surgery, whether on an emergency basis or at the behest of the intersexed infant's parents, should be aware that, because genital-normalizing surgery is not necessary nor proven beneficial for the infant with clitoromegaly or micropenis, the required elements of legal informed consent are likely to have not been met. In light of the questionable scientific basis behind its use, the lack of follow-up data on its benefits, and the overwhelming evidence of its negative physical and psychological results for many intersexuals, a moratorium should be declared on the use of defenseless infants as the experimental subjects of genital-normalizing surgery."
 
 [1]: /node/1112
 [2]: /legal
@@ -140,6 +176,19 @@ Greenberg, Julie. 2003. [Legal Aspects of Gender Assignment][27]. _The Endocrino
 [25]: /node/824
 [26]: /legal
 [27]: http://www.isna.org/pdf/greenberg2003.pdf
-[28]: /legal/2/
-[29]: /legal/2/
-[30]: /legal/2/
+[28]: /node/673
+[29]: /legal
+[30]: /news
+[31]: /library/recentpublications
+[32]: http://www.casperstartribune.net/articles/2004/12/08/news/wyoming/02d16668d80bb25687256eaa005c2df6.txt
+[33]: /node/519
+[34]: /legal
+[35]: http://seattlepi.nwsource.com/national/marr07.shtml
+[36]: http://www.4thcoa.courts.state.tx.us/opinions/case.asp?FilingID=8739
+[37]: /node/520
+[38]: /legal
+[39]: /node/104
+[40]: /legal
+[41]: /news
+[42]: /node/518
+[43]: /legal
