@@ -259,4 +259,19 @@
 /news?from=130   /news/
 /news?from=140   /news/
 /node/view/*   /node/:splat
-
+/blog   /blog/
+/blog?from=0   /blog/
+/blog?from=10   /blog/
+/blog?from=20   /blog/
+/blog?from=30   /blog/
+/blog?from=40   /blog/
+/blog?from=50   /blog/
+/blog?from=60   /blog/
+/blog?from=70   /blog/
+/blog/1?from=0   /blog/1/
+/blog/1?from=10   /blog/1/
+/search/node   /
+/blog/11?from=0   /blog/11/
+/blog/11?from=10   /blog/11/
+/blog/214?from=0   /blog/214/
+/blog/214?from=10   /blog/214/
