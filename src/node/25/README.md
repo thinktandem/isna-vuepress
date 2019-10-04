@@ -5,21 +5,14 @@ title: "pr12-15-97"
 # pr12-15-97
 
   
-  
+Classification: [News][1]
 
-
- Press  
+![](/img/logo100.gif)Press  
 Release: 15 December 1997  
   
-&nbsp;</P>  
-  
-
+ 
 
 _Fresh Air_ on intersex
-
-  
-  
-
 
 Terry Gross, host of the popular NPR program "Fresh Air," produced  
 by WHYY in Philadelphia,  
@@ -32,10 +25,6 @@ The program
   
 aired 11 December 1997.
 
-  
-  
-
-
 Khoury largely dismissed the complaints of intersex activists, insisting  
 that they must have had "bad surgery," and that surgery is now  
 much improved. Nielson agreed with intersex activists that secrecy is harmful,  
@@ -43,32 +32,16 @@ citing her experience working with adopted children, but concluded that
 surgery was necessary before a child goes to day care, in order to forestall  
 teasing by peers.
 
-  
-  
-
-
 TO ORDER FRESH AIR AUDIO OR TRANSCRIPT
-
-  
-  
-
 
 Audio is available for a fee from  
   
-http://www.audible.com (search for  
-"khoury", playable only under Windows), 
-
-  
-  
-
+[http://www.audible.com][2] (search for  
+"khoury", playable only under Windows),
 
   
   
 or from NPR as follows:
-
-  
-  
-
 
 Tapes cost $23.45.  
   
@@ -90,64 +63,49 @@ Upper Marlboro, MD
   
 20775-4370
 
-  
-  
-
-
 When ordering, please mention the program  
   
 (Fresh Air), broadcast date, and program subject(s).  
   
-&nbsp;  
+   
   
-&nbsp;
-
-  
-  
-
+ 
 
 THE FOLLOWING REAL AUDIO INTERVIEWS ON  
   
 INTERSEX ARE AVAIABLE FREE VIA INTERNET
 
-  
-  
-
-
 White, Robin. 1997. All Things Considered:  
   
 Intersexuals: National Public Radio. 28 Nov.  
   
-http://www.npr.org/programs/atc/archives/971128.atc.html  
+[http://www.npr.org/programs/atc/archives/971128.atc.html][3]  
   
   
 Tapes and transcripts available from NPR.  
   
-&nbsp;
-
-  
-  
-
+ 
 
 Hangin' Out with John McMullen interviews  
   
 Cheryl Chase. GloRadio, 3 Nov 1997.  
   
-http://www.gloradio.com/hoarch1197.html  
+[http://www.gloradio.com/hoarch1197.html][4]  
   
   
-&nbsp;
+ 
 
+###  
   
+   
   
+   
+  
+   
+  
+ 
 
-
-\###  
-  
-&nbsp;  
-  
-&nbsp;  
-  
-&nbsp;  
-  
-&nbsp;
+[1]: /news
+[2]: http://www.audible.com/
+[3]: http://www.npr.org/programs/atc/archives/971128.atc.html
+[4]: http://www.gaybc.com/hoarch1197.html
