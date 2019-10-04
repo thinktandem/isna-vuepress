@@ -98,7 +98,7 @@ Submitted by Cheryl Chase on Tue, 09/14/2004 - 10:59.
 
 Classification: [Books][24] | [Recent Publications][25] | [What We're Reading][26]
 
-[![cover of Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach](http://ec1.images-amazon.com/images/P/0521809614.01._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_AA240_SH20_SCLZZZZZZZ_.jpg)][27]
+[![cover of Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach](https://ec1.images-amazon.com/images/P/0521809614.01._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_AA240_SH20_SCLZZZZZZZ_.jpg)][27]
 
 **Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach.** Essentially an intersex textbook with a significant emphasis on psychological care (and on issues such as psychological support) with chapters by clinical psychologists like Lih-Mei Liao, Julie Alderson and Polly Carmichael.
 
@@ -222,7 +222,7 @@ Classification: [Recent Publications][62]
 
 Hester, J. David. 2004. Intersex(es) and alternative strategies of healing. Ethik in der Medizin 16:48-67.  
 ———. 2004. Intersex(es) and informed consent: how physicians' rhetoric constrains choice. Theoretical Medicine 25:21-49.  
-———. 2003. Rhetoric of the medical management of intersexed children. Genders 38. Available from [http://www.genders.org/g38/g38\_hester.html][63].
+———. 2003. Rhetoric of the medical management of intersexed children. Genders 38. Available from [https://www.genders.org/g38/g38\_hester.html][63].
 
 [Reiner & Gearhart's NEJM Study on Cloacal Exstrophy - Review by Vernon Rosario, M.D., Ph.D.][64]
 -------------------------------------------------------------------------------------------------
@@ -257,7 +257,7 @@ Classification: [Recent Publications][72]
 
 Seven Oaks Magazine [interviewed][73] ISNA's board chair Alice Dreger earlier this month.
 
-Hui, Stephen. 2004. SEVEN QUESTIONS: Alice Dreger. Seven Oaks, June 7. Available from [http://www.sevenoaksmag.com/questions/16.html][74].
+Hui, Stephen. 2004. SEVEN QUESTIONS: Alice Dreger. Seven Oaks, June 7. Available from [https://www.sevenoaksmag.com/questions/16.html][74].
 
 [Slate documents changes in medical management of intersex][75]
 ---------------------------------------------------------------
@@ -319,7 +319,7 @@ Classification: [Recent Publications][92]
 
 ISNA is covered in an excellent New York Times article on the controversy over intersex surgeries. Practice is changing!
 
-Navarro, Mireya. 2004. When Gender Isn’t a Given. New York Times, September 19, Styles 1, 6. Available from [http://www.nytimes.com/2004/09/19/fashion/19INTE.html][93].
+Navarro, Mireya. 2004. When Gender Isn’t a Given. New York Times, September 19, Styles 1, 6. Available from [https://www.nytimes.com/2004/09/19/fashion/19INTE.html][93].
 
 [What is the agenda of the intersex patient advocacy movement?][94]
 -------------------------------------------------------------------
@@ -341,7 +341,7 @@ Submitted by Cheryl Chase on Mon, 01/17/2005 - 10:56.
 
 Classification: [News][99] | [Recent Publications][100]
 
-Haas, Kate. 2004. Who Will Make Room for the Intersexed? American Society of Law, Medicine, and Ethics 30 (1):41-68. Available from [http://www.cirp.org/library/legal/USA/haas1/][101].
+Haas, Kate. 2004. Who Will Make Room for the Intersexed? American Society of Law, Medicine, and Ethics 30 (1):41-68. Available from [https://www.cirp.org/library/legal/USA/haas1/][101].
 
 [Young Adult Novel Features Intersex Character][102]
 ----------------------------------------------------
@@ -359,8 +359,8 @@ In a world where representations matter and many young intersex and/or queer peo
 [3]: /library/recentpublications
 [4]: /node/628
 [5]: /library/recentpublications
-[6]: http://www.cbc.ca/thecurrent/2004/200407/20040728.html
-[7]: http://media.cbc.ca:8080/ramgen/cbc.ca/thecurrent/media/200407/20040728thecurrent_sec2.rm
+[6]: https://www.cbc.ca/thecurrent/2004/200407/20040728.html
+[7]: https://media.cbc.ca:8080/ramgen/cbc.ca/thecurrent/media/200407/20040728thecurrent_sec2.rm
 [8]: /node/599
 [9]: /library/recentpublications
 [10]: /node/602
@@ -370,7 +370,7 @@ In a world where representations matter and many young intersex and/or queer peo
 [14]: /library/recentpublications
 [15]: /node/623
 [16]: /library/recentpublications
-[17]: http://www.freep.com/news/childrenfirst/anat19_20040719.htm
+[17]: https://www.freep.com/news/childrenfirst/anat19_20040719.htm
 [18]: /node/641
 [19]: /library/recentpublications
 [20]: /what_we_are_reading
@@ -380,8 +380,8 @@ In a world where representations matter and many young intersex and/or queer peo
 [24]: /books
 [25]: /library/recentpublications
 [26]: /what_we_are_reading
-[27]: http://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
-[28]: http://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
+[27]: https://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
+[28]: https://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
 [29]: /node/674
 [30]: /news
 [31]: /library/recentpublications
@@ -396,10 +396,10 @@ In a world where representations matter and many young intersex and/or queer peo
 [40]: /about/medicalboard/
 [41]: /node/989
 [42]: /library/recentpublications
-[43]: http://www.law.harvard.edu/students/orgs/crcl/vol40_1/
+[43]: https://www.law.harvard.edu/students/orgs/crcl/vol40_1/
 [44]: /node/572
 [45]: /library/recentpublications
-[46]: http://www.theonionavclub.com/savagelove/index.php?issue=4015 
+[46]: https://www.theonionavclub.com/savagelove/index.php?issue=4015 
 [47]: /node/682
 [48]: /news
 [49]: /library/recentpublications
@@ -408,45 +408,45 @@ In a world where representations matter and many young intersex and/or queer peo
 [52]: /library/recentpublications
 [53]: /node/607
 [54]: /library/recentpublications
-[55]: http://www.amazon.com/exec/obidos/ASIN/0312422156/intersexsocietyo?dev-t=mason-wrapper%26camp=2025%26link_code=xm2
+[55]: https://www.amazon.com/exec/obidos/ASIN/0312422156/intersexsocietyo?dev-t=mason-wrapper%26camp=2025%26link_code=xm2
 [56]: /node/673
 [57]: /legal
 [58]: /news
 [59]: /library/recentpublications
-[60]: http://www.casperstartribune.net/articles/2004/12/08/news/wyoming/02d16668d80bb25687256eaa005c2df6.txt
+[60]: https://www.casperstartribune.net/articles/2004/12/08/news/wyoming/02d16668d80bb25687256eaa005c2df6.txt
 [61]: /node/637
 [62]: /library/recentpublications
-[63]: http://www.genders.org/g38/g38_hester.html
+[63]: https://www.genders.org/g38/g38_hester.html
 [64]: /node/564
 [65]: /library/recentpublications
 [66]: /about/medicalboard
-[67]: http://content.nejm.org/cgi/content/abstract/350/4/333?fyear=1994&tmonth=Apr&author2=gearhart%2C+j&author1=reiner%2C+w&tyear=2004&hits=20&fmonth=Apr&excludeflag=TWEEK_element&sortspec=Score+desc+PUBDATE_SORTDATE+desc&search_tab=authors&andorexacttitleabs=and&searchtitle=Authors&sendit=GO&andorexactfulltext=and&searchid=1081207688152_68&FIRSTINDEX=0&journalcode=nejm
+[67]: https://content.nejm.org/cgi/content/abstract/350/4/333?fyear=1994&tmonth=Apr&author2=gearhart%2C+j&author1=reiner%2C+w&tyear=2004&hits=20&fmonth=Apr&excludeflag=TWEEK_element&sortspec=Score+desc+PUBDATE_SORTDATE+desc&search_tab=authors&andorexacttitleabs=and&searchtitle=Authors&sendit=GO&andorexactfulltext=and&searchid=1081207688152_68&FIRSTINDEX=0&journalcode=nejm
 [68]: /node/573
 [69]: /library/recentpublications
-[70]: http://www.sacbee.com/content/lifestyle/story/8971622p-9897782c.html
+[70]: https://www.sacbee.com/content/lifestyle/story/8971622p-9897782c.html
 [71]: /node/611
 [72]: /library/recentpublications
-[73]: http://www.sevenoaksmag.com/questions/16.html
-[74]: http://www.sevenoaksmag.com/questions/16.html
+[73]: https://www.sevenoaksmag.com/questions/16.html
+[74]: https://www.sevenoaksmag.com/questions/16.html
 [75]: /node/605
 [76]: /library/recentpublications
-[77]: http://slate.msn.com/id/2102006/
+[77]: https://slate.msn.com/id/2102006/
 [78]: /node/646
 [79]: /library/recentpublications
-[80]: http://www.soundprint.org/radio/display_show/ID/625/name/Intersex
+[80]: https://www.soundprint.org/radio/display_show/ID/625/name/Intersex
 [81]: /node/625
 [82]: /library/recentpublications
-[83]: http://www.bjui.org/93/s3/bju_v93_is3_toc.asp
+[83]: https://www.bjui.org/93/s3/bju_v93_is3_toc.asp
 [84]: /node/591
 [85]: /library/recentpublications
-[86]: http://www.newint.org/issue364/self.htm
+[86]: https://www.newint.org/issue364/self.htm
 [87]: /node/662
 [88]: /news
 [89]: /library/recentpublications
-[90]: http://www.washingtonsquarenews.com/features/citylife/8080.html
+[90]: https://www.washingtonsquarenews.com/features/citylife/8080.html
 [91]: /node/642
 [92]: /library/recentpublications
-[93]: http://www.boston.com/yourlife/health/other/articles/2004/09/19/when_gender_isnt_a_given
+[93]: https://www.boston.com/yourlife/health/other/articles/2004/09/19/when_gender_isnt_a_given
 [94]: /agenda
 [95]: /about
 [96]: /library/recentpublications
@@ -454,13 +454,13 @@ In a world where representations matter and many young intersex and/or queer peo
 [98]: /node/680
 [99]: /news
 [100]: /library/recentpublications
-[101]: http://www.cirp.org/library/legal/USA/haas1/
+[101]: https://www.cirp.org/library/legal/USA/haas1/
 [102]: /node/970
 [103]: /news
 [104]: /library/recentpublications
 [105]: /books/foolforlove
-[106]: http://www.lisalees.com/
-[107]: http://www.lisalees.com/
+[106]: https://www.lisalees.com/
+[107]: https://www.lisalees.com/
 [108]: /books/foolforlove
 [109]: /books/foolforlove
 [110]: /books/foolforlove

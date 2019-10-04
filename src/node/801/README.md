@@ -95,7 +95,7 @@ title: "Scientists: Stop Risky Surgeries Now!"
 
 <p>Intersex Society of North America</p>
 
- [1]: 
+ [1]: /
  [2]: http://www.nytimes.com/aponline/health/AP-Babies-Unclear-Gender.html?ex=1109394000&amp;en=aa22c9abe7ab3427&amp;ei=5070
  [3]: /faq/concealment
  [4]: /faq/healthy
