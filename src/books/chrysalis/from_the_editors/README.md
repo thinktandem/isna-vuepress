@@ -6,7 +6,7 @@ title: "From the Editors"
 
 <p>Intersexed people have until recently been without a voice. Things changed four years ago, when Cheryl Chase founded the Intersex Society of North America and its witty and oft irreverent newsletter, Hermaphrodites With Attitude. This issue of \_\_Chrysalis\_\_, which is edited by Cheryl and Martha Coventry, both of whom are intersexed, reflects the groundbreaking work of <span class="caps">ISNA</span>.  </p>
 
-<p>\_\_&#8212;Dallas Denny (Editor)\_\_  </p>
+<p><i>Dallas Denny (Editor)</i>  </p>
 
 <p>We are thrilled that Dallas has given us this opportunity to present to \_\_Chrysalis\_\_ readers these writings about the lived experience and the history of intersexuality.  </p>
 
@@ -30,6 +30,6 @@ title: "From the Editors"
 
 <p>When we first came together, we were still too filled with shame to allow our pictures to be published, or in many cases even our real names. Now, we are finding our pride and finding the strength to show our faces. With special assistance from Dallas, we have complemented this issue with a gallery of pictures of us. Pictures of our childhoods, of our lives today, and of the joyful changes that breaking silence has made possible for us. These pictures are our gift to ourselves and to our intersexual brothers/sisters and their parents who have not yet begun their healing journey. And to the world, to declare that we exist, we are human, we are everywhere among you.  </p>
 
-<p>\_\_&#8212;Cheryl Chase\_\_  <br />
-\_\_&#8212;Martha Coventry\_\_  <br />
-\_\_Guest Editors\_\_</p>
+<p><i>Cheryl Chase</i>  <br />
+<i>Martha Coventry</i>  <br />
+<i>Guest Editors</i></p>

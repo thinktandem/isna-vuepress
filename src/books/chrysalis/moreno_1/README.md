@@ -8,7 +8,7 @@ title: "What dream? (Poem)"
 
 <blockquote>
 	<p>look at the child with the dream in her eyes  <br />
-holding it deep inside her \_\_&#8212;s. mclachlan\_\_  </p>
+holding it deep inside her <i>s. mclachlan</i>  </p>
 </blockquote>
 
 <p>dream what dream?  </p>

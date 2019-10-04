@@ -12,7 +12,7 @@ just to see me&#8212;stand over my bed  <br />
 disbelieving what they&#8217;re seeing  <br />
 they say I must be one of the wonders  <br />
 of God&#8217;s own creation  <br />
-\_\_&#8212;Natalie Merchant\_\_  <br />
+<i>Natalie Merchant</i>  <br />
 (from the song &#8220;Wonder,&#8221; on her album Tiger Lily)  </p>
 </blockquote>
 

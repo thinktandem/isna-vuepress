@@ -6,7 +6,7 @@ title: "Hermaphrodites with Attitude Take to the Streets"
 
 <p>\_\_Max Beck\_\_  </p>
 
-<p>In late October of 1996, Hermaphrodites with Attitude took to the streets, in the first public demonstration by intersexuals in modern history. On a glorious fall day, the like of which you can only find in New England, under a crackling, cloudless sky, twenty-odd protesters joined forces to picket the Annual Meeting of the American Academy of Pediatricians in Boston (see cover photo \_\_&#8212;Ed.\_\_).  </p>
+<p>In late October of 1996, Hermaphrodites with Attitude took to the streets, in the first public demonstration by intersexuals in modern history. On a glorious fall day, the like of which you can only find in New England, under a crackling, cloudless sky, twenty-odd protesters joined forces to picket the Annual Meeting of the American Academy of Pediatricians in Boston (see cover photo <i>Ed.</i>.  </p>
 
 <p>Deeply aware of the historical and personal significance of the action, and&#8212;correctly&#8212;surmising that a notebook diary would not be practical on such a whirlwind, windy week-end, I took a small hand-held tape recorder with me. What follows are excerpts from the resulting transcript.  </p>
 
@@ -76,7 +76,7 @@ title: "Hermaphrodites with Attitude Take to the Streets"
 
 <p>Goddess, this is so sweet, so liberating! I was so reluctant a week ago, having my Jesus-in-Gethsemane experience, reluctant to accept&#8212;not an onus or responsibility but&#8212;to accept who I am. And here&#8217;s where the hard work really begins. I&#8217;m exhausted when I think of the road before us. But then, it&#8217;s nothing like the road behind us.  </p>
 
-<p>[AAP officials did not reply to a letter from <span class="caps">ISNA</span>, delivered several days before the convention, inviting them to talk with <span class="caps">ISNA</span> members before, during or after the convention. During the demonstration, a PR man came out to distribute an <a href="/books/chrysalis/aap">American Academy of Pediatrics press release</a> asserting that &#8220;from the viewpoint of emotional development&#8221; the age six weeks to fifteen months is the optimal time for genital surgery, and announced that while <span class="caps">AAP</span> officials would be happy to meet with members of the press privately, inside, they had no interest in meeting any Hermaphrodites with Attitude \_\_&#8212;Ed.\_\_]  </p>
+<p>[AAP officials did not reply to a letter from <span class="caps">ISNA</span>, delivered several days before the convention, inviting them to talk with <span class="caps">ISNA</span> members before, during or after the convention. During the demonstration, a PR man came out to distribute an <a href="/books/chrysalis/aap">American Academy of Pediatrics press release</a> asserting that &#8220;from the viewpoint of emotional development&#8221; the age six weeks to fifteen months is the optimal time for genital surgery, and announced that while <span class="caps">AAP</span> officials would be happy to meet with members of the press privately, inside, they had no interest in meeting any Hermaphrodites with Attitude <i>Ed..</i>]  </p>
 
 <p>!/files/images/silence-762.jpg (Max Beck pickets American Academy of Pediatrics!  </p>
 

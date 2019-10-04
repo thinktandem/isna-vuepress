@@ -27,5 +27,5 @@ title: "Time for a Change"
 <p>Because of the way I and my family were treated by doctors who are considered to be experts, I am working with <span class="caps">ISNA</span> to change the current medical treatment of intersexed conditions. Our stories are slowly becoming known to the general public. We are all around you, but&#8212;until now&#8212;we have been invisible because we have been silent. It&#8217;s time for that to change.  </p>
 
 <blockquote>
-	<p>Actually, the risk of osteoporosis for an intersexual whose gonads have been removed by surgeons and who does not take replacement hormones is far more severe than for a post-menopausal woman, because s/he will be without hormones for many more years. Severe osteoporosis is painful and debilitating in the extreme, and should not be lightly dismissed as &#8220;weakened bones.&#8221; \_\_&#8212;Ed.\_\_</p>
+	<p>Actually, the risk of osteoporosis for an intersexual whose gonads have been removed by surgeons and who does not take replacement hormones is far more severe than for a post-menopausal woman, because s/he will be without hormones for many more years. Severe osteoporosis is painful and debilitating in the extreme, and should not be lightly dismissed as &#8220;weakened bones.&#8221; <i>Ed.</i></p>
 </blockquote>

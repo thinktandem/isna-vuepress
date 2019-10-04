@@ -39,6 +39,38 @@ module.exports = {
       {text: 'español', link: '/espanol/'},
     ],
     sidebar: {
+      '/books/chrysalis/': [
+        {
+          title: 'Chrysalis Special Issue on Intersexuality (1997)',
+          path: '/books/chrysalis/',
+          children: [
+            '/books/chrysalis/from_the_editors/',
+            '/books/chrysalis/chase/',
+            '/books/chrysalis/cameron/',
+            '/books/chrysalis/dreger/',
+            '/books/chrysalis/coventry/',
+            '/books/chrysalis/mcclintock/',
+            '/books/chrysalis/beck/',
+            '/books/chrysalis/moreno/',
+            '/books/chrysalis/derick/',
+            '/books/chrysalis/triea/',
+            '/node/743/',
+            '/books/chrysalis/moreno_letter/',
+            '/books/chrysalis/kessler/',
+            '/books/chrysalis/green/',
+            '/books/chrysalis/aap/',
+            '/books/chrysalis/walcutt_ode/',
+            '/books/chrysalis/rodrigues/',
+            '/books/chrysalis/triea_pru/',
+            '/books/chrysalis/craffey/',
+            '/books/chrysalis/alexander/',
+            '/books/chrysalis/nicholson/',
+            '/books/chrysalis/murk/',
+            '/books/chrysalis/walcutt/',
+            '/books/chrysalis/moreno_1/',
+          ],
+        },
+      ],
       '/': [
         {
           title: 'FAQ',
@@ -136,7 +168,6 @@ module.exports = {
           ],
         },
       ],
-
     },
   },
 };
