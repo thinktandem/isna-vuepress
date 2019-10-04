@@ -84,9 +84,9 @@ Associate Professor, Urology, Children’s Hospital of Philadelphia
 
 Classification: [Bibliographies][16] | [Library][17]
 
-60 minutes (australia) breaking the silence: Sexual reassignment (antoinette briffa), 2000. Directed by Anon. . Sydney. June 25. Available from: [http://sixtyminutes.ninemsn.com.au/01\_stories/2000\_06\_25/story\_185.asp][18].
+60 minutes (australia) breaking the silence: Sexual reassignment (antoinette briffa), 2000. Directed by Anon. . Sydney. June 25. Available from: [http://sixtyminutes.ninemsn.com.au/01_stories/2000_06_25/story_185.asp][18].
 
-Anon. . 2000, Fall. Letters (intersex). Whole Earth, 100-101. Available from: [http://www.findarticles.com/cf\_0/m0GER/2000\_Fall/66240481/print.jhtml][19].
+Anon. . 2000, Fall. Letters (intersex). Whole Earth, 100-101. Available from: [http://www.findarticles.com/cf_0/m0GER/2000_Fall/66240481/print.jhtml][19].
 
 Anon. . 2000, August. Frau und mann - alte mythen nuen rollen. Geo Wissen (special issue on intersex), 26. Available from: [http://www.geo.de/magazin/wissen/2000/02.html][20].
 

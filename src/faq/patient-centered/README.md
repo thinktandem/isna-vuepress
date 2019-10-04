@@ -4,7 +4,7 @@ title: "What does ISNA recommend for children with intersex?"
 
 # What does ISNA recommend for children with intersex?
 
-<p>After years of consultation with people with intersex conditions, their parents, their healthcare providers, and others, the following <a href="/compare">Patient-Centered Model</a> is what <span class="caps">ISNA</span> recommends.  </p>
+After years of consultation with people with intersex conditions, their parents, their healthcare providers, and others, the following <a href="/compare">Patient-Centered Model</a> is what <span class="caps">ISNA</span> recommends.  
 
 <ul>
 	<li>Children with intersex, parents of those children, and adults with intersex should be treated in an open, shame-free, supportive, and honest way. They should consistently be told the truth (this includes providers being honest about uncertainty), and should be given copies of medical records as soon and as often as they ask for them.</li>
@@ -19,7 +19,7 @@ title: "What does ISNA recommend for children with intersex?"
 </ul>
 
 <ul>
-	<li>Following diagnostic work-up, newborns with intersex should be given a <a href="/faq/gender_assignment">gender assignment</a> as boy or girl, depending on which of those genders the child is more likely to feel as she or he grows up. Note that gender assignment does \\_\_not\_\_ involve surgery; it involves assigning a label as boy or girl to a child. (Genital &#8220;normalizing&#8221; surgery does not create or cement a gender identity; it just takes tissue away that they patient may want later.)</li>
+	<li>Following diagnostic work-up, newborns with intersex should be given a <a href="/faq/gender_assignment">gender assignment</a> as boy or girl, depending on which of those genders the child is more likely to feel as she or he grows up. Note that gender assignment does \__not__ involve surgery; it involves assigning a label as boy or girl to a child. (Genital &#8220;normalizing&#8221; surgery does not create or cement a gender identity; it just takes tissue away that they patient may want later.)</li>
 </ul>
 
 <ul>
@@ -30,4 +30,4 @@ title: "What does ISNA recommend for children with intersex?"
 	<li>Surgeries done to make the genitals look &#8220;more normal&#8221; should not be performed until a child is mature enough to make an informed decision for herself or himself. Before the patient makes a decision, she or he should be introduced to patients who have and have not had the surgery. Once she or he is fully informed, she or he should be provided access to a patient-centered surgeon.</li>
 </ul>
 
-<p>Does this mean <span class="caps">ISNA</span> recommends &#8220;doing nothing&#8221;? Not at all. Please re-read the above, and if you&#8217;d like more information about how our recommendations differ from the traditional <a href="/faq/concealment">concealment-centered</a> model, check out our chart called <a href="/compare">Shifting the Paradigm of Intersex Treatment</a>.</p>
+Does this mean <span class="caps">ISNA</span> recommends &#8220;doing nothing&#8221;? Not at all. Please re-read the above, and if you&#8217;d like more information about how our recommendations differ from the traditional <a href="/faq/concealment">concealment-centered</a> model, check out our chart called <a href="/compare">Shifting the Paradigm of Intersex Treatment</a>.

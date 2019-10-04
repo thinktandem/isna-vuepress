@@ -96,7 +96,7 @@ from <http://www.pediatrics.org/cgi/content/full/110/3/e31>.
 
 Williams, Nina. 2002. The Imposition of Gender: Psychoanalytic  
 Encounters with Genital Atypicality. Psychoanalytic Psychology  
-19 (3):455-74. Available from [http://www.bodieslikeours.org/research/williams\_2002\_apa.html][5].
+19 (3):455-74. Available from [http://www.bodieslikeours.org/research/williams_2002_apa.html][5].
 
   
 
@@ -158,7 +158,7 @@ the Body][8]." Intersexuality is a major topic of the discussion.
 
 
 Marion, Robert. 2000. The Curse of the Garcias. _Discover_,  
-December, 42-. Available from [http://www.findarticles.com/cf\_0/m1511/12\_21/67185294/p1/article.jhtml.][9]  
+December, 42-. Available from [http://www.findarticles.com/cf_0/m1511/12_21/67185294/p1/article.jhtml.][9]  
 
 
   
@@ -244,7 +244,7 @@ page][10] for more info. </p>
 
 
 Lewis, Ricki. 2000. Reevaluating Sex Reassignment. _The Scientist_  
-14 (14):6. Available from http://www.the-scientist.com/yr2000/jul/lewis\_p6\_000710.html.  
+14 (14):6. Available from http://www.the-scientist.com/yr2000/jul/lewis_p6_000710.html.  
 
 
   
@@ -273,7 +273,7 @@ original publication of The Five Sexes in The Sciences in 1993.
 
 
 Nussbaum, Emily. 2000. A question of gender. _Discover_,  
-January, 92-99. Available from [http://www.findarticles.com/cf\_0/m1511/1\_21/58398807/p1/article.jhtml][11].  
+January, 92-99. Available from [http://www.findarticles.com/cf_0/m1511/1_21/58398807/p1/article.jhtml][11].  
 
 
   

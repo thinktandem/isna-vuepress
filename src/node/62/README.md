@@ -209,7 +209,7 @@ Care][9], is available for sale. </p>
 <p class=m2><img src="/img/arrow-mini.gif" width=16 height=7 alt="* ">  
 Williams, Nina. 2002. The Imposition of Gender: Psychoanalytic  
 Encounters with Genital Atypicality. Psychoanalytic Psychology  
-19 (3):455-74. Available from [http://www.bodieslikeours.org/research/williams\_2002\_apa.html][10].</p>  
+19 (3):455-74. Available from [http://www.bodieslikeours.org/research/williams_2002_apa.html][10].</p>  
 
 
 ### July 27, 2002
@@ -234,7 +234,7 @@ Pediatric Endocrine Nursing Society Newsletter 14 (2). Available
 from <http://pens.org/articles/kelton-intersex.htm>.</p>  
 <p class=m2>A. I. Pifer. 2002. A Different Sex (20/20 with Barbara  
 Walters). ABC television broadcast. Broadcast April 19. Available  
-from [http://abcnews.go.com/sections/2020/DailyNews/2020\_intersex\_020419.html][11].</p>  
+from [http://abcnews.go.com/sections/2020/DailyNews/2020_intersex_020419.html][11].</p>  
 
 
 ### April 19, 2002
@@ -527,7 +527,7 @@ Franca, May/June, 42-51. Available from <http://www.linguafranca.com/9905/inters
   
 <img src="/img/arrow-mini.gif" width=16 height=7 alt="* "> Nussbaum,  
 Emily. 2000. A question of gender. Discover, January, 92-99. Available  
-from [http://www.findarticles.com/cf\_0/m1511/1\_21/58398807/p1/article.jhtml][44].  
+from [http://www.findarticles.com/cf_0/m1511/1_21/58398807/p1/article.jhtml][44].  
   
   
   

@@ -1411,10 +1411,10 @@ style='font-size:14.0pt'>**MEDICAL CONSENT** </span></p>
 
 
 <span  
-style='font-size:12.0pt'>Comes now Mr. \___\___\___\_____ and Mrs. \___\___\___\___\___\___\___  
-both individually and as the parents and natural guardians of \___\___\___\___\_____  
-and hereby execute this Consent Agreement on this \___\___\____ day of \___\___\___\_____.  
-20__ at \_____a.m./p.m.&nbsp; This Consent is entered into pursuant to the  
+style='font-size:12.0pt'>Comes now Mr. ______________ and Mrs. _____________________  
+both individually and as the parents and natural guardians of _________________  
+and hereby execute this Consent Agreement on this __________ day of ______________.  
+20__ at _____a.m./p.m.&nbsp; This Consent is entered into pursuant to the  
 Florida Medical Consent Law which requires our health care practitioners  
 to advise us of the general nature of the treatment or procedures and the  
 medically acceptable alternative procedures and treatments and the substantial  
@@ -1460,14 +1460,14 @@ we hereby enter into this Agreement as follows:</span>
 
 <span  
 style='font-size:12.0pt'>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>We  
-hereby consent and authorize Dr. \___\___\___\___\___\___\_____ and such assistants  
+hereby consent and authorize Dr. _______________________ and such assistants  
 as may be selected by him, to perform upon our minor child the following  
 procedure:&nbsp; 
 
   
 
 
-\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___\___&nbsp; 
+____________________________________________________________________________________________________________________________________________________________&nbsp; 
 
   
 
@@ -1522,7 +1522,7 @@ volume monitoring devices.&nbsp;
 
 <span  
 style='font-size:12.0pt'>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>We  
-hereby consent to the disposal by \___\____(HOSPITAL)\___\___\___\___\___\___  
+hereby consent to the disposal by _______(HOSPITAL)__________________  
 of any tissue or part which may be removed from our child.
 
   
@@ -1533,7 +1533,7 @@ style='font-size:12.0pt'>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 hereby consent to the taking of photographs or video taping in the course  
 of this procedure for the purposes of advancing medical education as may  
 be authorized by physician and to the admittance of the qualified observers  
-to the operating room as determined by \___\___\___\___(HOSPITAL)\___\___\___\___.
+to the operating room as determined by ____________(HOSPITAL)____________.
 
   
 
@@ -1572,7 +1572,7 @@ any and all blanks located within this document have been filled in.
   
 
 
-\___\___\___\___\___\___\___\___\___\___\___\___\_\\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \_\_\___\___\___\___\___\___\___\___\___\___
+_____________________________________\__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ________________________________
 
   
 <p class=MsoBodyText align=left style='text-align:left'>Signature  
@@ -1580,7 +1580,7 @@ of Parent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 to Signature&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date/Time</p>  
 
 
-\___\___\___\___\___\___\___\___\___\___\___\___\_\\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \_\_\___\___\___\___\___\___\___\___\___\___
+_____________________________________\__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ________________________________
 
   
 <p class=MsoBodyText align=left style='text-align:left'>Signature  
@@ -1588,7 +1588,7 @@ of Parent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 to Signature&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date/Time</p>  
 
 
-\___\___\___\___\___\___\___\___\___\___\___\___\_\\_\_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \_\_\___\___\___\___\___\___\___\___\___\___
+_____________________________________\__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ________________________________
 
   
 <p class=MsoBodyText align=left style='text-align:left'>Signature  
@@ -1598,7 +1598,7 @@ to Signature&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date/Ti
 natural parent</p>  
 
 
-\___\___\___\___\___\___\___\___\___\___\___\___\___&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+_______________________________________&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
   
 <p class=MsoBodyText align=left style='text-align:left'>Relationship  

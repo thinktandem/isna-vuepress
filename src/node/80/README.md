@@ -286,7 +286,7 @@ surgical results to "Since I was treated like crap at the PRU I think
 it is appropriate that my genitals \*look\* like crap. I'm \*proud\* of my crappy  
 looking genitals!" In fact during those episodes of Naivety Psychosis  
 when I sought help from Hopkins they tried to convince me that they could  
-\_improve\_ upon Jones' 1974 efforts... in essence I think trying to buy my  
+_improve_ upon Jones' 1974 efforts... in essence I think trying to buy my  
 availability again. Thankfully, my fear protected me. <sigh>
 
   

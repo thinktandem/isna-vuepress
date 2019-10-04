@@ -10,7 +10,7 @@ title: "Suggested Guidelines for Non-Intersex Individuals Writing about Intersex
 
 
   
-Inspired by Jacob Hale's [Suggested Rules for Non-Transsexuals Writing about Transsexuals, Transsexuality, Transsexualism, or Trans\____][1]. Editing suggestions by Cheryl Chase. You can also [download PDF version][2] of this document.
+Inspired by Jacob Hale's [Suggested Rules for Non-Transsexuals Writing about Transsexuals, Transsexuality, Transsexualism, or Trans____][1]. Editing suggestions by Cheryl Chase. You can also [download PDF version][2] of this document.
 
   
 <table border=0 align=center cellpadding=4 cellspacing=12 width=420>  

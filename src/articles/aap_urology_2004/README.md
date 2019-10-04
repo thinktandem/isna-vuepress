@@ -33,7 +33,7 @@ title: "Urologists: Agonize over whether to cut, then cut the way I’m telling 
 
 <h3>Whoa! This Stuff is Complicated and Important!  </h3>
 
-<p>Justine Schober, pediatric urologist from Hamot Medical Center in Erie, Pennsylvania and member of <a href="/about/medicalboard"><span class="caps">ISNA</span>&#8217;s Medical Advisory Board</a>, presented a radical approach to intersex, suggesting that pediatric surgeons should take into account what is known about adult sexuality when they operate on children&#8217;s genitals. (Great idea, Dr. Schober!) Dr. Schober used the work of Alfred Kiinsey&#8212;as well as her own new studies of adult female sexuality and cross-species studies of sexual neuroanatomy, neurophysiology and genetics&#8212;to point out the critical importance of the clitoris and labia minora to sexual sensation &#8230; and therefore to \_relationship-building\_, \_sense of well being\_, and over all \_quality of life\_! Dr. Schober cited evidence that tactile sensitivity is diminished following genital surgeries, even when key nerves appear to be preserved.  </p>
+Justine Schober, pediatric urologist from Hamot Medical Center in Erie, Pennsylvania and member of <a href="/about/medicalboard"><span class="caps">ISNA</span>&#8217;s Medical Advisory Board</a>, presented a radical approach to intersex, suggesting that pediatric surgeons should take into account what is known about adult sexuality when they operate on children&#8217;s genitals. (Great idea, Dr. Schober!) Dr. Schober used the work of Alfred Kiinsey&#8212;as well as her own new studies of adult female sexuality and cross-species studies of sexual neuroanatomy, neurophysiology and genetics&#8212;to point out the critical importance of the clitoris and labia minora to sexual sensation &#8230; and therefore to _relationship-building_, _sense of well being_, and over all _quality of life_! Dr. Schober cited evidence that tactile sensitivity is diminished following genital surgeries, even when key nerves appear to be preserved.
 
 <h3>Genital Surgeries: Poor Outcomes, so Do Them Early!?  </h3>
 
@@ -43,7 +43,7 @@ title: "Urologists: Agonize over whether to cut, then cut the way I’m telling 
 <h3>It&#8217;s the Behavior, Silly  </h3>
 
 
-<p>William Reiner, pediatric psychiatrist and urologist of Oklahoma Health Sciences Center and <a href="/medicalboard"><span class="caps">ISNA</span> Medical Advisory Board</a> member presented the \_\_only behavioral outcomes data\_\_, contrasting psychosexual development in boys living as males with cloacal exstrophy to those with the classical form.  </p>
+William Reiner, pediatric psychiatrist and urologist of Oklahoma Health Sciences Center and <a href="/medicalboard"><span class="caps">ISNA</span> Medical Advisory Board</a> member presented the _only behavioral outcomes data_, contrasting psychosexual development in boys living as males with cloacal exstrophy to those with the classical form.
 
 
 <h3>Conclusion  </h3>

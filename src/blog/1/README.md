@@ -41,7 +41,7 @@ Classification: [News][11] | [What We're Reading][12]
 The American College of Obstetricians and Gynecologists (ACOG) is the main professional association for the specialty of obststrics and gynecology. They recently published a paper in the journal _Obstetrics and Gynecology_ condemning the practice of cosmetic gynecologic surgery. This article gives a  
 good discussion of ACOG’s opinion:
 
-[http://www.chicagotribune.com/news/local/chi-cosmetic\_31aug31,0,7734462.story?coll=chi-unitednavover-misc][13]
+[http://www.chicagotribune.com/news/local/chi-cosmetic_31aug31,0,7734462.story?coll=chi-unitednavover-misc][13]
 
 [Welcome, Oprah Viewers!][14]
 -----------------------------
@@ -172,7 +172,7 @@ Classification: [Recent Publications][55]
 
 Hester, J. David. 2004. Intersex(es) and alternative strategies of healing. Ethik in der Medizin 16:48-67.  
 ———. 2004. Intersex(es) and informed consent: how physicians' rhetoric constrains choice. Theoretical Medicine 25:21-49.  
-———. 2003. Rhetoric of the medical management of intersexed children. Genders 38. Available from [http://www.genders.org/g38/g38\_hester.html][56].
+———. 2003. Rhetoric of the medical management of intersexed children. Genders 38. Available from [http://www.genders.org/g38/g38_hester.html][56].
 
 [Tips for Parents][57]
 ----------------------

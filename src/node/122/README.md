@@ -27,7 +27,7 @@ December 28, 2001
   
 MRKH.org is coordinating an educational outreach in collaboration with  
 Intersex Society of North America (ISNA) at the upcoming Boston  
-production of \_The Vagina Monologues\_ (performed by Eve Ensler herself).  
+production of _The Vagina Monologues_ (performed by Eve Ensler herself).  
 We are looking for volunteers to help distribute educational materials  
 on January 8th at 7pm and 9th at 6:15pm outside of Wilbur Theatre (246  
 Tremont St.). Please contact Esther at info@mrkh.org as soon as possible  

@@ -222,7 +222,7 @@ Classification: [Recent Publications][62]
 
 Hester, J. David. 2004. Intersex(es) and alternative strategies of healing. Ethik in der Medizin 16:48-67.  
 ———. 2004. Intersex(es) and informed consent: how physicians' rhetoric constrains choice. Theoretical Medicine 25:21-49.  
-———. 2003. Rhetoric of the medical management of intersexed children. Genders 38. Available from [https://www.genders.org/g38/g38\_hester.html][63].
+———. 2003. Rhetoric of the medical management of intersexed children. Genders 38. Available from [https://www.genders.org/g38/g38_hester.html][63].
 
 [Reiner & Gearhart's NEJM Study on Cloacal Exstrophy - Review by Vernon Rosario, M.D., Ph.D.][64]
 -------------------------------------------------------------------------------------------------

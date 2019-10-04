@@ -242,7 +242,7 @@ of children born with ambiguous genitals?
   
 
 
-http://www.physiciansweekly.com/archive/99/08\_16\_99/pc.html
+http://www.physiciansweekly.com/archive/99/08_16_99/pc.html
 
   
   

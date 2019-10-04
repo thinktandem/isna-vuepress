@@ -7,9 +7,9 @@ title: "Bibliographies"
 *   [Access References Section of DSD Guidelines][1]\- The "References Section":https://www.dsdguidelines.org/htdocs/clinical/references.html of "Clinical Guidelines for the Management of Disorders of Sex Development in Childhood":https://www.dsdguidelines.org is an excellent bibliographic resource, with many clickable links. Depending upon what you are looking for, this may be more manageable than the larger bibliography hosted here at "ISNA":https://www.isna.org/bibliographies.
 *   [Bibliography of articles accessible online][2]\-
     
-    60 minutes (australia) breaking the silence: Sexual reassignment (antoinette briffa), 2000. Directed by Anon. . Sydney. June 25. Available from: [https://sixtyminutes.ninemsn.com.au/01\_stories/2000\_06\_25/story\_185.asp][3].
+    60 minutes (australia) breaking the silence: Sexual reassignment (antoinette briffa), 2000. Directed by Anon. . Sydney. June 25. Available from: [https://sixtyminutes.ninemsn.com.au/01_stories/2000_06_25/story_185.asp][3].
     
-    Anon. . 2000, Fall. Letters (intersex). Whole Earth, 100-101. Available from: [https://www.findarticles.com/cf\_0/m0GER/2000\_Fall/66240481/print.jhtml][4].
+    Anon. . 2000, Fall. Letters (intersex). Whole Earth, 100-101. Available from: [https://www.findarticles.com/cf_0/m0GER/2000_Fall/66240481/print.jhtml][4].
     
     Anon. . 2000, August. Frau und mann - alte mythen nuen rollen. Geo Wissen (special issue on intersex), 26. Available from: [https://www.geo.de/magazin/wissen/2000/02.html][5].
     

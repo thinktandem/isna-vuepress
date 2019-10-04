@@ -4,7 +4,7 @@ title: "Contact ISNA"
 
 # Contact ISNA
 
-<p>Please note that <span class="caps">ISNA</span> is closed. If you need to talk to us \_about legal or accounting issues,\_ please use the fax or email addresses below.  </p>
+Please note that ISNA is closed. If you need to talk to us _about legal or accounting issues,_ please use the fax or email addresses below.
 
 <h3>Postal Mail  </h3>
 

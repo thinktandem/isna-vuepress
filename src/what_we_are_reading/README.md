@@ -15,7 +15,7 @@ Classification: [News][3] | [What We're Reading][4]
 The American College of Obstetricians and Gynecologists (ACOG) is the main professional association for the specialty of obststrics and gynecology. They recently published a paper in the journal _Obstetrics and Gynecology_ condemning the practice of cosmetic gynecologic surgery. This article gives a  
 good discussion of ACOG’s opinion:
 
-[https://www.chicagotribune.com/news/local/chi-cosmetic\_31aug31,0,7734462.story?coll=chi-unitednavover-misc][5]
+[https://www.chicagotribune.com/news/local/chi-cosmetic_31aug31,0,7734462.story?coll=chi-unitednavover-misc][5]
 
 [Effects of Clitoral Surgery (Minto et al)][6]
 ----------------------------------------------

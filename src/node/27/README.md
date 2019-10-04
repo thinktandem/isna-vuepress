@@ -2207,7 +2207,7 @@ por su propia iniciativa y con consentimiento claramente informado.
   
 
 
-Cheryl Chase Fecha: \___\___\___\___\___\___\___\___
+Cheryl Chase Fecha: ________________________
 
   
   
@@ -2314,7 +2314,7 @@ f&iacute;sica.
   
 
 
-Alice Domurat Dreger, Ph. D. Fecha: \___\___\___\___\___\___\_____
+Alice Domurat Dreger, Ph. D. Fecha: _______________________
 
   
   
@@ -2403,4 +2403,4 @@ muchas t&eacute;cnicas quir&uacute;rgicas utilizar.
   
 
 
-Justine Schober, M. D. Fecha: \___\___\___\___\___\___\___\____
+Justine Schober, M. D. Fecha: _________________________

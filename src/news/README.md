@@ -135,7 +135,7 @@ Classification: [News][33] | [What We're Reading][34]
 The American College of Obstetricians and Gynecologists (ACOG) is the main professional association for the specialty of obststrics and gynecology. They recently published a paper in the journal _Obstetrics and Gynecology_ condemning the practice of cosmetic gynecologic surgery. This article gives a  
 good discussion of ACOG’s opinion:
 
-[http://www.chicagotribune.com/news/local/chi-cosmetic\_31aug31,0,7734462.story?coll=chi-unitednavover-misc][35]
+[http://www.chicagotribune.com/news/local/chi-cosmetic_31aug31,0,7734462.story?coll=chi-unitednavover-misc][35]
 
 [Article in JRSM endorses ISNA's call for delaying surgeries][36]
 -----------------------------------------------------------------

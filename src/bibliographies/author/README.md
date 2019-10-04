@@ -89,7 +89,7 @@ Sally jesse raphael show: Intersex, 1999. Directed by Anon. . May 25.
   
 
 
-60 minutes (australia) breaking the silence: Sexual reassignment (antoinette briffa), 2000. Directed by Anon. . Sydney. June 25. Available from: [http://sixtyminutes.ninemsn.com.au/01\_stories/2000\_06\_25/story\_185.asp][1].
+60 minutes (australia) breaking the silence: Sexual reassignment (antoinette briffa), 2000. Directed by Anon. . Sydney. June 25. Available from: [http://sixtyminutes.ninemsn.com.au/01_stories/2000_06_25/story_185.asp][1].
 
   
 
@@ -99,7 +99,7 @@ Redefining sex, 2000. Directed by Anon. . Toronto: City TV, Channel 57, Cable 7.
   
 
 
-Anon. . 2000, Fall. Letters (intersex). Whole Earth, 100-101. Available from: [http://www.findarticles.com/cf\_0/m0GER/2000\_Fall/66240481/print.jhtml][2].
+Anon. . 2000, Fall. Letters (intersex). Whole Earth, 100-101. Available from: [http://www.findarticles.com/cf_0/m0GER/2000_Fall/66240481/print.jhtml][2].
 
   
 
@@ -179,7 +179,7 @@ Abramson, P. R., 1991. I think she doth protest too much: A reply to tiefer. The
   
 
 
-Adamson, C., 2000. Brazilian girls share a sydney secret. This Is London, September 27. Available from: [http://www.thisislondon.co.uk/dynamic/sport/olympics/story.html?in\_review\_id=320325&in\_review\_text_id=263516][3].
+Adamson, C., 2000. Brazilian girls share a sydney secret. This Is London, September 27. Available from: [http://www.thisislondon.co.uk/dynamic/sport/olympics/story.html?in_review_id=320325&in_review_text_id=263516][3].
 
   
 
@@ -489,7 +489,7 @@ Batz, J., 1996. The fifth sex. Riverfront Times, November 27.
   
 
 
-Batz, J., 1999. You don't have to make babies to have a holy kind of sex. (homosexuality and catholicism). National Catholic Reporter, February 26. Available from: [http://www.findarticles.com/cf\_0/m1141/17\_35/54033020/p1/article.jhtml][4].
+Batz, J., 1999. You don't have to make babies to have a holy kind of sex. (homosexuality and catholicism). National Catholic Reporter, February 26. Available from: [http://www.findarticles.com/cf_0/m1141/17_35/54033020/p1/article.jhtml][4].
 
   
 
@@ -514,7 +514,7 @@ The fight to be male, 1979. Directed by Bbc. 1979.
   
 
 
-Beh, H. G., and Diamond, M., 2000. An emerging ethical and medical dilemma: Should physicians perform sex assignment surgery on infants with ambiguous genitalia? Michigan Journal of Gender & Law, 7, 1-65. Available from: [http://www.hawaii.edu/PCSS/online\_artcls/intersex/intersex00\_00.html][5].
+Beh, H. G., and Diamond, M., 2000. An emerging ethical and medical dilemma: Should physicians perform sex assignment surgery on infants with ambiguous genitalia? Michigan Journal of Gender & Law, 7, 1-65. Available from: [http://www.hawaii.edu/PCSS/online_artcls/intersex/intersex00_00.html][5].
 
   
 
@@ -1244,7 +1244,7 @@ Creighton, S. M., Alderson, J., Brown, S., and Minto, C. L., 2002. Medical photo
   
 
 
-Creighton, Sarah m., and Liao, L.-M., 2004. Changing attitudes to sex assignment in intersex. BJU International, 93 (5), 659-664. Available from: [http://www.bjui.org/93/5/bju\_v93\_i5_toc.asp][6].
+Creighton, Sarah m., and Liao, L.-M., 2004. Changing attitudes to sex assignment in intersex. BJU International, 93 (5), 659-664. Available from: [http://www.bjui.org/93/5/bju_v93_i5_toc.asp][6].
 
   
 
@@ -1434,7 +1434,7 @@ Diamond, M., and Yates, A. (Eds.). 2005. Sex and gender (Vol. 13). Philadelphia:
   
 
 
-Dickerman, J. D., 2000. Seven alternatives to evidence-based medicine. Pediatrics. Available from: [http://www.findarticles.com/p/articles/mi\_m0950/is\_1\_106/ai\_63602542][7].
+Dickerman, J. D., 2000. Seven alternatives to evidence-based medicine. Pediatrics. Available from: [http://www.findarticles.com/p/articles/mi_m0950/is_1_106/ai_63602542][7].
 
   
 
@@ -1524,7 +1524,7 @@ Dreger, A., 1999. Intersex in the age of ethics. Frederick Maryland: University 
   
 
 
-Dreger, A., 2000. Jarring bodies: Thoughts on the display of unusual anatomies. Perspectives in Biology and Medicine (Winter), 161-172. Available from: [http://www.press.jhu.edu/journals/perspectives\_in\_biology\_and\_medicine/v043/43.2dreger.html][8].
+Dreger, A., 2000. Jarring bodies: Thoughts on the display of unusual anatomies. Perspectives in Biology and Medicine (Winter), 161-172. Available from: [http://www.press.jhu.edu/journals/perspectives_in_biology_and_medicine/v043/43.2dreger.html][8].
 
   
 
@@ -2304,7 +2304,7 @@ Gustafson, M. L., Lee, M. M., Asmundson, L., Maclaughlin, D. T., and Donahoe, P.
   
 
 
-Guttman, C., 2000, September. Task force to draft guidelines on intersex disorders. Urology Times, 26. Available from: [http://www.findarticles.com/cf\_0/m0VPB/9\_28/65197652/p1/article.jhtml][9].
+Guttman, C., 2000, September. Task force to draft guidelines on intersex disorders. Urology Times, 26. Available from: [http://www.findarticles.com/cf_0/m0VPB/9_28/65197652/p1/article.jhtml][9].
 
   
 
@@ -2820,7 +2820,7 @@ Kelton, S., 2002. Stuck on the horns of a dilemma: The challenge of the shifting
   
 
 
-Kemp, B. D., Groveman, S. A., Anonymous, Tako, H. D., and Irwin, K. M., 1996. Sex, lies and androgen insensitivity syndrome. Canadian Medical Association Journal, 154 (12), 1829-1833. Available from: [http://collection.nlc-bnc.ca/100/201/300/cdn\_medical\_association/cmaj/vol-154/1829e.htm][10].
+Kemp, B. D., Groveman, S. A., Anonymous, Tako, H. D., and Irwin, K. M., 1996. Sex, lies and androgen insensitivity syndrome. Canadian Medical Association Journal, 154 (12), 1829-1833. Available from: [http://collection.nlc-bnc.ca/100/201/300/cdn_medical_association/cmaj/vol-154/1829e.htm][10].
 
   
 
@@ -3100,7 +3100,7 @@ Lee, M. M., Donahoe, P. K., Hasegawa, T., Silverman, B., Crist, G. B., Best, S.,
   
 
 
-Lee, P., and Gruppuso, P. A., 1999, August 16. Should cosmetic surgery be performed on the genitals of children born with ambiguous genitals? (point/counterpoint). Physician's Weekly, 16. Available from: [http://www.physiciansweekly.com/archive/99/08\_16\_99/pc.html][11].
+Lee, P., and Gruppuso, P. A., 1999, August 16. Should cosmetic surgery be performed on the genitals of children born with ambiguous genitals? (point/counterpoint). Physician's Weekly, 16. Available from: [http://www.physiciansweekly.com/archive/99/08_16_99/pc.html][11].
 
   
 
@@ -3320,7 +3320,7 @@ Manuel, M., Katayama, K. P., and Jones, H. W., 1976. The age of occurrence of go
   
 
 
-Marion, R., 2000, December. The curse of the garcias. Discover, 21, 42-. Available from: [http://www.findarticles.com/cf\_0/m1511/12\_21/67185294/p1/article.jhtml][12].
+Marion, R., 2000, December. The curse of the garcias. Discover, 21, 42-. Available from: [http://www.findarticles.com/cf_0/m1511/12_21/67185294/p1/article.jhtml][12].
 
   
 
@@ -3330,7 +3330,7 @@ Marneffe, D. D., 1997. Bodies and words: A study of young children's genital and
   
 
 
-Marschall, L. A., 1998, September/October. Prisoners of sex (review of hermaphrodites and the medical invention of sex). The Sciences, 38, 44-45. Available from: [http://www.findarticles.com/cf\_0/m2379/n5\_v38/21136499/p1/article.jhtml][13].
+Marschall, L. A., 1998, September/October. Prisoners of sex (review of hermaphrodites and the medical invention of sex). The Sciences, 38, 44-45. Available from: [http://www.findarticles.com/cf_0/m2379/n5_v38/21136499/p1/article.jhtml][13].
 
   
 
@@ -3945,7 +3945,7 @@ Murphy, T. F., 1995. Gender identity and gender-identity disorders. In: Encyclop
   
 
 
-Intersex conditions, Woman's Hour, 2001. radio broadcast, Directed by Murray, J. London: BBC. December 11. Available from: [http://www.bbc.co.uk/radio4/womanshour/10\_12\_01/tuesday/info1.shtml][14].
+Intersex conditions, Woman's Hour, 2001. radio broadcast, Directed by Murray, J. London: BBC. December 11. Available from: [http://www.bbc.co.uk/radio4/womanshour/10_12_01/tuesday/info1.shtml][14].
 
   
 
@@ -4010,7 +4010,7 @@ Nataf, Z. I., 1998, April. Whatever i feel . . . New Internationalist, 22-25. Av
   
 
 
-Natarajan, A., 1996. Medical ethics and truth-telling in the case of androgen insensitivity syndrome. Canadian Medical Association Journal, 154 (4), 568-570. Available from: [http://collection.nlc-bnc.ca/100/201/300/cdn\_medical\_association/cmaj/vol-154/0568e.htm][15].
+Natarajan, A., 1996. Medical ethics and truth-telling in the case of androgen insensitivity syndrome. Canadian Medical Association Journal, 154 (4), 568-570. Available from: [http://collection.nlc-bnc.ca/100/201/300/cdn_medical_association/cmaj/vol-154/0568e.htm][15].
 
   
 
@@ -4090,7 +4090,7 @@ Newman, L. E., and Stoller, R. J., 1968. Gender identity disturbances in interse
   
 
 
-News24. 2004. Intersex legislation considered. News24.com, November 30. Available from: [http://www.news24.com/News24/South\_Africa/News/0,,2-7-1442\_1629028,00.html][16].
+News24. 2004. Intersex legislation considered. News24.com, November 30. Available from: [http://www.news24.com/News24/South_Africa/News/0,,2-7-1442_1629028,00.html][16].
 
   
 
@@ -4160,7 +4160,7 @@ Nussbaum, E., 1999, May/June. The sex that dare not speak its name. Lingua Franc
   
 
 
-Nussbaum, E., 2000, January. A question of gender. Discover, 21, 92-99. Available from: [http://www.findarticles.com/cf\_0/m1511/1\_21/58398807/p1/article.jhtml][17].
+Nussbaum, E., 2000, January. A question of gender. Discover, 21, 92-99. Available from: [http://www.findarticles.com/cf_0/m1511/1_21/58398807/p1/article.jhtml][17].
 
   
 
@@ -4360,7 +4360,7 @@ Phornphutkul, C., Fausto-Sterling, A., and Gruppuso, P. A., 2000. Gender self-re
   
 
 
-A different sex (20/20 with barbara walters), 20/20 with Barbara Walters, 2002. ABC television broadcast, Directed by Pifer, A. April 19. Available from: [http://abcnews.go.com/sections/2020/DailyNews/2020\_intersex\_020419.html][18].
+A different sex (20/20 with barbara walters), 20/20 with Barbara Walters, 2002. ABC television broadcast, Directed by Pifer, A. April 19. Available from: [http://abcnews.go.com/sections/2020/DailyNews/2020_intersex_020419.html][18].
 
   
 
@@ -4585,7 +4585,7 @@ Reiner, W. G., and Gearhart, J. P., 2004. Sex determination, differentiation, id
   
 
 
-Reiner, W. G., Gearhart, J. P., and Jeffs, R., 1999. Psychosexual dysfunction in males with genital anomalies: Late adolescence, tanner stages iv to vi [see comments]. J Am Acad Child Adolesc Psychiatry, 38 (7), 865-872. Available from: [http://www.findarticles.com/cf\_0/m2250/7\_38/55237478/p1/article.jhtml][19].
+Reiner, W. G., Gearhart, J. P., and Jeffs, R., 1999. Psychosexual dysfunction in males with genital anomalies: Late adolescence, tanner stages iv to vi [see comments]. J Am Acad Child Adolesc Psychiatry, 38 (7), 865-872. Available from: [http://www.findarticles.com/cf_0/m2250/7_38/55237478/p1/article.jhtml][19].
 
   
 
@@ -4750,7 +4750,7 @@ Rutgers, J. L., 1991. Advances in the pathology of intersex conditions. Human Pa
   
 
 
-Rye, B., 2000. Teaching about intersexuality: A review of hermaphrodites speak! And a critique of introductory human sexuality books. Journal of Sex Research, 37 (3), 295-298. Available from: [http://www.findarticles.com/cf\_0/m2372/3\_37/68273932/p1/article.jhtml?term=hermaphroditism][20].
+Rye, B., 2000. Teaching about intersexuality: A review of hermaphrodites speak! And a critique of introductory human sexuality books. Journal of Sex Research, 37 (3), 295-298. Available from: [http://www.findarticles.com/cf_0/m2372/3_37/68273932/p1/article.jhtml?term=hermaphroditism][20].
 
   
 
@@ -4815,7 +4815,7 @@ Savage, M. O., Blum, W. F., Ranke, M. B., Postel-Vinay, M. C., Cotterill, A. M.,
   
 
 
-Sax, L., 2002. How common is intersex? A response to anne fausto-sterling. Journal of Sex Research, 39 (3), 174. Available from: [http://www.findarticles.com/p/articles/mi\_m2372/is\_3\_39/ai\_94130313][21].
+Sax, L., 2002. How common is intersex? A response to anne fausto-sterling. Journal of Sex Research, 39 (3), 174. Available from: [http://www.findarticles.com/p/articles/mi_m2372/is_3_39/ai_94130313][21].
 
   
 
@@ -4830,7 +4830,7 @@ Schafer, A. J., 1995. Sex determination and its pathology in man. Adv Genet, 33,
   
 
 
-Schaffhausen, J., 2004. Gender bender: Our sexual identity has little to do with sex organs, researchers find. ABCNews.com. Available from: [http://abcnews.go.com/sections/Living/Living/intersex\_babies\_040122.html][22].
+Schaffhausen, J., 2004. Gender bender: Our sexual identity has little to do with sex organs, researchers find. ABCNews.com. Available from: [http://abcnews.go.com/sections/Living/Living/intersex_babies_040122.html][22].
 
   
 
@@ -5225,7 +5225,7 @@ Takeuchi, H., Hatta, M., Fukuda, M., Mitsuhashi, N., and Kuwabara, Y., 1995. A c
   
 
 
-Talcott, J., Rieker1, P., Propert, K., Clark, J., Wishnow, K., Loughlin, K., Richie, J., and Kantoff1, P., 1997. Patient-reported impotence and incontinence after nerve-sparing radical prostatectomy. Journal of the National Cancer Institute, 89 (15), 1117-1123. Available from: [http://www.oup.co.uk/jnci/hdb/Volume\_89/Issue\_15/891117.sgm.abs.html][23].
+Talcott, J., Rieker1, P., Propert, K., Clark, J., Wishnow, K., Loughlin, K., Richie, J., and Kantoff1, P., 1997. Patient-reported impotence and incontinence after nerve-sparing radical prostatectomy. Journal of the National Cancer Institute, 89 (15), 1117-1123. Available from: [http://www.oup.co.uk/jnci/hdb/Volume_89/Issue_15/891117.sgm.abs.html][23].
 
   
 
@@ -5400,7 +5400,7 @@ Verkauf, B. S., Von Thron, J., and O'brien, W., 1992. Clitoral size in normal wo
   
 
 
-Vertosick, F. T., 1998. First, do no harm (risky brain surgery in the 1970s). Discover, 19 (7), 106-111. Available from: [http://www.findarticles.com/cf\_0/m1511/n7\_v19/20870343/p1/article.jhtml?term=vertosick+harm][24].
+Vertosick, F. T., 1998. First, do no harm (risky brain surgery in the 1970s). Discover, 19 (7), 106-111. Available from: [http://www.findarticles.com/cf_0/m1511/n7_v19/20870343/p1/article.jhtml?term=vertosick+harm][24].
 
   
 
@@ -5570,7 +5570,7 @@ Williams, D. I., 1958. Urology in childhood. Berlin: Springer-Verlag.
   
 
 
-Williams, N., 2002. The imposition of gender: Psychoanalytic encounters with genital atypicality. Psychoanalytic Psychology, 19 (3), 455-474. Available from: [http://www.bodieslikeours.org/research/williams\_2002\_apa.html][25].
+Williams, N., 2002. The imposition of gender: Psychoanalytic encounters with genital atypicality. Psychoanalytic Psychology, 19 (3), 455-474. Available from: [http://www.bodieslikeours.org/research/williams_2002_apa.html][25].
 
   
 

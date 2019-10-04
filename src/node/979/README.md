@@ -4,9 +4,9 @@ title: "Getting Rid of Hermaphroditism Once and For All"
 
 # Getting Rid of Hermaphroditism Once and For All
 
-<p>A new article just published in the \_\_Journal of Pediatric Endocrinology and Metabolism\_\_ makes a compelling case for getting rid of all medical terms based on the root “hermaphrodite.” The authors (including two <a href="/about/staff/"><span class="caps">ISNA</span> staff members</a> and three <a href="/about/medicalboard/"><span class="caps">ISNA</span> Medical Advisory Board members</a>) explain the problems with terms like “pseudo-hermaphroditism” and “true hermaphroditism.”  </p>
+A new article just published in the __Journal of Pediatric Endocrinology and Metabolism__ makes a compelling case for getting rid of all medical terms based on the root “hermaphrodite.” The authors (including two <a href="/about/staff/"><span class="caps">ISNA</span> staff members</a> and three <a href="/about/medicalboard/"><span class="caps">ISNA</span> Medical Advisory Board members</a>) explain the problems with terms like “pseudo-hermaphroditism” and “true hermaphroditism.”  
 
-<p>Why get rid of these terms? Because:  </p>
+Why get rid of these terms? Because:  
 
 <ul>
 	<li>These terms are stigmatizing to patients and their families. We should all be working to reduce stigma, not add to it through medical care.</li>
@@ -16,7 +16,7 @@ title: "Getting Rid of Hermaphroditism Once and For All"
 	<li>The system of labeling intersex people according to the mere presence or absence of certain gonadal tissues (as the “pseudo/true hermaphroditism” system does) predates the modern sciences of genetics and endocrinology. It causes confusion among doctors and patients because it fails to reflect all that we now know matters.</li>
 </ul>
 
-<p>The authors of the \_\_JPEM\_\_ article suggest that new systems of intersex nomenclature and taxonomy be developed to completely replace the old “five sex” model. Specifically they suggest that the replacement taxonomic system:  </p>
+The authors of the __JPEM__ article suggest that new systems of intersex nomenclature and taxonomy be developed to completely replace the old “five sex” model. Specifically they suggest that the replacement taxonomic system:  
 
 <ul>
 	<li>should enhance, not complicate, the use of medical informatics in research and clinical practice;</li>
@@ -27,9 +27,9 @@ title: "Getting Rid of Hermaphroditism Once and For All"
 	<li>should make clear that diagnosis does not simply dictate therapy.</li>
 </ul>
 
-<p>The authors end by suggesting that it would be better to use specific etiology-based diagnoses (like <span class="caps">AIS</span>, 5-alpha reductase deficiency, etc.) along with an umbrella term. Which umbrella term? In our travels in the last few months, we notice there seems to be an emerging consensus around using \*\*disorders of sex development\*\*, abbreviated \*\*DSDs\*\*. This seems to be a term that doctors and many patient advocates can agree encompasses all of the conditions we at <span class="caps">ISNA</span> have traditionally labeled <a href="/faq/what_is_intersex">intersex</a>.  </p>
+The authors end by suggesting that it would be better to use specific etiology-based diagnoses (like <span class="caps">AIS</span>, 5-alpha reductase deficiency, etc.) along with an umbrella term. Which umbrella term? In our travels in the last few months, we notice there seems to be an emerging consensus around using \*\*disorders of sex development\*\*, abbreviated \*\*DSDs\*\*. This seems to be a term that doctors and many patient advocates can agree encompasses all of the conditions we at <span class="caps">ISNA</span> have traditionally labeled <a href="/faq/what_is_intersex">intersex</a>.  
 
-<p>For the full article, see:  <br />
-Dreger AD, Chase C, Sousa A, Gruppuso PA, Frader, J. &#8220;Changing the Nomenclature/Taxonomy for Intersex: A Scientific and Clinical Rationale.&#8221; \_\_J Pediatric Endocrinol Metab\_\_. 2005 Aug: 18 (8): 729-33.  </p>
+For the full article, see:  <br />
+Dreger AD, Chase C, Sousa A, Gruppuso PA, Frader, J. &#8220;Changing the Nomenclature/Taxonomy for Intersex: A Scientific and Clinical Rationale.&#8221; __J Pediatric Endocrinol Metab__. 2005 Aug: 18 (8): 729-33.  
 
-<p>If your library doesn&#8217;t have this article readily available, request it through their interlibrary loan services. If you still can&#8217;t find it, <a href="/contact/email">contact us</a> and ask for a copy.</p>
+If your library doesn&#8217;t have this article readily available, request it through their interlibrary loan services. If you still can&#8217;t find it, <a href="/contact/email">contact us</a> and ask for a copy.

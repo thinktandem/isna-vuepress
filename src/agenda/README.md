@@ -87,7 +87,7 @@ _Randy Howe, MD_
   
 8. Angier, N. 1997. New Debate Over Surgery on Genitals. New York Times, 13 May, B7.  
   
-9. Murray, J., Intersex conditions, in Woman’s Hour. 2001, BBC: London. Available from [http://www.bbc.co.uk/radio4/womanshour/10\_12\_01/tuesday/info1.shtml][2].  
+9. Murray, J., Intersex conditions, in Woman’s Hour. 2001, BBC: London. Available from [http://www.bbc.co.uk/radio4/womanshour/10_12_01/tuesday/info1.shtml][2].  
   
 10. Corte Constitucional de Colombia, Sentencia T-551/99 [Constitutional Court of Colombia restricts genital surgery on children]. 1999. Available from </colombia/>.  
   
@@ -99,9 +99,9 @@ _Randy Howe, MD_
   
 14. Marion, R., The Curse of the Garcias. Discover, 2000. 21(12): p. 42. Available from <http://www.discover.com/issues/dec-00/departments/featvital/>.  
   
-15. Natarajan, A., Medical Ethics and Truth-Telling in the Case of Androgen Insensitivity Syndrome. Canadian Medical Association Journal, 1996. 154(4): p. 568-570. Available from [http://collection.nlc-bnc.ca/100/201/300/cdn\_medical\_association/cmaj/vol-154/0568e.htm][3].  
+15. Natarajan, A., Medical Ethics and Truth-Telling in the Case of Androgen Insensitivity Syndrome. Canadian Medical Association Journal, 1996. 154(4): p. 568-570. Available from [http://collection.nlc-bnc.ca/100/201/300/cdn_medical_association/cmaj/vol-154/0568e.htm][3].  
   
-16. Kemp, B.D., et al., Sex, Lies and Androgen Insensitivity Syndrome. Canadian Medical Association Journal, 1996. 154(12): p. 1829-1833. Available from  [http://collection.nlc-bnc.ca/100/201/300/cdn\_medical\_association/cmaj/vol-154/1829e.htm][4] .  
+16. Kemp, B.D., et al., Sex, Lies and Androgen Insensitivity Syndrome. Canadian Medical Association Journal, 1996. 154(12): p. 1829-1833. Available from  [http://collection.nlc-bnc.ca/100/201/300/cdn_medical_association/cmaj/vol-154/1829e.htm][4] .  
   
 17. Groveman, S.A. 2001. Lifting the Curse (letter). Discover, March. Available from [/articles/groveman2001][5].  
   
@@ -117,7 +117,7 @@ _Randy Howe, MD_
   
 23. Reiner, W.G., Assignment of sex in neonates with ambiguous genitalia. Current Opinions in Pediatrics, 1999. 11(4): p. 363-5.  
   
-24. Phornphutkul, C., A. Fausto-Sterling, and P.A. Gruppuso, Gender Self-Reassignment in an XY Adolescent Female Born With Ambiguous Genitalia. Pediatrics, 2000. 106(1): p. 135-137. Available from [http://www.findarticles.com/cf\_0/m0950/1\_106/63602518/p1/article.jhtml?term=hermaphroditism][6].  
+24. Phornphutkul, C., A. Fausto-Sterling, and P.A. Gruppuso, Gender Self-Reassignment in an XY Adolescent Female Born With Ambiguous Genitalia. Pediatrics, 2000. 106(1): p. 135-137. Available from [http://www.findarticles.com/cf_0/m0950/1_106/63602518/p1/article.jhtml?term=hermaphroditism][6].  
   
 25. Money, J., H. Devore, and B.F. Norman, Gender identity and gender transposition: Longitudinal outcome study of 32 male hermaphrodites assigned as girls. Journal of Sex and Marital Therapy, 1986. 12(3): p. 165-181.  
   
