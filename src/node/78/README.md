@@ -77,7 +77,7 @@ Below is the list of organizations that have adopted resolutions in support of I
 <img src="/img/arrow-mini.gif" width=16 height=7 alt="* "> [Lambda Letters][8]
 
  [1]: #endorsement
- [2]: dreger-compare.html
+ [2]: /dreger-compare.html
  [3]: mailto:info@isna.org
  [4]: http://www.survivorproject.org/
  [5]: http://www.basicrights.org/

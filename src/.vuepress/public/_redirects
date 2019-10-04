@@ -258,5 +258,5 @@
 /news?from=120   /news/
 /news?from=130   /news/
 /news?from=140   /news/
-
+/node/view/*   /node/:splat
 
