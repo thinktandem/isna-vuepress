@@ -234,3 +234,8 @@
 /node/feed   /
 /books?from=10   /books/
 /books?from=0   /books/
+/about/emeritus?from=0   /about/emeritus/
+/about/emeritus?from=10   /about/emeritus/
+/about/emeritus?from=20   /about/emeritus/
+/about/emeritus?from=30   /about/emeritus/
+/about/emeritus?from=40   /about/emeritus/
