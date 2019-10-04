@@ -20,7 +20,7 @@ title: "Raising Kids in a Third Gender?"
 
 <p><span class="caps">ISNA</span> recognizes that it can be damned hard to be intersexed, or to have an intersexed child. That&#8217;s why we exist. That&#8217;s why we don&#8217;t advocate &#8220;doing nothing.&#8221; What we do advocate is providing parents of intersexed newborns &#8211; and within a couple of years, intersexed children themselves &#8211; honest and accurate information about intersex, psychological counseling by professionals who are not gender-phobic, medical help for any real medical problems, and especially referrals to other people dealing with the same issues. Time and again researchers have found that, no matter what the condition &#8211; being gay, dealing with a serious disease &#8211; peer support, even if informal, saves families and lives&#8230;.  </p>
 
-<p><a href="http://www.isna.org/newsletter/feb2001/feb2001.html#008">Read more about the Top Ten Myths</a>  </p>
+<p><a href="/newsletter/feb2001/feb2001.html#008">Read more about the Top Ten Myths</a>  </p>
 
 <p>Now I have a question for the &#8220;Traditional Values Coalition&#8221;: Is sticking your head in the sand and ignoring the facts of nature (that sex is more than simply dichotomous) a traditional value? I&#8217;m not sure how humans could have advanced so far, scientifically and politically, if it were!  </p>
 

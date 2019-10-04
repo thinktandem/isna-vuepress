@@ -123,7 +123,7 @@ Russo 202.518.5252
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; email <info@isna.org>  
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; visit ISNA's web site at http://www.isna.org  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; visit ISNA's web site at   
   
 &nbsp;  
   

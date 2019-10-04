@@ -146,7 +146,7 @@ alliances with feminist anti-violence activists everywhere.
 We invite you, as individuals and as V-Day organizers, to join our  
 movement to end shame, secrecy, and unwanted genital surgeries on  
 intersex children, as well as all other violence in the society. Read  
-the materials we have on our web site (http://www.isna.org/events/  
+the materials we have on our web site (/events/  
 vday) and participate in V-Day Challenge 2002, our national initiative  
 to make V-Day empowering to all women, including women with intersex  
 conditions. There are many things you can do to help us; here are some  
@@ -159,14 +159,14 @@ at your production of _The Vagina Monologues_, or otherwise make
 it available to everyone who comes to see the play. You can download  
 the handout in PDF (one legal-size paper; Adobe Acrobat Reader 4.0 or  
 higher needed) at the "Power Tools" section of our web site (<a href=  
-"http://www.isna.org/events/vday">http://www.isna.org/events/vday</a>)  
+"/events/vday">/events/vday</a>)  
 or request a hard copy from us.  
 
 
   
 2) Download and/or order educational materials about intersex from  
 ISNA (see the online store at [  
-http://www.isna.org/store/][4]), and use it to educate your campus.  
+/store/][4]), and use it to educate your campus.  
 Write an article about intersex in your newsletter if you have any.  
 
 
@@ -187,7 +187,7 @@ they cause.
 
   
 5) Have your group endorse a resolution in support of the intersex  
-movement. A sample resolution can be found online at <http://www.isna.org/library/resolution.html>  
+movement. A sample resolution can be found online at </library/resolution.html>  
 
 
   
@@ -216,7 +216,7 @@ who have intersex conditions.
   
 You can read more information about intersex, including "monologues"  
 written by women with intersex conditions, at our web site:  
-<http://www.isna.org/events/vday> Please feel free to contact me if you have any questions or comments.  
+</events/vday> Please feel free to contact me if you have any questions or comments.  
 
 
   
@@ -235,4 +235,4 @@ Board Chair, Survivor Project
  [1]: index.html
  [2]: http://www.survivorproject.org/
  [3]: http://mrkh.org/
- [4]: http://www.isna.org/store/
+ [4]: /store/

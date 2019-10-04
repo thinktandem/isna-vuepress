@@ -32,7 +32,7 @@ Cell: 517.410.8963  </p>
 
 <ul>
 	<li>At <a href="http://www.alicedreger.com">www.alicedreger.com</a></li>
-	<li>At <a href="http://www.isna.org/about/dreger">www.isna.org</a></li>
+	<li>At <a href="/about/dreger">www.isna.org</a></li>
 </ul>
 
 
@@ -59,7 +59,7 @@ Cell: 707.481.5307  <br />
 <p>\*Bio\*  </p>
 
 <ul>
-	<li>At <a href="http://www.isna.org/about/chase">www.isna.org</a></li>
+	<li>At <a href="/about/chase">www.isna.org</a></li>
 </ul>
 
 <p>Cheryl is the founder of the modern intersex rights movement, and Executive Director of the Intersex Society of North America. Cheryl&#8217;s legal sex at birth was male, but at age 18 months, doctors removed her clitoris, told her parents to raise her as a girl, and made them promise never to tell her what had happened. Cheryl and Robin were married in San Francisco on February 12, 2004, but their marriage was invalidated by the CA Supreme Court later the same year. If not for the violent, sex change secretly imposed on Cheryl as an infant, Cheryl and Robin&#8217;s marriage would be legally recognized. Robin, a healthcare fraud control consultant, says she will marry Cheryl as many times as it takes until they have legal recognition.  </p>
@@ -80,7 +80,7 @@ Cell: 206.271.1513  <br />
 <p>\*Bio\*  </p>
 
 <ul>
-	<li>At <a href="http://www.isna.org/about/goto">www.isna.org</a></li>
+	<li>At <a href="/about/goto">www.isna.org</a></li>
 </ul>
 
 <p>Jane Goto is <span class="caps">ISNA</span>&#8217;s &#8220;First Responder,&#8221; fielding dozens of inquiries each month through an online helpdesk. Jane was born looking like most other girls, her identity and legal sex are female, and she is married to a man. But because she has complete androgen insensitivity syndrome, her chromosomes are XY and she was born with internal testes. If tests of biological sex are introduced for marriage, Jane&#8217;s marriage might be invalidated, because she is an XY female and her husband is an XY male.  </p>

@@ -86,7 +86,7 @@ Classification: [Bibliographies][31]
 [3]: /bibliographies
 [4]: http://www.dsdguidelines.org/htdocs/clinical/references.html
 [5]: http://www.dsdguidelines.org
-[6]: http://www.isna.org/bibliographies
+[6]: /bibliographies
 [7]: /bibliographies/with_urls
 [8]: /bibliographies
 [9]: /taxonomy/term/7

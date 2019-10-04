@@ -38,7 +38,7 @@ following personal narratives by Marguerite Morris and Angela Moreno:  </p>
 
 
 <p>Morris, Marguerite. 2001. The Missing Vagina Monologue. Sojourner,  <br />
-March. Available from http://www.isna.org/library/missingvagina.html.  </p>
+March. Available from /library/missingvagina.html.  </p>
 
 
 <p>Moreno, Angela. 1999. In Amerika They Call Us Hermaphrodites. In  <br />
@@ -73,7 +73,7 @@ front page about The Vagina Monologues).  </p>
 
 <p>Cheryl Chase  <br />
 Intersex Society of North America  <br />
-http://www.isna.org  </p>
+  </p>
 
 <p>&gt;A conversation with Eve Ensler hosted by Carol Gilligan:  <br />
 &gt;Carol and Eve will discuss <span class="caps">THE</span> <span class="caps">VAGINA</span> <span class="caps">MONOLOGUES</span>, the V-<span class="caps">DAY</span> <span class="caps">MOVEMENT</span>,  <br />

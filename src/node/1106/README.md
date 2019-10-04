@@ -94,7 +94,7 @@ Location:
   
 Indianapolis IN
 
- [1]: http://www.isna.org/about/stone
- [2]: http://www.isna.org/about/speakers/
+ [1]: /about/stone
+ [2]: /about/speakers/
  [3]: http://www.aissgusa.org
  [4]: /about/contact

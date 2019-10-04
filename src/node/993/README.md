@@ -37,5 +37,5 @@ Location:
   
 Muncie, IN
 
- [1]: http://www.isna.org/about/speakers/
+ [1]: /about/speakers/
  [2]: http://www.medhelp.org/www/ais/

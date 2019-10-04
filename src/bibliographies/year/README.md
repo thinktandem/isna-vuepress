@@ -414,7 +414,7 @@ Letellier, P., 2004, May 28. San francisco holds hearing on intersex issue. Plan
   
 
 
-Leonard, A., 2004. Federal judge finds wyoming prison violated constitutional rights of intersexual prisoner. LESBIAN/GAY LAW NOTES. Available from: <http://www.isna.org/drupal/dimarco>.
+Leonard, A., 2004. Federal judge finds wyoming prison violated constitutional rights of intersexual prisoner. LESBIAN/GAY LAW NOTES. Available from: </drupal/dimarco>.
 
   
 
@@ -814,7 +814,7 @@ Conte, F. A., and Grumbach, M. M., 2003. Diagnosis and management of ambiguous e
   
 
 
-Chase, C., 2003. What is the agenda of the intersex patient advocacy movement? The Endocrinologist, 13 (3), 240-242. Available from: <http://www.isna.org/agenda>.
+Chase, C., 2003. What is the agenda of the intersex patient advocacy movement? The Endocrinologist, 13 (3), 240-242. Available from: </agenda>.
 
   
 
@@ -859,7 +859,7 @@ Wilchins, R. A., 2002. A girl's right to choose: Intersex children and parents c
   
 
 
-Whelan, J., 2002. Presentation to robert wood johnson medical school "Sex week". Available from: <http://www.isna.org/library/whelanjan2002.html>.
+Whelan, J., 2002. Presentation to robert wood johnson medical school "Sex week". Available from: </library/whelanjan2002.html>.
 
   
 
@@ -954,7 +954,7 @@ Kelton, S., 2002. Stuck on the horns of a dilemma: The challenge of the shifting
   
 
 
-Keir, J., 2002. Mani’s story. Auckland New Zealand: Greenstone Pictures. Available from: <http://www.isna.org/videos>.
+Keir, J., 2002. Mani’s story. Auckland New Zealand: Greenstone Pictures. Available from: </videos>.
 
   
 
@@ -1009,7 +1009,7 @@ Chase, C., 2002. "Cultural practice" Or "Reconstructive surgery?": U.S. Genital 
   
 
 
-Burton, G. M. 2002. General discussion of legal issues affecting sexual assignment of intersex infants born with ambiguous genitalia. Available from: <http://www.isna.org/library/burton2002.html>.
+Burton, G. M. 2002. General discussion of legal issues affecting sexual assignment of intersex infants born with ambiguous genitalia. Available from: </library/burton2002.html>.
 
   
 
@@ -1074,7 +1074,7 @@ Scheck, A., 2001. Gender assignment: How long should patients wait? Urology Time
   
 
 
-Scannell, K., 2001. Kaiser permanente ethics rounds. 10 (1), 1-8. Available from: <http://www.isna.org/pdf/kaiserethicsrounds.pdf>.
+Scannell, K., 2001. Kaiser permanente ethics rounds. 10 (1), 1-8. Available from: </pdf/kaiserethicsrounds.pdf>.
 
   
 
@@ -1114,7 +1114,7 @@ Intersex conditions, Woman's Hour, 2001. radio broadcast, Directed by Murray, J.
   
 
 
-Morris, M., 2001. The missing vagina monologue. Sojourner, March. Available from: <http://www.isna.org/library/missingvagina.html>.
+Morris, M., 2001. The missing vagina monologue. Sojourner, March. Available from: </library/missingvagina.html>.
 
   
 
@@ -1164,7 +1164,7 @@ Lee, P. A., 2001. Should we change our approach to ambiguous genitalia? The Endo
   
 
 
-Koyama, E., and Weasel, L., 2001. Teaching intersex issues. Petaluma: Intersex Society of North America. Available from: <http://www.isna.org/store/store-teaching.html>.
+Koyama, E., and Weasel, L., 2001. Teaching intersex issues. Petaluma: Intersex Society of North America. Available from: </store/store-teaching.html>.
 
   
 
@@ -1194,7 +1194,7 @@ Groveman, S. A., 2001, March. Lifting the curse (letter). Discover, 22. Availabl
   
 
 
-Groveman, S., 2001. Ethics primer for clinical management of intersex. Ethics Rounds (Kaiser Permanente), 10 (1), 3-5. Available from: <http://www.isna.org/articles/kaiserethicsrounds.pdf>.
+Groveman, S., 2001. Ethics primer for clinical management of intersex. Ethics Rounds (Kaiser Permanente), 10 (1), 3-5. Available from: </articles/kaiserethicsrounds.pdf>.
 
   
 
@@ -1424,7 +1424,7 @@ Nussbaum, E., 2000, January. A question of gender. Discover, 21, 92-99. Availabl
   
 
 
-North American Task Force on Intersex. 2000. North american task force on intersex formed; seeks broad interdisciplinary consensus on treatment (press release). Available from: <http://www.isna.org/pr/pr02-23-00.html>.
+North American Task Force on Intersex. 2000. North american task force on intersex formed; seeks broad interdisciplinary consensus on treatment (press release). Available from: </pr/pr02-23-00.html>.
 
   
 
@@ -1564,7 +1564,7 @@ Genel, M., 2000. Gender verification no more? Medscape Women's Health, 5 (3). Av
   
 
 
-Xxxy, 2000. Directed by Gale, P., and Soomekh, L. Palo Alto. Available from: <http://www.isna.org/videos/xxxy>.
+Xxxy, 2000. Directed by Gale, P., and Soomekh, L. Palo Alto. Available from: </videos/xxxy>.
 
   
 
@@ -2004,12 +2004,12 @@ Del Rossi, C., Attanasio, A., Domenichelli, V., and De Castro, R., 1999. Treatme
   
 
 
-Corte Constitucional De Colombia. 1999. Sentencia t-551/99 [constitutional court of colombia restricts genital surgery on children]. Available from: <http://www.isna.org/colombia/>.
+Corte Constitucional De Colombia. 1999. Sentencia t-551/99 [constitutional court of colombia restricts genital surgery on children]. Available from: </colombia/>.
 
   
 
 
-Corte Constitucional De Colombia. 1999. Sentencia su-337/99 [constitutional court of colombia restricts genital surgery on children]. Available from: <http://www.isna.org/colombia/>.
+Corte Constitucional De Colombia. 1999. Sentencia su-337/99 [constitutional court of colombia restricts genital surgery on children]. Available from: </colombia/>.
 
   
 
@@ -2404,7 +2404,7 @@ Fitch, R., and Denenberg, V., 1998. A role for ovarian hormones in sexual differ
   
 
 
-Dreger, A. D., 1998. "Ambiguous sex" -- or ambivalent medicine? Ethical issues in the medical treatment of intersexuality. Hastings Center Report, 28 (3), 24-35. Available from: <http://www.isna.org/articles/dregerart.html>.
+Dreger, A. D., 1998. "Ambiguous sex" -- or ambivalent medicine? Ethical issues in the medical treatment of intersexuality. Hastings Center Report, 28 (3), 24-35. Available from: </articles/dregerart.html>.
 
   
 
@@ -2924,7 +2924,7 @@ Clarke, A., 1997. Disciplining reproduction: Modernity, the american life scienc
   
 
 
-Chase, C., 1997. Hermaphrodites speak! [video tape (30 minutes)]. San Francisco: Intersex Society of North America. Available from: <http://www.isna.org>.
+Chase, C., 1997. Hermaphrodites speak! [video tape (30 minutes)]. San Francisco: Intersex Society of North America. Available from: <>.
 
   
 
@@ -3004,7 +3004,7 @@ Alexander, T., 1997. Silence=death. Chrysalis (Special Issue on Intersexuality),
   
 
 
-Alexander, T. 1997. The medical management of intersexed children: An analogue for childhood sexual abuse. Available from: <http://www.isna.org/articles/analog.html>.
+Alexander, T. 1997. The medical management of intersexed children: An analogue for childhood sexual abuse. Available from: </articles/analog.html>.
 
   
 
@@ -3159,7 +3159,7 @@ Katz, S., 1996. Re: Medical ethics and truth telling in the case of androgen ins
   
 
 
-Isna. 1996. Http://www.Isna.Org.
+Isna. 1996. .
 
   
 
@@ -4354,7 +4354,7 @@ Gambino, J., Caldwell, B., Dietrich, R., Walot, I., and Kangarloo, H., 1992. Con
   
 
 
-Foley, S., and Morley, G. W., 1992. Care and counseling of the patient with vaginal agenesis. The Female Patient, 17 (October), 73-80. Available from: <http://www.isna.org/articles/foley-morley.html>.
+Foley, S., and Morley, G. W., 1992. Care and counseling of the patient with vaginal agenesis. The Female Patient, 17 (October), 73-80. Available from: </articles/foley-morley.html>.
 
   
 

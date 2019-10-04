@@ -80,7 +80,7 @@ Max Beck&nbsp;&nbsp; 404.523.5792 maxyxo@mindspring.com
 
 Hermaphrodites With Attitude  
   
-http://www.isna.org&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Intersex  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Intersex  
 Society of North America  
   
 http://www.qis.net/~triea&nbsp;  

@@ -16,8 +16,8 @@ David lives in San Francisco with his domestic partner, Peter, whom he met in 19
 
 [1]: /about/emeritus
 [2]: /node/890
-[3]: http://www.isna.org/library/hwa
-[4]: http://www.isna.org/books/chrysalis
-[5]: http://www.isna.org/books/ageofethics
-[6]: http://www.isna.org/videos/sf_hrc_hearing
-[7]: http://www.isna.org/files/SFHRC_Intersex_Report.pdf
+[3]: /library/hwa
+[4]: /books/chrysalis
+[5]: /books/ageofethics
+[6]: /videos/sf_hrc_hearing
+[7]: /files/SFHRC_Intersex_Report.pdf

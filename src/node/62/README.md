@@ -217,7 +217,7 @@ Encounters with Genital Atypicality. Psychoanalytic Psychology
   
 <p class=m2><img src="/img/arrow-mini.gif" width=16 height=7 alt="* ">  
 Whelan, Joan. 2002. Presentation to Robert Wood Johnson Medical  
-School "Sex Week". Available from <http://www.isna.org/library/whelanjan2002.html>.</p>  
+School "Sex Week". Available from </library/whelanjan2002.html>.</p>  
 
 
 ### July 23, 2002
@@ -366,7 +366,7 @@ people.
 <p class=m2> <img src="/img/arrow-mini.gif" width=16 height=7 alt="* ">  
 Foley, Sallie, and George W. Morley. 1992. Care and Counseling  
 of the Patient with Vaginal Agenesis. The Female Patient 17 (October):73-80.  
-Available from [http://www.isna.org/articles/foley-morley.html][31].  
+Available from [/articles/foley-morley.html][31].  
   
   
   

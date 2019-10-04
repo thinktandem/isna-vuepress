@@ -40,4 +40,4 @@ Location:
   
 University of Minnesota, Minneapolis MN
 
- [1]: http://www.isna.org/about/long
+ [1]: /about/long

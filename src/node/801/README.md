@@ -95,13 +95,13 @@ title: "Scientists: Stop Risky Surgeries Now!"
 
 <p>Intersex Society of North America</p>
 
- [1]: http://www.isna.org
+ [1]: 
  [2]: http://www.nytimes.com/aponline/health/AP-Babies-Unclear-Gender.html?ex=1109394000&amp;en=aa22c9abe7ab3427&amp;ei=5070
- [3]: http://www.isna.org/faq/concealment
- [4]: http://www.isna.org/faq/healthy
- [5]: http://www.isna.org/library/law/vilain_aaas_2005
- [6]: http://www.isna.org/library/reinerprecepts
+ [3]: /faq/concealment
+ [4]: /faq/healthy
+ [5]: /library/law/vilain_aaas_2005
+ [6]: /library/reinerprecepts
  [7]: http://www.nctequality.org/
  [8]: http://www.law.csuohio.edu/faculty/becker/
  [9]: http://www.noglstp.org/
- [10]: http://www.isna.org/donate
+ [10]: /donate

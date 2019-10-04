@@ -17,7 +17,7 @@ As part of the &#8220;Gay, Lesbian, Bisexual, Transgender Awareness Month&#8221;
 
 Standard disclaimer: Items posted at the ISNA events site are provided as a public service, and are not necessarily sponsored or endorsed by ISNA. To suggest an event for posting, go to the contact ISNA box on the right side of this screen.
 
- [1]: http://www.isna.org/about/alicedreger
- [2]: http://www.isna.org/about/dreger
- [3]: http://www.isna.org/about/speakers/
+ [1]: /about/alicedreger
+ [2]: /about/dreger
+ [3]: /about/speakers/
  [4]: http://www.nlm.nih.gov/hmd/happening/seminars/seminars_2006.html

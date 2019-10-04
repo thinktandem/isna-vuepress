@@ -23,7 +23,7 @@ Cell: 707.481.5307  <br />
 <p>\*Bio\*  </p>
 
 <ul>
-	<li>At <a href="http://www.isna.org/about/chase">www.isna.org</a></li>
+	<li>At <a href="/about/chase">www.isna.org</a></li>
 </ul>
 
 <p>Cheryl is the founder of the modern intersex rights movement, and Executive Director of the Intersex Society of North America. A scholar as well as a patient advocate, Ms. Chase has by invitation delivered Grand Round presentations at <span class="caps">UCLA</span>, Albert Einstein College of Medicine, Michigan State University, and University of Michigan. Her presentation &#8220;Sexual Ambiguity: The Patient-Centered Approach&#8221; at the 2000 meeting of the Lawson Wilkins Pediatric Endocrine Society is considered an unprecedented patient-led breakthrough in medical reform. Her work has also been published in the \_\_Journal of Urology, Journal of Clinical Ethics,\_\_ and \_\_Pediatric Nursing.\_\_  </p>
@@ -48,7 +48,7 @@ Cell: 517.410.8963  </p>
 
 <ul>
 	<li>At <a href="http://www.alicedreger.com">www.alicedreger.com</a></li>
-	<li>At <a href="http://www.isna.org/about/dreger">www.isna.org</a></li>
+	<li>At <a href="/about/dreger">www.isna.org</a></li>
 </ul>
 
 

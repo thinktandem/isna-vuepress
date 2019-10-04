@@ -25,9 +25,9 @@ title: "General Intersex Information/Groups"
 [3]: /node/524
 [4]: /node/617
 [5]: /node/532
-[6]: http://www.isna.org/pdf/gross1.pdf
-[7]: http://www.isna.org/pdf/gross2.pdf
-[8]: http://www.isna.org/pdf/gross3.pdf
+[6]: /pdf/gross1.pdf
+[7]: /pdf/gross2.pdf
+[8]: /pdf/gross3.pdf
 [9]: /node/525
 [10]: /node/526
 [11]: /node/1115

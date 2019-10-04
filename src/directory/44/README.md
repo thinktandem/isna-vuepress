@@ -25,4 +25,4 @@ title: "Speakers"
 [9]: about/vilain
 [10]: about/long
 [11]: node/feed
-[12]: http://www.isna.org/information.php
+[12]: /information.php

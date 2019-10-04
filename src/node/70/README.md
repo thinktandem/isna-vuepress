@@ -55,7 +55,7 @@ by Cheryl Chase
   
 
 
-The book can be ordered (via amazon.com) at ISNA's web site, http://www.isna.org. Any books you order from  
+The book can be ordered (via amazon.com) at ISNA's web site, . Any books you order from  
 amazon.com after clicking through from isna.org result in payment of a  
   
 commission to ISNA.  

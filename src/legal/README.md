@@ -169,7 +169,7 @@ From the article's conclusion: "Surgeons who perform genetic normalizing surgery
 [24]: /legal
 [25]: /node/824
 [26]: /legal
-[27]: http://www.isna.org/pdf/greenberg2003.pdf
+[27]: /pdf/greenberg2003.pdf
 [28]: /node/673
 [29]: /legal
 [30]: /news

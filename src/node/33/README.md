@@ -102,4 +102,4 @@ please visit its web site at <http://www.survivorproject.org/>
 Founded in 1993, Intersex Society is a 501(c)(3) non-profit  
 organization working to end secrecy, shame and unwanted genital  
 surgeries for children born with atypical sex anatomy. For more  
-information, please visit http://www.isna.org on the web.
+information, please visit  on the web.

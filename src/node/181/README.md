@@ -204,7 +204,7 @@ of the Convention.
 
 More information on the decisions is available in "Colombia High  
 Court Limits Surgery on Intersexed Infants," by Julie Greenberg, Professor  
-of Law at Thomas Jefferson School of Law in San Diego, at http://www.isna.org/Colombia.
+of Law at Thomas Jefferson School of Law in San Diego, at /Colombia.
 
   
   
@@ -230,7 +230,7 @@ of Law at Thomas Jefferson School of Law in San Diego, at http://www.isna.org/Co
 
 ISNA works to create a world free of shame, secrecy, and genital mutilation  
 for people born with atypical sex anatomy. For more information, visit  
-our web site at http://www.isna.org
+our web site at 
 
   
   

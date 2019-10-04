@@ -63,7 +63,7 @@ of the Society for the Scientific Study of Sexuality, San Francisco, 1995.
 That meeting was reported in "Sexual Scientists  
   
 Question Treatment" in ISNA's newsletter Hermaphrodites with Attitude.  
-See http://www.isna.org/HWA/Winter95-96/Winter95-96.html#anchor59692.  
+See /HWA/Winter95-96/Winter95-96.html#anchor59692.  
   
   
 &nbsp;

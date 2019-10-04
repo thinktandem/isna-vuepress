@@ -79,7 +79,7 @@ _Randy Howe, MD_
   
 4. American Academy of Pediatrics Section on Endocrinology and Section on Urology Committee on Genetics, Evaluation of the Newborn With Developmental Anomalies of the External Genitalia. Pediatrics, 2000. 106(01): p. 138-142. Available from <http://www.aap.org/policy/re9958.html>.  
   
-5. Alexander, T., The Medical Management of Intersexed Children: An Analogue for Childhood Sexual Abuse. 1997. Available from <http://www.isna.org/articles/analog.html>.  
+5. Alexander, T., The Medical Management of Intersexed Children: An Analogue for Childhood Sexual Abuse. 1997. Available from </articles/analog.html>.  
   
 6. Money, J. and M. Lamacz, Genital Examination and Exposure Experienced as Nosocomial Sexual Abuse in Childhood. The Journal of Nervous and Mental Disease, 1987. 175(12).  
   
@@ -89,9 +89,9 @@ _Randy Howe, MD_
   
 9. Murray, J., Intersex conditions, in Woman’s Hour. 2001, BBC: London. Available from [http://www.bbc.co.uk/radio4/womanshour/10\_12\_01/tuesday/info1.shtml][2].  
   
-10. Corte Constitucional de Colombia, Sentencia T-551/99 [Constitutional Court of Colombia restricts genital surgery on children]. 1999. Available from <http://www.isna.org/colombia/>.  
+10. Corte Constitucional de Colombia, Sentencia T-551/99 [Constitutional Court of Colombia restricts genital surgery on children]. 1999. Available from </colombia/>.  
   
-11. Corte Constitucional de Colombia, Sentencia SU-337/99 [Constitutional Court of Colombia restricts genital surgery on children]. 1999. Available from <http://www.isna.org/colombia/>.  
+11. Corte Constitucional de Colombia, Sentencia SU-337/99 [Constitutional Court of Colombia restricts genital surgery on children]. 1999. Available from </colombia/>.  
   
 12. Leidolf, E. M., M. Curran, and C. Chase, Survey of mental health services for intersex in pediatric endocrinology fellowship programs (unpublished study). 2001.  
   
@@ -135,7 +135,7 @@ _Randy Howe, MD_
   
 32. Kipnis, K. and M. Diamond, Pediatric ethics and the surgical assignment of sex. Journal of Clinical Ethics, 1998. 9(4): p. 398-410. Available from <http://www.hawaii.edu/PCSS/online_artcls/intersex/ethics.html>.  
   
-33. Dreger, A.D., “Ambiguous Sex” -- or Ambivalent Medicine? Ethical Issues in the Medical Treatment of Intersexuality. Hastings Center Report, 1998. 28(3): p. 24-35. Available from <http://www.isna.org/articles/dregerart.html>.  
+33. Dreger, A.D., “Ambiguous Sex” -- or Ambivalent Medicine? Ethical Issues in the Medical Treatment of Intersexuality. Hastings Center Report, 1998. 28(3): p. 24-35. Available from </articles/dregerart.html>.  
   
 34. Howe, E.G., "Intersexuality: What should careproviders do now?", in Intersex in the Age of Ethics, A.D. Dreger, Editor. 1999, University Publishing Group: Hagerstown Maryland. p. 211-223.
 

@@ -72,7 +72,7 @@ Founded in 1993 by Cheryl
 Chase, Intersex Society of North America is a 501c3 non-profit  
 organization dedicated to ending shame, secrecy and unwanted genital  
 surgeries on intersex children. For more information about intersex  
-or ISNA, please visit http://www.isna.org/ on the web.  
+or ISNA, please visit / on the web.  
 
 
   

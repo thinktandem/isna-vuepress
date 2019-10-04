@@ -31,6 +31,6 @@ The publications are available for free download from <http://www.dsdguidelines.
 Standard disclaimer: Items posted at the ISNA events site are provided as a public service, and are not necessarily sponsored or endorsed by ISNA. To suggest an event for posting, go to the contact ISNA box at the upper right side of this screen.
 
  [1]: /about/dreger
- [2]: http://www.isna.org/about/goto
+ [2]: /about/goto
  [3]: http://www.calendow.org
  [4]: http://www.arcusfoundation.org

@@ -54,4 +54,4 @@ The article can be [downloaded][1].
 <p class=m2>&nbsp;  
 </p>
 
- [1]: http://www.isna.org/pdf/Doctor%27s_Orders_Feder2002.pdf
+ [1]: /pdf/Doctor%27s_Orders_Feder2002.pdf

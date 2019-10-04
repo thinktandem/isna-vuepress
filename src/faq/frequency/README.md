@@ -33,4 +33,4 @@ Total number of people receiving surgery to &#8220;normalize&#8221; genital appe
 
 <p class="footnote" id="fn3720568395d8a20a1577d9-1"><sup>2</sup> Blackless, Melanie, Anthony Charuvastra, Amanda Derryck, Anne Fausto-Sterling, Karl Lauzanne, and Ellen Lee. 2000. <a href="http://bms.brown.edu/faculty/f/afs/dimorphic.pdf">How sexually dimorphic are we? Review and synthesis.</a> \_\_American Journal of Human Biology\_\_ 12:151-166.  </p>
 
-<p>We were recently asked to update these frequency figures, and a lively <a href="http://www.isna.org/node/972">discussion</a> arose between two staff members.</p>
+<p>We were recently asked to update these frequency figures, and a lively <a href="/node/972">discussion</a> arose between two staff members.</p>

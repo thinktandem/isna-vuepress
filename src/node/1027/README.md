@@ -28,4 +28,4 @@ Location:
   
 East Lansing, MI
 
- [1]: http://www.isna.org/about/dreger
+ [1]: /about/dreger

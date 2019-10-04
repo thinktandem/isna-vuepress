@@ -13,4 +13,4 @@ Classification: [Emeritus][1] | [Speakers][2]
 [1]: /about/emeritus
 [2]: /about/speakers
 [3]: /node/1016
-[4]: http://www.isna.org/about/medicalboard/
+[4]: /about/medicalboard/

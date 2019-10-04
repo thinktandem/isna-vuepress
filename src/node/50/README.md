@@ -13,4 +13,4 @@ Doctors think they know what kind of a vagina women should have, and they don't 
 
  [1]: http://www.msmagazine.com/oct00/makingthecut.html
  [2]: http://www.libidomag.com/nakedbrunch/archive/hermaphrodites.html
- [3]: http://www.isna.org/library/missingvagina.html
+ [3]: /library/missingvagina.html

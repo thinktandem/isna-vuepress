@@ -41,5 +41,5 @@ title: "The First World Congress on Hypospadias & Intersex Disorders"
 
  [1]: http://www.ishid.org/
  [2]: http://www.hypospadias-intersex.org
- [3]: http://www.isna.org/about/medicalboard/
+ [3]: /about/medicalboard/
  [4]: /about/contact

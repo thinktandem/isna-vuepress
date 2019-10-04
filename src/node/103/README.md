@@ -62,11 +62,11 @@ Maybe you didn't know. Maybe at NBC it's standard to mock and humiliate groups o
 
   
 You have offended one of your biggest fans. You have the potential to fix it. Please visit the Intersex Society of North America (ISNA)'s website:  
-[http://www.isna.org][1]. While there you can educate yourself and then understand how insensitive this episode was. When the new episodes start showing again, I strongly suggest they air accompanied with a much needed apology to intersex people.  
+[][1]. While there you can educate yourself and then understand how insensitive this episode was. When the new episodes start showing again, I strongly suggest they air accompanied with a much needed apology to intersex people.  
 
 
   
 Devon King  
 </td></table>
 
- [1]: http://www.isna.org/
+ [1]: /

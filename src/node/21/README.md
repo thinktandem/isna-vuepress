@@ -150,4 +150,4 @@ It is now the responsibility, the Judges noted, of public authorities, the medic
 <img src="/img/line-h.gif" width=420 height=4 alt="" align=center>
 
   
-The Intersex Society of North America (ISNA) works to create a world free of shame, secrecy, and genital mutilation for intersex people. For more information, visit our web site at http://www.isna.org
+The Intersex Society of North America (ISNA) works to create a world free of shame, secrecy, and genital mutilation for intersex people. For more information, visit our web site at 

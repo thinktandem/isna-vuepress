@@ -6,7 +6,7 @@ title: "E-News"
 
 <p>\*Hello!\* You&#8217;re receiving this message because sometime in the last few months you requested to get news updates from the Intersex Society of North America (<span class="caps">ISNA</span>).  </p>
 
-<p>First off, we want you to know that we now have our e-news system up and running and you should soon be receiving updates about once per month. Always feel free to visit our website <a href="http://www.isna.org">www.isna.org</a>, widely considered the premiere source worldwide for information about intersex.  </p>
+<p>First off, we want you to know that we now have our e-news system up and running and you should soon be receiving updates about once per month. Always feel free to visit our website <a href="">www.isna.org</a>, widely considered the premiere source worldwide for information about intersex.  </p>
 
 <p>Second, good news: In the months while you weren&#8217;t hearing from us, we were busy transforming <span class="caps">ISNA</span> into a fleet, highly sustainable model. The key feature of this plan has been the elimination of a traditional office space and the move to a state-of-the-art virtual system which allows us to be decentralized.  </p>
 
@@ -28,7 +28,7 @@ title: "E-News"
 
 <p>And <a href="/accomplishments/2004">so much more</a>.  </p>
 
-<p>We look forward to keeping you updated as we do our work. In the meantime, please do consider <a href="http://www.isna.org/donate">donating to support our efforts</a>. The more you donate, the more we can advance our mission: building a world free of shame, secrecy, and unwanted genital surgeries for people born with atypical reproductive anatomeis. Thank you!  </p>
+<p>We look forward to keeping you updated as we do our work. In the meantime, please do consider <a href="/donate">donating to support our efforts</a>. The more you donate, the more we can advance our mission: building a world free of shame, secrecy, and unwanted genital surgeries for people born with atypical reproductive anatomeis. Thank you!  </p>
 
 <p>Cheryl Chase, Executive Director  <br />
 Alice Dreger, Chair of the Board of Directors</p>

@@ -28,4 +28,4 @@ Location:
   
 Pt. Richmond, California
 
- [1]: http://www.isna.org/about/cameron
+ [1]: /about/cameron

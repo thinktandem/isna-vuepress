@@ -86,4 +86,4 @@ title: "DSD Handbooks"
 [8]: /node/853
 [9]: http://www.ishid.org/
 [10]: http://www.hypospadias-intersex.org
-[11]: http://www.isna.org/about/medicalboard/
+[11]: /about/medicalboard/

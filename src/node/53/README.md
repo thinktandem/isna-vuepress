@@ -53,4 +53,4 @@ open house but is interested in learning more about the course.
 Intersex Society of North America is a 501(c)(3) non-profit  
 organization dedicated to ending shame, secrecy and unwanted genital  
 surgeries on intersex children. For more information about ISNA,  
-visit http://www.isna.org on the web.
+visit  on the web.

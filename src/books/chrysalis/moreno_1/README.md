@@ -4,52 +4,52 @@ title: "What dream? (Poem)"
 
 # What dream? (Poem)
 
-<p>\_\_Angela Moreno\_\_  </p>
+_Angela Moreno_
 
-<blockquote>
-	<p>look at the child with the dream in her eyes  <br />
-holding it deep inside her <i>s. mclachlan</i>  </p>
-</blockquote>
+> look at the child with the dream in her eyes  
+> holding it deep inside her _—s. mclachlan_
 
-<p>dream what dream?  </p>
+dream what dream?
 
-<p>the shame-crazed fantasy?  </p>
+the shame-crazed fantasy?
 
-<p>the gut-wrenching, teeth-spewing nightmare?  </p>
+the gut-wrenching, teeth-spewing nightmare?
 
-<p>no dream  </p>
+no dream
 
-<p>no more  </p>
+no more
 
-<p>can&#8217;t afford it  </p>
+can’t afford it
 
-<p>turn it off  </p>
+turn it off
 
-<p>the desire  </p>
+the desire
 
-<p>no desire heat tensing thighs rising  </p>
+no desire heat tensing thighs rising
 
-<p>none of it  </p>
+none of it
 
-<p>you can&#8217;t anymore  </p>
+you can’t anymore
 
-<p>nothing but a crusty blanket of  </p>
+nothing but a crusty blanket of
 
-<p>dried blood  </p>
+dried blood
 
-<p>where they cut you  </p>
+where they cut you
 
-<p>go ahead feel it  </p>
+go ahead feel it
 
-<p>that unfamiliar  </p>
+that unfamiliar
 
-<p>nothingness  </p>
+nothingness
 
-<p>where pulp and lust used to thrive  </p>
+where pulp and lust used to thrive
 
-<blockquote>
-	<p>See also these writings by Angela in this issue of \_\_Chrysalis:\_\_  </p>
-</blockquote>
+> See also these writings by Angela in this issue of _Chrysalis:_  
+>   
+> [In Amerika they call us hermaphrodites][1]  
+> [Letter to my physicians][2]
 
-<p><a href="/books/chrysalis/moreno">In Amerika they call us hermaphrodites</a>  <br />
-<a href="/books/chrysalis/moreno_letter">Letter to my physicians</a></p>
+
+[1]: /books/chrysalis/moreno
+[2]: /books/chrysalis/moreno_letter

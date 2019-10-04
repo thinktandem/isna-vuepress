@@ -62,6 +62,6 @@ Location:
   
 Big Rapids, MI
 
- [1]: http://www.isna.org/about/dreger
+ [1]: /about/dreger
  [2]: http://www.athleticachievement.org/adhof/famers/bios/wyeth.html
  [3]: http://www.shortdwarf.com

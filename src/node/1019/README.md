@@ -28,5 +28,5 @@ Location:
   
 Alexandra, MN
 
- [1]: http://www.isna.org/about/herndon
+ [1]: /about/herndon
  [2]: http://www.ctl.mnscu.edu/facdev/user_eventlist.phpeventtype=discipline_workshop&eid=61

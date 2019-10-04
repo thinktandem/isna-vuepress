@@ -10,9 +10,9 @@ PO Box 43282 Woodstock, Capetown 792 SOUTH AFRICA. See a well done series of thr
 
 
 [1]: /taxonomy/term/9
-[2]: http://www.isna.org/pdf/gross1.pdf
-[3]: http://www.isna.org/pdf/gross2.pdf
-[4]: http://www.isna.org/pdf/gross3.pdf
+[2]: /pdf/gross1.pdf
+[3]: /pdf/gross2.pdf
+[4]: /pdf/gross3.pdf
 
 
 

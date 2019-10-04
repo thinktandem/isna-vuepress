@@ -71,6 +71,30 @@ module.exports = {
           ],
         },
       ],
+      '/columbia/': [
+        {
+          title: "Colombia's Highest Court Restricts Surgery on Intersex Children",
+          path: '/columbia/',
+          children: [
+            '/node/21/',
+            '/node/193/',
+            '/node/97/',
+            '/node/27/',
+            {
+              title: 'Texts of Colombia Decisions',
+              path: '/node/516/',
+              collapsable: true,
+              children: [
+                '/node/166/',
+                '/node/149/',
+                '/node/34/',
+                '/node/126/',
+                '/node/110/',
+              ]
+            },
+          ],
+        },
+      ],
       '/': [
         {
           title: 'FAQ',

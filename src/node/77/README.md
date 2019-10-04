@@ -31,7 +31,7 @@ encourages readers to "pull the report by Diamond and Sigmundson from the
 library; and then download the ISNA's  
   
 recommendations for treatment of intersex infants, along with a complete  
-bibliography on intersexuality, from the Internet (http://www.isna.org)."  
+bibliography on intersexuality, from the Internet ()."  
   
 
 

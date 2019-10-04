@@ -19,11 +19,11 @@ Alice is faculty in the [Medical Humanities and Bioethics Program][10] of the Fe
 [1]: /about/emeritus
 [2]: /node/1060
 [3]: http://www.alicedreger.com
-[4]: http://www.isna.org/about/medicalboard/
+[4]: /about/medicalboard/
 [5]: http://www.dsdguidelines.org
 [6]: http://isna.org/articles/ambivalent_medicine
 [7]: http://www.nytimes.com/library/national/science/072898sci-essay.html
 [8]: http://www.alicedreger.com/reviews/invention
-[9]: http://www.isna.org/books/ageofethics
+[9]: /books/ageofethics
 [10]: http://www.medschool.northwestern.edu/mhb/
 [11]: http://www.alicedreger.com

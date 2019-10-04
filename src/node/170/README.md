@@ -16,6 +16,6 @@ Declared GenderPAC Executive Director, Riki Wilchins, "We hope this resolution s
   
 ISNA Executive Director Cheryl Chase added, "We applaud NOW for taking this important step. We appreciate that NOW has spoken on behalf of girls and women subjected to unnecessary genital surgery, just as they have spoken on behalf of girls in other cultures who are subjected to genital cutting. ISNA's mission is to end the shame and secrecy surrounding intersexuality, and putting a stop to unnecessary genital surgeries regardless of the child's sex is just one piece of that work." "I commend NOW for having listened and acted," said Curtis Hinkle, NOW's Coordinator-Elect for South Carolina. "However, some of us are not girls or boys; we are intersex and are only beginning to have the courage to say it openly."  
   
-Chase added that a recommended sample resolution on intersex rights can be viewed at: <http://www.isna.org/library/resolution.html>.  
+Chase added that a recommended sample resolution on intersex rights can be viewed at: </library/resolution.html>.  
   
 ###

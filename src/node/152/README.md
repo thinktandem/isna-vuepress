@@ -29,7 +29,7 @@ Program Assistant, Intersex Society of North America
 Community Board Chair, Survivor Project  
   
 </p><p class=m2>  
-Web: [http://www.isna.org/events/vday][1]  
+Web: [/events/vday][1]  
   
 Email: <emi@isna.org> (preferred)  
   
@@ -127,7 +127,7 @@ intersex ally - to participate in the V-Day Challenge and to help
 create an inclusive movement that will end violence against all  
 women, including women born with intersex conditions. For more  
 information about the Challenge, visit the V-Day Challenge web site  
-at <http://www.isna.org/events/vday/> or contact Emi Koyama at  
+at </events/vday/> or contact Emi Koyama at  
 emi@isna.org (preferred) or 503-288-3191 (voicemail belonging to  
 Survivor Project, another small non-profit organization for which  
 Koyama is a board member).  

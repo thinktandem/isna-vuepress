@@ -46,4 +46,4 @@ information about MRKH, please visit http://mrkh.org
 Intersex Society of North America is a non-profit organization  
 dedicated to end shame, secrecy and unwanted genital surgeries for  
 babies born with atypical reproductive and sexual anatomy. ISNA can be  
-contacted at info@isna.org or http://www.isna.org
+contacted at info@isna.org or 

@@ -45,7 +45,7 @@ the subject.
   
 
 
-Order from your local bookdealer, or electronically at http://www.isna.org  
+Order from your local bookdealer, or electronically at   
 (in association with amazon.com).  
 
 

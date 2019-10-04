@@ -22,4 +22,4 @@ Location:
   
 San Jose State University
 
- [1]: http://www.isna.org/files/SFHRC_Intersex_Report.pdf
+ [1]: /files/SFHRC_Intersex_Report.pdf

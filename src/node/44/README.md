@@ -51,5 +51,5 @@ You can reach Curtis directly at: chinkle233@aol.com
 Founded in 1993, Intersex Society is a 501(c)(3) non-profit  
 organization working to end secrecy, shame and unwanted genital  
 surgeries for children born with atypical sex anatomy. For more  
-information, please visit http://www.isna.org on the web.  
+information, please visit  on the web.  
 </p>

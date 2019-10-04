@@ -82,7 +82,7 @@ More information on the decisions is available in "Colombia High Court Limits Su
   
 ISNA works to create a world free of shame, secrecy, and genital mutilation  
 for people born with atypical sex anatomy. For more information, visit our  
-web site at http://www.isna.org  
+web site at   
 
 
   

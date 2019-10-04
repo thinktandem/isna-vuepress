@@ -65,7 +65,7 @@ Cheryl Chase
   
 Intersex Society of North America  
   
-http://www.isna.org  
+  
   
 
 

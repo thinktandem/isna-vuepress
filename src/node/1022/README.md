@@ -28,5 +28,5 @@ Location:
   
 Guerneville, CA
 
- [1]: http://www.isna.org/about/cameron
+ [1]: /about/cameron
  [2]: http://www.ericrofes.com/

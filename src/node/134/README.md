@@ -21,7 +21,7 @@ On December 1 of 1996, ISNA News sent out a news item from a Wisconsin newspaper
   
 
 
-Those of you who don't understand what these stories have to do with Rudolph are encouraged to see the story "Case Report" in Hermaphrodites with Attitude, at http://www.isna.org/HWA/Winter94-95/Winter94-95.html.
+Those of you who don't understand what these stories have to do with Rudolph are encouraged to see the story "Case Report" in Hermaphrodites with Attitude, at /HWA/Winter94-95/Winter94-95.html.
 
   
 

@@ -46,5 +46,5 @@ title: "Press Information (San Francisco Human Rights Commission Report)"
 <h3>Suggestions for Writing about Intersex  </h3>
 
 <ul>
-	<li><a href="http://www.isna.org/node/977">click here</a> for suggestions about writing informed and sensitive pieces about intersex and people with intersex conditions.</li>
+	<li><a href="/node/977">click here</a> for suggestions about writing informed and sensitive pieces about intersex and people with intersex conditions.</li>
 </ul>

@@ -28,4 +28,4 @@ Location:
   
 Palo Alto, CA
 
- [1]: http://www.isna.org/about/cameron
+ [1]: /about/cameron
