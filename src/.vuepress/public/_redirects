@@ -229,3 +229,8 @@
 /taxonomy/term/7?from=10    /taxonomy/term/7/
 /taxonomy/term/7?from=20    /taxonomy/term/7/
 /taxonomy/term/7?from=0    /taxonomy/term/7/
+/new/   /
+/new/*   /
+/node/feed   /
+/books?from=10   /books/
+/books?from=0   /books/
