@@ -221,7 +221,6 @@
 /books/age_of_ethics/     /books/ageofethics/
 /node/726/     /faq/conditions/know/
 /lessonsfromtheintersexed/     /books/lessons/
-/library/books/     /books/
 /user/11/     /
 /legal/colombia/     /
 /legal?from=10    /legal/
@@ -275,3 +274,15 @@
 /blog/11?from=10   /blog/11/
 /blog/214?from=0   /blog/214/
 /blog/214?from=10   /blog/214/
+/about/staff/cheryl/*   /about/chase/:splat
+/ageofethics/   /books/ageofethics/
+/board/dreger/   /about/dreger/
+/chrysalis/  /books/chrysalis/
+/discoveryvideo/   /videos/boy_or_girl/
+/medicalboard/   /about/medicalboard/
+/medicalinvention/   /books/medicalinvention/
+/newsletter.html   /library/hwa/
+/newsletter.pdf   /library/hwa/
+/newsletter.gif   /library/hwa/
+/newsletter.jpg   /library/hwa/
+/totalpatientcare/ /videos/total_patient_care/
