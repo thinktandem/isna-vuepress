@@ -7,9 +7,13 @@
         class="home-link"
     >
       <img
-          class="logo"
-          v-if="$site.themeConfig.logo"
+          class="logo desktop"
           :src="$withBase($site.themeConfig.logo)"
+          :alt="$siteTitle"
+      >
+      <img
+          class="logo mobile"
+          :src="$withBase($site.themeConfig.logoMobile)"
           :alt="$siteTitle"
       >
     </router-link>
@@ -93,6 +97,10 @@
       min-width $navbarHeight - 1.4rem
       margin-right 0.8rem
       vertical-align top
+      &.desktop
+        display inline-block
+      &.mobile
+        display: none
     .site-name
       font-size 1.3rem
       font-weight 600
@@ -115,6 +123,11 @@
   @media (max-width: $MQMobile)
     .navbar
       padding-left 4rem
+      .logo
+        &.desktop
+          display none
+        &.mobile
+          display inline-block
       .can-hide
         display none
       .links
@@ -124,4 +137,7 @@
         overflow hidden
         white-space nowrap
         text-overflow ellipsis
+      svg
+        path
+          color: white
 </style>

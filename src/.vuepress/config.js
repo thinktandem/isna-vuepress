@@ -32,6 +32,7 @@ module.exports = {
   },
   themeConfig: {
     logo: '/ISNA-logo.png',
+    logoMobile: '/ISNA-logo-mobile.png',
     nav: [
       {text: 'faq', link: '/faq/'},
       {text: 'support groups', link: '/support/'},
