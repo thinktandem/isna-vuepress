@@ -3,7 +3,6 @@ module.exports = {
   description: '',
   head: [
     ['link', {rel: 'icon', href: '/favicon.ico'}],
-    ['link', {rel: 'stylesheet', href: '/styles/overrides.css'}],
   ],
   plugins: {
     '@vuepress/google-analytics': {
