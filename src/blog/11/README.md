@@ -43,7 +43,7 @@ Submitted by Cheryl Chase on Mon, 01/17/2005 - 10:56.
 
 Classification: [News][11] | [Recent Publications][12]
 
-Haas, Kate. 2004. Who Will Make Room for the Intersexed? American Society of Law, Medicine, and Ethics 30 (1):41-68. Available from [http://www.cirp.org/library/legal/USA/haas1/][13].
+Haas, Kate. 2004. Who Will Make Room for the Intersexed? American Society of Law, Medicine, and Ethics 30 (1):41-68. Available from [https://www.cirp.org/library/legal/USA/haas1/][13].
 
 [Former Hopkins Psychiatry Director Condemns Sex Reassignments][14]
 -------------------------------------------------------------------
@@ -121,7 +121,7 @@ Submitted by Cheryl Chase on Tue, 09/14/2004 - 10:59.
 
 Classification: [Books][32] | [Recent Publications][33] | [What We're Reading][34]
 
-[![cover of Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach](http://ec1.images-amazon.com/images/P/0521809614.01._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_AA240_SH20_SCLZZZZZZZ_.jpg)][35]
+[![cover of Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach](https://ec1.images-amazon.com/images/P/0521809614.01._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_AA240_SH20_SCLZZZZZZZ_.jpg)][35]
 
 **Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach.** Essentially an intersex textbook with a significant emphasis on psychological care (and on issues such as psychological support) with chapters by clinical psychologists like Lih-Mei Liao, Julie Alderson and Polly Carmichael.
 
@@ -160,7 +160,7 @@ Classification: [Recent Publications][44]
 
 Seven Oaks Magazine [interviewed][45] ISNA's board chair Alice Dreger earlier this month.
 
-Hui, Stephen. 2004. SEVEN QUESTIONS: Alice Dreger. Seven Oaks, June 7. Available from [http://www.sevenoaksmag.com/questions/16.html][46].
+Hui, Stephen. 2004. SEVEN QUESTIONS: Alice Dreger. Seven Oaks, June 7. Available from [https://www.sevenoaksmag.com/questions/16.html][46].
 
 [Letter to The Sciences RE: The Five Sexes][47]
 -----------------------------------------------
@@ -183,7 +183,7 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [10]: /node/680
 [11]: /news
 [12]: /library/recentpublications
-[13]: http://www.cirp.org/library/legal/USA/haas1/
+[13]: https://www.cirp.org/library/legal/USA/haas1/
 [14]: /node/674
 [15]: /news
 [16]: /library/recentpublications
@@ -191,22 +191,22 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [18]: /legal
 [19]: /news
 [20]: /library/recentpublications
-[21]: http://www.casperstartribune.net/articles/2004/12/08/news/wyoming/02d16668d80bb25687256eaa005c2df6.txt
+[21]: https://www.casperstartribune.net/articles/2004/12/08/news/wyoming/02d16668d80bb25687256eaa005c2df6.txt
 [22]: /node/669
 [23]: /news
 [24]: /node/667
-[25]: http://www.stayfreemagazine.org/public/nyt_vaginal_surgery.html
-[26]: http://www.cosmeticsurgery2.com/cs-female1.htm
+[25]: https://www.stayfreemagazine.org/public/nyt_vaginal_surgery.html
+[26]: https://www.cosmeticsurgery2.com/cs-female1.htm
 [27]: /node/662
 [28]: /news
 [29]: /library/recentpublications
-[30]: http://www.washingtonsquarenews.com/features/citylife/8080.html
+[30]: https://www.washingtonsquarenews.com/features/citylife/8080.html
 [31]: /books/pagma
 [32]: /books
 [33]: /library/recentpublications
 [34]: /what_we_are_reading
-[35]: http://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
-[36]: http://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
+[35]: https://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
+[36]: https://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
 [37]: /agenda
 [38]: /about
 [39]: /library/recentpublications
@@ -215,6 +215,6 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [42]: /legal
 [43]: /node/611
 [44]: /library/recentpublications
-[45]: http://www.sevenoaksmag.com/questions/16.html
-[46]: http://www.sevenoaksmag.com/questions/16.html
+[45]: https://www.sevenoaksmag.com/questions/16.html
+[46]: https://www.sevenoaksmag.com/questions/16.html
 [47]: /articles/chase1995a

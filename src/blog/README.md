@@ -41,7 +41,7 @@ Classification: [News][14] | [What We're Reading][15]
 The American College of Obstetricians and Gynecologists (ACOG) is the main professional association for the specialty of obststrics and gynecology. They recently published a paper in the journal _Obstetrics and Gynecology_ condemning the practice of cosmetic gynecologic surgery. This article gives a  
 good discussion of ACOG’s opinion:
 
-[http://www.chicagotribune.com/news/local/chi-cosmetic_31aug31,0,7734462.story?coll=chi-unitednavover-misc][16]
+[https://www.chicagotribune.com/news/local/chi-cosmetic_31aug31,0,7734462.story?coll=chi-unitednavover-misc][16]
 
 [Welcome, Oprah Viewers!][17]
 -----------------------------
@@ -432,7 +432,7 @@ Submitted by [Cheryl Chase][193] on Mon, 01/17/2005 - 10:56.
 
 Classification: [News][194] | [Recent Publications][195]
 
-Haas, Kate. 2004. Who Will Make Room for the Intersexed? American Society of Law, Medicine, and Ethics 30 (1):41-68. Available from [http://www.cirp.org/library/legal/USA/haas1/][196].
+Haas, Kate. 2004. Who Will Make Room for the Intersexed? American Society of Law, Medicine, and Ethics 30 (1):41-68. Available from [https://www.cirp.org/library/legal/USA/haas1/][196].
 
 [Former Hopkins Psychiatry Director Condemns Sex Reassignments][197]
 --------------------------------------------------------------------
@@ -598,7 +598,7 @@ Submitted by [Cheryl Chase][250] on Tue, 09/14/2004 - 10:59.
 
 Classification: [Books][251] | [Recent Publications][252] | [What We're Reading][253]
 
-[![cover of Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach](http://ec1.images-amazon.com/images/P/0521809614.01._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_AA240_SH20_SCLZZZZZZZ_.jpg)][254]
+[![cover of Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach](https://ec1.images-amazon.com/images/P/0521809614.01._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_AA240_SH20_SCLZZZZZZZ_.jpg)][254]
 
 **Paediatric and Adolescent Gynaecology : A Multidisciplinary Approach.** Essentially an intersex textbook with a significant emphasis on psychological care (and on issues such as psychological support) with chapters by clinical psychologists like Lih-Mei Liao, Julie Alderson and Polly Carmichael.
 
@@ -615,7 +615,7 @@ Classification: [Recent Publications][258]
 
 Hester, J. David. 2004. Intersex(es) and alternative strategies of healing. Ethik in der Medizin 16:48-67.  
 ———. 2004. Intersex(es) and informed consent: how physicians' rhetoric constrains choice. Theoretical Medicine 25:21-49.  
-———. 2003. Rhetoric of the medical management of intersexed children. Genders 38. Available from [http://www.genders.org/g38/g38_hester.html][259].
+———. 2003. Rhetoric of the medical management of intersexed children. Genders 38. Available from [https://www.genders.org/g38/g38_hester.html][259].
 
 [A Mother's and Daughter's Experience Rejecting Clitoral Surgery][260]
 ----------------------------------------------------------------------
@@ -692,7 +692,7 @@ Classification: [Recent Publications][286]
 
 Seven Oaks Magazine [interviewed][287] ISNA's board chair Alice Dreger earlier this month.
 
-Hui, Stephen. 2004. SEVEN QUESTIONS: Alice Dreger. Seven Oaks, June 7. Available from [http://www.sevenoaksmag.com/questions/16.html][288].
+Hui, Stephen. 2004. SEVEN QUESTIONS: Alice Dreger. Seven Oaks, June 7. Available from [https://www.sevenoaksmag.com/questions/16.html][288].
 
 [Report on Human Rights Commission Hearing][289]
 ------------------------------------------------
@@ -853,45 +853,45 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [2]: /user/1 "View user profile."
 [3]: /news
 [4]: /what_we_are_reading
-[5]: http://www.madison.com/wsj/home/column/247014
+[5]: https://www.madison.com/wsj/home/column/247014
 [6]: /node/1141
 [7]: /user/1 "View user profile."
 [8]: /news
 [9]: /what_we_are_reading
 [10]: /about/medicalboard
-[11]: http://www.sciam.com/article.cfm?chanID=sa006&articleID=727D7A18-E7F2-99DF-306CFA4718A57613&colID=30
+[11]: https://www.sciam.com/article.cfm?chanID=sa006&articleID=727D7A18-E7F2-99DF-306CFA4718A57613&colID=30
 [12]: /node/1140
 [13]: /user/1 "View user profile."
 [14]: /news
 [15]: /what_we_are_reading
-[16]: http://www.chicagotribune.com/news/local/chi-cosmetic_31aug31,0,7734462.story?coll=chi-unitednavover-misc
+[16]: https://www.chicagotribune.com/news/local/chi-cosmetic_31aug31,0,7734462.story?coll=chi-unitednavover-misc
 [17]: /node/1139
 [18]: /user/1 "View user profile."
-[19]: http://www.oprah.com/tows/pastshows/200709/tows_past_20070921.jhtml
-[20]: http://dsdguidelines.org/
+[19]: https://www.oprah.com/tows/pastshows/200709/tows_past_20070921.jhtml
+[20]: https://dsdguidelines.org/
 [21]: /reading_list
-[22]: http://www.dsdguidelines.org/htdocs/parents/support_groups.html
-[23]: http://www.aissgusa.org
-[24]: http://www.aissg.org
+[22]: https://www.dsdguidelines.org/htdocs/parents/support_groups.html
+[23]: https://www.aissgusa.org
+[24]: https://www.aissg.org
 [25]: /faq
 [26]: /videos
 [27]: /donate
-[28]: http://pediatrics.aappublications.org/cgi/reprint/118/2/e488
-[29]: http://www.dsdguidelines.org/
+[28]: https://pediatrics.aappublications.org/cgi/reprint/118/2/e488
+[29]: https://www.dsdguidelines.org/
 [30]: /donate
-[31]: http://www.oprah.com/community/thread/1545
-[32]: http://www.dsdguidelines.org/htdocs/parents/photos.html
-[33]: http://www.oprah.com/tows/slide/200709/20070921/slide_20070921_350_101.jhtml
-[34]: http://ask.isna.org
+[31]: https://www.oprah.com/community/thread/1545
+[32]: https://www.dsdguidelines.org/htdocs/parents/photos.html
+[33]: https://www.oprah.com/tows/slide/200709/20070921/slide_20070921_350_101.jhtml
+[34]: https://ask.isna.org
 [35]: /node/1112
 [36]: /user/1 "View user profile."
 [37]: /legal
-[38]: http://www.aiclegal.org/
+[38]: https://www.aiclegal.org/
 [39]: /node/1067
 [40]: /user/1 "View user profile."
-[41]: http://dsdguidelines.org/
-[42]: http://dsdguidelines.org/
-[43]: http://dsdguidelines.org/
+[41]: https://dsdguidelines.org/
+[42]: https://dsdguidelines.org/
+[43]: https://dsdguidelines.org/
 [44]: /node/1066
 [45]: /user/1 "View user profile."
 [46]: /node/1063
@@ -899,8 +899,8 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [48]: /teaching_kit
 [49]: /node/1054
 [50]: /user/214 "View user profile."
-[51]: http://www.gustavus.edu/oncampus/diversity/orgs/womyn.cfm "WAC"
-[52]: http://www.gustavus.edu/
+[51]: https://www.gustavus.edu/oncampus/diversity/orgs/womyn.cfm "WAC"
+[52]: https://www.gustavus.edu/
 [53]: /node/1050
 [54]: /user/214 "View user profile."
 [55]: /news
@@ -912,7 +912,7 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [61]: /node/1025
 [62]: /user/1 "View user profile."
 [63]: /what_we_are_reading
-[64]: http://www.urotoday.com/prod/contents/confreport/article.asp?cat=confReport&sid=184&tid=412&aid=3474
+[64]: https://www.urotoday.com/prod/contents/confreport/article.asp?cat=confReport&sid=184&tid=412&aid=3474
 [65]: /node/1024
 [66]: /user/1 "View user profile."
 [67]: /what_we_are_reading
@@ -925,13 +925,13 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [74]: /node/679
 [75]: /user/214 "View user profile."
 [76]: /about/funders
-[77]: http://www.arcusfoundation.org
+[77]: https://www.arcusfoundation.org
 [78]: /faq/not_eradicating_gender
 [79]: /user/214 "View user profile."
 [80]: /node/989
 [81]: /user/214 "View user profile."
 [82]: /library/recentpublications
-[83]: http://www.law.harvard.edu/students/orgs/crcl/vol40_1/
+[83]: https://www.law.harvard.edu/students/orgs/crcl/vol40_1/
 [84]: /node/979
 [85]: /user/214 "View user profile."
 [86]: /news
@@ -960,7 +960,7 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [109]: /user/24 "View user profile."
 [110]: /news
 [111]: /about/chase
-[112]: http://www.ourbodiesourselves.org/
+[112]: https://www.ourbodiesourselves.org/
 [113]: /about/moreno
 [114]: /books/ageofethics
 [115]: /news/homeland_security
@@ -980,16 +980,16 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [129]: /about/chase
 [130]: /faq "Frequently Asked Questions"
 [131]: /search
-[132]: http://www.arcusfoundation.org/pages/home.shtml
-[133]: http://www.gillfoundation.org/
-[134]: http://www.tidesfoundation.org/index_tf.cfm
+[132]: https://www.arcusfoundation.org/pages/home.shtml
+[133]: https://www.gillfoundation.org/
+[134]: https://www.tidesfoundation.org/index_tf.cfm
 [135]: /donate
 [136]: /about/dreger
 [137]: /about/medicalboard/
-[138]: http://www.sexmattersforwomen.com/authors.phtml
+[138]: https://www.sexmattersforwomen.com/authors.phtml
 [139]: /about/staff/
-[140]: http://www.calendow.org/
-[141]: http://www.arcusfoundation.org/pages/home.shtml
+[140]: https://www.calendow.org/
+[141]: https://www.arcusfoundation.org/pages/home.shtml
 [142]: /about/goto
 [143]: /about/contact
 [144]: /about/board
@@ -1006,7 +1006,7 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [155]: /news/brothers
 [156]: /user/24 "View user profile."
 [157]: /news
-[158]: http://seattlepi.nwsource.com/brothers/217988_joyce20.html
+[158]: https://seattlepi.nwsource.com/brothers/217988_joyce20.html
 [159]: /faq/patient-centered
 [160]: /assignment_delayed
 [161]: /user/24 "View user profile."
@@ -1017,8 +1017,8 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [166]: /node/801
 [167]: /user/24 "View user profile."
 [168]: /news
-[169]: http://www.isna.org
-[170]: http://www.nytimes.com/aponline/health/AP-Babies-Unclear-Gender.html?ex=1109394000&en=aa22c9abe7ab3427&ei=5070
+[169]: https://www.isna.org
+[170]: https://www.nytimes.com/aponline/health/AP-Babies-Unclear-Gender.html?ex=1109394000&en=aa22c9abe7ab3427&ei=5070
 [171]: /node/800
 [172]: /user/24 "View user profile."
 [173]: /news
@@ -1033,7 +1033,7 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [182]: /node/768
 [183]: /user/24 "View user profile."
 [184]: /news
-[185]: http://www.theage.com.au/articles/2005/01/31/1107020318710.html
+[185]: https://www.theage.com.au/articles/2005/01/31/1107020318710.html
 [186]: /faq/concealment
 [187]: /node/682
 [188]: /user/11 "View user profile."
@@ -1044,7 +1044,7 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [193]: /user/11 "View user profile."
 [194]: /news
 [195]: /library/recentpublications
-[196]: http://www.cirp.org/library/legal/USA/haas1/
+[196]: https://www.cirp.org/library/legal/USA/haas1/
 [197]: /node/674
 [198]: /user/11 "View user profile."
 [199]: /news
@@ -1054,7 +1054,7 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [203]: /legal
 [204]: /news
 [205]: /library/recentpublications
-[206]: http://www.casperstartribune.net/articles/2004/12/08/news/wyoming/02d16668d80bb25687256eaa005c2df6.txt
+[206]: https://www.casperstartribune.net/articles/2004/12/08/news/wyoming/02d16668d80bb25687256eaa005c2df6.txt
 [207]: /node/670
 [208]: /user/24 "View user profile."
 [209]: /news
@@ -1064,8 +1064,8 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [213]: /news
 [214]: /node/667
 [215]: /user/11 "View user profile."
-[216]: http://www.stayfreemagazine.org/public/nyt_vaginal_surgery.html
-[217]: http://www.cosmeticsurgery2.com/cs-female1.htm
+[216]: https://www.stayfreemagazine.org/public/nyt_vaginal_surgery.html
+[217]: https://www.cosmeticsurgery2.com/cs-female1.htm
 [218]: /articles/tips_for_adoptive_parents
 [219]: /user/24 "View user profile."
 [220]: /articles/tips_for_parents
@@ -1074,7 +1074,7 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [223]: /user/11 "View user profile."
 [224]: /news
 [225]: /library/recentpublications
-[226]: http://www.washingtonsquarenews.com/features/citylife/8080.html
+[226]: https://www.washingtonsquarenews.com/features/citylife/8080.html
 [227]: /node/657
 [228]: /user/24 "View user profile."
 [229]: /news
@@ -1089,7 +1089,7 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [238]: /node/646
 [239]: /user/1 "View user profile."
 [240]: /library/recentpublications
-[241]: http://www.soundprint.org/radio/display_show/ID/625/name/Intersex
+[241]: https://www.soundprint.org/radio/display_show/ID/625/name/Intersex
 [242]: /node/641
 [243]: /user/1 "View user profile."
 [244]: /library/recentpublications
@@ -1102,28 +1102,28 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [251]: /books
 [252]: /library/recentpublications
 [253]: /what_we_are_reading
-[254]: http://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
-[255]: http://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
+[254]: https://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
+[255]: https://www.amazon.com/exec/obidos/ASIN/0521809614/intersexsocietyo
 [256]: /node/637
 [257]: /user/1 "View user profile."
 [258]: /library/recentpublications
-[259]: http://www.genders.org/g38/g38_hester.html
+[259]: https://www.genders.org/g38/g38_hester.html
 [260]: /node/633
 [261]: /user/24 "View user profile."
 [262]: /articles/tips_for_parents
 [263]: /user/1 "View user profile."
-[264]: http://www.dsdguidelines.org
+[264]: https://www.dsdguidelines.org
 [265]: /accomplishments/2004
 [266]: /user/24 "View user profile."
 [267]: /news
 [268]: /node/view/580
 [269]: /node/view/578
-[270]: http://slate.msn.com/id/2102006/
+[270]: https://slate.msn.com/id/2102006/
 [271]: /node/view/576
 [272]: /node/625
 [273]: /user/1 "View user profile."
 [274]: /library/recentpublications
-[275]: http://www.bjui.org/93/s3/bju_v93_is3_toc.asp
+[275]: https://www.bjui.org/93/s3/bju_v93_is3_toc.asp
 [276]: /agenda
 [277]: /user/11 "View user profile."
 [278]: /about
@@ -1135,8 +1135,8 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [284]: /node/611
 [285]: /user/11 "View user profile."
 [286]: /library/recentpublications
-[287]: http://www.sevenoaksmag.com/questions/16.html
-[288]: http://www.sevenoaksmag.com/questions/16.html
+[287]: https://www.sevenoaksmag.com/questions/16.html
+[288]: https://www.sevenoaksmag.com/questions/16.html
 [289]: /node/606
 [290]: /user/24 "View user profile."
 [291]: /news
@@ -1144,8 +1144,8 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [293]: /node/598
 [294]: /user/24 "View user profile."
 [295]: /news
-[296]: http://slate.msn.com/id/2101678
-[297]: http://www.pfc.org.uk/news/1998/johnjoan.htm
+[296]: https://slate.msn.com/id/2101678
+[297]: https://www.pfc.org.uk/news/1998/johnjoan.htm
 [298]: /node/594
 [299]: /user/24 "View user profile."
 [300]: /about
@@ -1156,32 +1156,32 @@ As an intersexual I found Anne Fausto-Sterling's "The Five Sexes" \[March/April\
 [305]: /node/592
 [306]: /user/24 "View user profile."
 [307]: /news
-[308]: http://www.greenstonepictures.com
+[308]: https://www.greenstonepictures.com
 [309]: /hermaphroditesspeak
 [310]: /node/573
 [311]: /user/1 "View user profile."
 [312]: /library/recentpublications
-[313]: http://www.sacbee.com/content/lifestyle/story/8971622p-9897782c.html
+[313]: https://www.sacbee.com/content/lifestyle/story/8971622p-9897782c.html
 [314]: /node/572
 [315]: /user/24 "View user profile."
 [316]: /library/recentpublications
-[317]: http://www.theonionavclub.com/savagelove/index.php?issue=4015 
+[317]: https://www.theonionavclub.com/savagelove/index.php?issue=4015 
 [318]: /node/570
 [319]: /user/24 "View user profile."
 [320]: /news
 [321]: /node/565
 [322]: /user/24 "View user profile."
 [323]: /news
-[324]: http://www.traditionalvalues.org/modules.php?name=News&file=print&sid=1502
+[324]: https://www.traditionalvalues.org/modules.php?name=News&file=print&sid=1502
 [325]: /node/564
 [326]: /user/24 "View user profile."
 [327]: /library/recentpublications
 [328]: /about/medicalboard
-[329]: http://content.nejm.org/cgi/content/abstract/350/4/333?fyear=1994&tmonth=Apr&author2=gearhart%2C+j&author1=reiner%2C+w&tyear=2004&hits=20&fmonth=Apr&excludeflag=TWEEK_element&sortspec=Score+desc+PUBDATE_SORTDATE+desc&search_tab=authors&andorexacttitleabs=and&searchtitle=Authors&sendit=GO&andorexactfulltext=and&searchid=1081207688152_68&FIRSTINDEX=0&journalcode=nejm
+[329]: https://content.nejm.org/cgi/content/abstract/350/4/333?fyear=1994&tmonth=Apr&author2=gearhart%2C+j&author1=reiner%2C+w&tyear=2004&hits=20&fmonth=Apr&excludeflag=TWEEK_element&sortspec=Score+desc+PUBDATE_SORTDATE+desc&search_tab=authors&andorexacttitleabs=and&searchtitle=Authors&sendit=GO&andorexactfulltext=and&searchid=1081207688152_68&FIRSTINDEX=0&journalcode=nejm
 [330]: /node/562
 [331]: /user/24 "View user profile."
 [332]: /news
-[333]: http://www.cleftpalate-craniofacial.org/
+[333]: https://www.cleftpalate-craniofacial.org/
 [334]: /node/501
 [335]: /user/1 "View user profile."
 [336]: /news
