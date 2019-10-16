@@ -15,7 +15,3 @@ Rohnert Park CA 94928  </p>
 <h3>Fax  </h3>
 
 <p>(801) 348-5350  </p>
-
-<h3>Purchase <span class="caps">DVD</span>s  </h3>
-
-<p>If you are looking to purchase a <span class="caps">DVD</span>, <a href="/videos/purchase">click here</a> for instructions on where to mail your check or institutional purchase order.</p>

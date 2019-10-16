@@ -43,9 +43,6 @@ Rohnert Park CA 94928
 
 (801) 348-5350
 
-### Purchase DVDs
-
-If you are looking to purchase a DVD, [click here][9] for instructions on where to mail your check or institutional purchase order.
 
 [Disclaimer][10]
 ----------------
@@ -98,7 +95,6 @@ Today, almost a decade after the Intersex Society of North America was founded, 
 [6]: /about/staff
 [7]: /about/contact
 [8]: /about
-[9]: /videos/purchase
 [10]: /disclaimer
 [11]: /about
 [12]: /node/594

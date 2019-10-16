@@ -31,8 +31,6 @@ Imagine growing up knowing you were different, not quite knowing why and feeling
 
 See the [review in _Journal of Sex Research_][10].  
 
-You can request a copy as a thank you gift when you [make a donation][11]. It is also available for [purchase][12].
-
 Chase, Cheryl. 1997. Hermaphrodites Speak! Rohnert Park: Intersex Society of North America. video tape (30 minutes).
 
 ## [Is it a Boy or a Girl? (Discovery Channel)][13]
@@ -44,8 +42,6 @@ Classification: [Videos][14]
 From the moment of birth, everybody wants to know is it a boy or a girl? This question can be complicated when a third option is introduced; one out of every two thousand children in America is born intersexual. Sometimes biology malfunctions and children are born with mixed sexual characteristics, in what is called an intersexual birth.
 
 Many argue that the standard practice of sexual assignment by surgery in infancy should be discontinued giving the intersexual the right to chose or not to chose surgery once that person reaches adolescence. But whatever the surgical choice, intersexuals show us that gender is infinitely more complex than shape of our genitals.
-
-You can request a copy as a thank you gift when you [make a donation][15]. It is also available for [purchase][16].
 
 Phyllis. Ward. 2000. Is it a Boy or a Girl? Great Falls VA: Discovery Channel. Cable broadcast. Broadcast March 26.
 
@@ -59,8 +55,6 @@ A documentary film that traces the life of the intersex activist Mani Mitchell (
 
   
 Mani herself says about the film: “I was asked to make this documentary after a TV researcher learned of my proposed trip to America to attend the annual GLBT Creating Change Conference in Milwaukee 2001… I agreed to do this as a queer identified intersex person who believes with passion about creating change. Creating a world where it will be safe, a world that respects and enjoys ALL who are different. I thought the documentary would be an easy process… It was not. It became probably the most challenging, powerful, unusual and creative task I have ever done outside of a therapeutic setting.”
-
-You can request a copy as a thank you gift when you [make a donation][20]. It is also available for [purchase][21].
 
 ## [Both][22]
 
@@ -101,23 +95,15 @@ This film is not available from ISNA. You can find distribution information from
 [2]: /videos/hermaphrodites_speak
 [3]: /videos/boy_or_girl
 [4]: /videos/mani
-[5]: /videos/purchase
-[6]: /donate
 [7]: /videos/hermaphrodites_speak
 [8]: /videos
 [9]: /donate
 [10]: http://www.findarticles.com/cf_0/m2372/3_37/68273932/p1/article.jhtml?term=hermaphroditism
-[11]: /donate
-[12]: /videos/purchase
 [13]: /videos/boy_or_girl
 [14]: /videos
-[15]: /donate
-[16]: /videos/purchase
 [17]: /videos/mani
 [18]: /videos
 [19]: http://www.greenstonepictures.com
-[20]: /donate
-[21]: /videos/purchase
 [22]: /videos/both
 [23]: /videos
 [24]: /node/32

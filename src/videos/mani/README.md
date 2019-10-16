@@ -11,6 +11,4 @@ A documentary film that traces the life of the intersex activist Mani Mitchell (
 
 <p>Mani herself says about the film: &#8220;I was asked to make this documentary after a TV researcher learned of my proposed trip to America to attend the annual <span class="caps">GLBT</span> Creating Change Conference in Milwaukee 2001&#8230; I agreed to do this as a queer identified intersex person who believes with passion about creating change. Creating a world where it will be safe, a world that respects and enjoys <span class="caps">ALL</span> who are different. I thought the documentary would be an easy process&#8230; It was not. It became probably the most challenging, powerful, unusual and creative task I have ever done outside of a therapeutic setting.&#8221;  </p>
 
-<p>You can request a copy as a thank you gift when you <a href="/donate">make a donation</a>. It is also available for <a href="/videos/purchase">purchase</a>.</p>
-
  [1]: http://www.greenstonepictures.com

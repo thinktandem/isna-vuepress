@@ -10,9 +10,7 @@ Imagine growing up knowing you were different, not quite knowing why and feeling
 
 
 See the <a href="http://www.findarticles.com/cf_0/m2372/3_37/68273932/p1/article.jhtml?term=hermaphroditism">review in __Journal of Sex Research__</a>.  
-
-
-You can request a copy as a thank you gift when you <a href="/donate">make a donation</a>. It is also available for <a href="/videos/purchase">purchase</a>.  
+ 
 
 Chase, Cheryl. 1997. Hermaphrodites Speak! Rohnert Park: Intersex Society of North America. video tape (30 minutes).
 

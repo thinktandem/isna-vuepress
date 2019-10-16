@@ -25,15 +25,6 @@ Although ISNA is closed, the following videos are still available.
 *   [Is It a Boy or a Girl?][6]
 *   [Mani’s Story][7]
 
-Note that we provide videos on DVD only, and in NTSC format only; this is the standard used in North America and in Japan. If you live in a country that uses a different format (PAL or SECAM), you may need special equipment to view an NTSC video.
-
-#### Purchase
-
-You may purchase any of the above videos for $150 (plus sales tax). [Click here][8] for directions.
-
-#### Complimentary Gift with Donation
-
-Individuals may choose any of the above videos as a complimentary gift by [donating][9] $75 or more. (Note that you will be taken to a page where you can make a donation to Accord Alliance.)
 
 [What We're Reading][10]
 ------------------------
@@ -413,8 +404,6 @@ To read the most recent version of [The Missing Vagina Monologue][76] please [cl
 [5]: /videos/hermaphrodites_speak
 [6]: /videos/boy_or_girl
 [7]: /videos/mani
-[8]: /videos/purchase
-[9]: /donate
 [10]: /what_we_are_reading
 [11]: /articles/ambivalent_medicine
 [12]: /taxonomy/term/7

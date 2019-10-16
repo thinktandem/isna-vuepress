@@ -11,6 +11,4 @@ This one-hour documentary was nominated for a <span class="caps">GLAAD</span> aw
 
 <p>Many argue that the standard practice of sexual assignment by surgery in infancy should be discontinued giving the intersexual the right to chose or not to chose surgery once that person reaches adolescence. But whatever the surgical choice, intersexuals show us that gender is infinitely more complex than shape of our genitals.  </p>
 
-<p>You can request a copy as a thank you gift when you <a href="/donate">make a donation</a>. It is also available for <a href="/videos/purchase">purchase</a>.  </p>
-
 <p>Phyllis. Ward. 2000. Is it a Boy or a Girl? Great Falls VA: Discovery Channel. Cable broadcast. Broadcast March 26.</p>
