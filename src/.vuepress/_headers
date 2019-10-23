@@ -1,0 +1,14 @@
+/img/*
+  Cache-Control: public, s-max-age=31536000
+/files/*
+  Cache-Control: public, s-max-age=31536000
+/pdf/*
+  Cache-Control: public, s-max-age=31536000
+/*.css
+  Cache-Control: public, s-max-age=31536000
+/*.js
+  Cache-Control: public, s-max-age=31536000
+/assets/css/*.css
+  Cache-Control: public, s-max-age=31536000
+/assets/js/*.js
+  Cache-Control: public, s-max-age=31536000
