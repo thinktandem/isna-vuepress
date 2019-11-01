@@ -23,6 +23,32 @@ module.exports = {
     },
     'robots': {
       host: 'https://isna.org',
+      policies: [
+        {
+          userAgent: '*',
+          disallow: [
+            '/',
+          ],
+        },
+        {
+          userAgent: 'Googlebot',
+          allow: [
+            '/',
+          ],
+        },
+        {
+          userAgent: 'Slurp',
+          allow: [
+            '/',
+          ],
+        },
+        {
+          userAgent: 'Bingbot',
+          allow: [
+            '/',
+          ],
+        }
+      ]
     },
     'sitemap': {
       hostname: 'https://isna.org',
