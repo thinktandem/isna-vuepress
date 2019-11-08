@@ -8,7 +8,7 @@
   Cache-Control: public, s-max-age=31536000
 /*.js
   Cache-Control: public, s-max-age=31536000
-/assets/css/*.css
+/assets/css/*
   Cache-Control: public, s-max-age=31536000
-/assets/js/*.js
+/assets/js/*
   Cache-Control: public, s-max-age=31536000
