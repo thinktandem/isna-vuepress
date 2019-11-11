@@ -19,7 +19,7 @@ History
 [Videos][4]
 -----------
 
-Although ISNA is closed, the following videos are still available.
+While ISNA was in operation, it distributed these videos.
 
 *   [Hermaphrodites Speak!][5]
 *   [Is It a Boy or a Girl?][6]

@@ -5,7 +5,7 @@ sidebarDepth: 0
 
 # Videos
 
-Although ISNA is closed, the following videos are still available.
+While ISNA was in operation, it distributed these videos.
 
 *   [Hermaphrodites Speak!][2]
 *   [Is It a Boy or a Girl?][3]
